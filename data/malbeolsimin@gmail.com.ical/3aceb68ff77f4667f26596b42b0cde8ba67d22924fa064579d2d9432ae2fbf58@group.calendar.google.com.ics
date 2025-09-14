@@ -1,0 +1,2525 @@
+BEGIN:VCALENDAR
+PRODID:-//Google Inc//Google Calendar 70.9054//EN
+VERSION:2.0
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:세미나_온라인
+X-WR-TIMEZONE:Asia/Seoul
+X-WR-CALDESC:온라인 상으로 진행되는 세미나 일정을 기록하고 있습니다. 확인하는대로 추가하고 있습니다:)
+BEGIN:VTIMEZONE
+TZID:Asia/Seoul
+X-LIC-LOCATION:Asia/Seoul
+BEGIN:STANDARD
+TZOFFSETFROM:+0900
+TZOFFSETTO:+0900
+TZNAME:GMT+9
+DTSTART:19700101T000000
+END:STANDARD
+END:VTIMEZONE
+BEGIN:VEVENT
+DTSTART:20250203T100000Z
+DTEND:20250203T110000Z
+DTSTAMP:20250914T135147Z
+UID:7aamdat0e29tb8qsj4aq68kae6@google.com
+CREATED:20250202T171811Z
+DESCRIPTION:신청링크<br><a href="https://docs.google.com/forms/d/e/1FAIpQLSdr8Z
+ Q0hFm_uKVjPxmqGhhm7BBbK9T9K4R3t-P9HaUD67cKSA/viewform">https://docs.google.
+ com/forms/d/e/1FAIpQLSdr8ZQ0hFm_uKVjPxmqGhhm7BBbK9T9K4R3t-P9HaUD67cKSA/view
+ form</a><br>소개링크<br><a href="https://x.com/GreenPartyK/status/1884061240756
+ 167015?t=cyUitr4BahShf8MXgSIvzQ&amp\;s=19">https://x.com/GreenPartyK/status
+ /1884061240756167015?t=cyUitr4BahShf8MXgSIvzQ&amp\;s=19</a>
+LAST-MODIFIED:20250202T171811Z
+LOCATION:신청 시 링크 추후 발송
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:[세미나] <2025 녹색당 시국집담회 1차> 바로 지금 여기\, 광장의 목소리들-차별과 혐오를 넘어 다시 만들 세계
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20250208T020000Z
+DTEND:20250208T043000Z
+DTSTAMP:20250914T135147Z
+UID:3tmtp2iqrhnh4g27g3m4h0mj66@google.com
+CREATED:20250202T172613Z
+DESCRIPTION:신청링크<br><a href="https://docs.google.com/forms/d/e/1FAIpQLSfrzl
+ yA7-BXCXtwQOsy1VEkN-zjlcbMCAa-bsshKZsxn6PirQ/viewform">https://docs.google.
+ com/forms/d/e/1FAIpQLSfrzlyA7-BXCXtwQOsy1VEkN-zjlcbMCAa-bsshKZsxn6PirQ/view
+ form</a><br>소개링크<br><a href="https://x.com/demlabor1848/status/188151568584
+ 0662961">https://x.com/demlabor1848/status/1881515685840662961</a>
+LAST-MODIFIED:20250202T172613Z
+LOCATION:신청시 링크 추후 공유
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:[세미나] 민주주의와노동연구소 북토크 & 집담회 "남태령X여성X노동자" - '다시 만난 세상'에서\, 광장의 여성과 노동
+ 이 만나!
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20250211T013000Z
+DTEND:20250211T090000Z
+DTSTAMP:20250914T135147Z
+UID:10a77lf94m6338e1558jsmdhvt@google.com
+CLASS:PUBLIC
+CREATED:20250202T173624Z
+DESCRIPTION:(신청링크) \nhttps://docs.google.com/forms/d/e/1FAIpQLSdTNBSy6hklqK
+ pMrz0O1qerpB70zJqN49ZFUxNVWhEj5qo_1w/viewform
+LAST-MODIFIED:20250202T173624Z
+LOCATION:신청 시 링크 추후 제공
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:[세미나] 내란 이후 저항과 연대의 문화정치
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20250213T050000Z
+DTEND:20250213T080000Z
+DTSTAMP:20250914T135147Z
+UID:6ip9l9vcdnuke3tibdejqmb4h7@google.com
+CLASS:PUBLIC
+CREATED:20250209T162604Z
+DESCRIPTION:*길이는 9시 내동지 투쟁정보통 팀원이 임의로 설정한 시간입니다.\n\n사회: 송주명(사회공공연구원\, 전국교수연
+ 구자연대)\n발제:\n- "윤석열 내란세력 전략분석: 윤과 국힘을 중심으로" 하상복 (목포대)\n- "탄핵국면 윤석열 내란지지 극우세력
+ 의 성격\, 그리고 대응과제" 신진욱 (중앙대)\n토론:\n김형철 (성공회대\, 정치학)\n미류 (체제전환운동 공동조직위원장)\n김태환
+ (남성과함께하는페미니즘 운영위원장)\n박중렬(비정규교수노조위원장\, 전국교수연구자연대)\n박철웅(민교협 공동의장\, 전국교수연구자연대)
+ \n\n줌링크: https://kangwon-ac-kr.zoom.us/j/81002308798\n원문 링크: http://m.ppip.
+ or.kr/board_EvYn33/7386
+LAST-MODIFIED:20250209T170856Z
+LOCATION:온라인
+SEQUENCE:2
+STATUS:CONFIRMED
+SUMMARY:[토론회] 윤석열 내란지지 극우세력의 성격과 대응
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20250219T053000Z
+DTEND:20250219T090000Z
+DTSTAMP:20250914T135147Z
+UID:4vi908al16nnfrf4sob6ddjas5@google.com
+CREATED:20250216T080255Z
+DESCRIPTION:현장과 온라인(줌)에서 동시 진행됩니다!<br>신청 링크: <a href="https://www.google.co
+ m/url?q=https://docs.google.com/forms/d/e/1FAIpQLScFMpL7Vkgkqg2Fc9HaXIOXC6J
+ T9yov0klNFjrzm9EDjTnAAA/viewform&amp\;sa=D&amp\;source=calendar&amp\;usd=2&
+ amp\;usg=AOvVaw1LwGzYeaEVkGFGJd9ZBnPM" target="_blank">https://docs.google.
+ com/forms/d/e/1FAIpQLScFMpL7Vkgkqg2Fc9HaXIOXC6JT9yov0klNFjrzm9EDjTnAAA/view
+ form</a><br>원문 링크: <a href="https://www.google.com/url?q=https://x.com/Univ
+ Staf2024/status/1886319614340251721&amp\;sa=D&amp\;source=calendar&amp\;usd
+ =2&amp\;usg=AOvVaw19Wcoc5omV0vieiJlGF9Kw" target="_blank">https://x.com/Uni
+ vStaf2024/status/1886319614340251721</a>
+LAST-MODIFIED:20250216T080255Z
+LOCATION:홍익대학교 대학로캠퍼스\, 대한민국 서울특별시 종로구 대학로 57
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:[세미나] 윤석열 퇴진 대학생 시국 강연 "한국 극우는 어떻게 만들어져 왔는가\, 한국 극우의 특수성"
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20250220T103000Z
+DTEND:20250220T123000Z
+DTSTAMP:20250914T135147Z
+UID:409qhecic38ds5jlj68gsj79eh@google.com
+CLASS:PUBLIC
+CREATED:20250216T080721Z
+DESCRIPTION:참가비 1만원<br>신청링크: <a href="https://docs.google.com/forms/d/1HcZ1
+ oIyJmuoYHUOEydL4OG6vOKIHwj2_E210xYMNNv4/viewform?edit_requested=true">https
+ ://docs.google.com/forms/d/1HcZ1oIyJmuoYHUOEydL4OG6vOKIHwj2_E210xYMNNv4/vie
+ wform?edit_requested=true</a><br>원문링크: <br><a href="https://www.instagram.c
+ om/p/DFmchdyygqJ/?utm_source=ig_web_copy_link">https://www.instagram.com/p/
+ DFmchdyygqJ/?utm_source=ig_web_copy_link</a>
+LAST-MODIFIED:20250216T080721Z
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:[제 2회 이주구금대응네트워크 연속기획강좌] 이민과 이동:다른 시선으로 본 대만의 인권과 경계
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20250220T100000Z
+DTEND:20250220T120000Z
+DTSTAMP:20250914T135147Z
+UID:3t7a1lo7clejdbmuv8k05pdklh@google.com
+CLASS:PUBLIC
+CREATED:20250216T082525Z
+DESCRIPTION:신청링크:<br><a href="https://docs.google.com/forms/d/e/1FAIpQLSdr8
+ ZQ0hFm_uKVjPxmqGhhm7BBbK9T9K4R3t-P9HaUD67cKSA/viewform">https://docs.google
+ .com/forms/d/e/1FAIpQLSdr8ZQ0hFm_uKVjPxmqGhhm7BBbK9T9K4R3t-P9HaUD67cKSA/vie
+ wform</a><br>원문링크:<br><a href="https://x.com/greenpartyk/status/18895434831
+ 63287768?s=46&amp\;t=frFzTWA-mZFwJZsmyf0hhg">https://x.com/greenpartyk/stat
+ us/1889543483163287768?s=46&amp\;t=frFzTWA-mZFwJZsmyf0hhg</a>
+LAST-MODIFIED:20250216T082525Z
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:<2025 녹색당 2차 시국집담회> 바로 지금 여기\, 광장의 목소리들-기후정의로 다시 만들 세계🌈
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20250220T100000Z
+DTEND:20250220T120000Z
+DTSTAMP:20250914T135147Z
+UID:5h24asbr1qm5b5aq4v5fvhovt8@google.com
+CLASS:PUBLIC
+CREATED:20250202T174217Z
+DESCRIPTION:신청링크<br><a href="https://www.google.com/url?q=https://docs.goog
+ le.com/forms/d/1196KxkyRgz4Wtu076HhKlx-Q6FeVXrwibKKv7rqiwSM/viewform?edit_r
+ equested%3Dtrue&amp\;sa=D&amp\;source=calendar&amp\;usd=2&amp\;usg=AOvVaw1O
+ UOnA0xQXfGcdwhIdLEv2" target="_blank">https://docs.google.com/forms/d/1196K
+ xkyRgz4Wtu076HhKlx-Q6FeVXrwibKKv7rqiwSM/viewform?edit_requested=true</a><br
+ >소개링크<br><a href="https://www.google.com/url?q=https://x.com/platformckr/st
+ atus/1885170016775266452?s%3D46%26t%3DfrFzTWA-mZFwJZsmyf0hhg&amp\;sa=D&amp\
+ ;source=calendar&amp\;usd=2&amp\;usg=AOvVaw0u7bBBMcDErpj1fjNNx9nB" target="
+ _blank">https://x.com/platformckr/status/1885170016775266452?s=46&amp\;t=fr
+ FzTWA-mZFwJZsmyf0hhg</a>
+LAST-MODIFIED:20250216T082537Z
+LOCATION:신청 시 링크 추후 공유
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:[세미나] 플씨 페미니즘 공부 모임 - 2025년 2월 <체공녀 연대기> 체공녀 강주룡부터 85호 크레인 위의 김진숙까지
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20250223T050000Z
+DTEND:20250223T070000Z
+DTSTAMP:20250914T135147Z
+UID:465n1ugfsaskvbm8bg9aaapirr@google.com
+CREATED:20250216T085058Z
+DESCRIPTION:신청링크<br><a href="https://www.google.com/url?q=https://docs.goog
+ le.com/forms/d/e/1FAIpQLSfqXNm-nlqujKjVMt89sVJqa5OtcJQjVQmZwMZNdSOkXJ4UkA/v
+ iewform&amp\;sa=D&amp\;source=calendar&amp\;usd=2&amp\;usg=AOvVaw1HMa3vfnyY
+ j6-N4IRLUqKP" target="_blank">https://docs.google.com/forms/d/e/1FAIpQLSfqX
+ Nm-nlqujKjVMt89sVJqa5OtcJQjVQmZwMZNdSOkXJ4UkA/viewform</a><br>원문링크<br><a hr
+ ef="https://www.google.com/url?q=https://x.com/laborpolitics/status/1890958
+ 478098776281&amp\;sa=D&amp\;source=calendar&amp\;usd=2&amp\;usg=AOvVaw2DxlY
+ C2cjSN-VykkKatV5y" target="_blank">https://x.com/laborpolitics/status/18909
+ 58478098776281</a>
+LAST-MODIFIED:20250216T085058Z
+LOCATION:노동정치사람\, 대한민국 서울특별시 은평구 진흥로 143 연세빌딩 5층
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:[세미나] 노동·정치·사람 2025 성평등교육: 차별 없는 병원
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20250223T050000Z
+DTEND:20250223T080000Z
+DTSTAMP:20250914T135147Z
+UID:6e77h45uutacg232i0m4novrqg@google.com
+CREATED:20250216T085952Z
+DESCRIPTION:신청링크<br><a href="https://docs.google.com/forms/d/e/1FAIpQLSd1SA
+ h_q6IJOqCteOv0NxqCZsf5lPnyfGmNLANG8JrkiAf8hQ/viewform">https://docs.google.
+ com/forms/d/e/1FAIpQLSd1SAh_q6IJOqCteOv0NxqCZsf5lPnyfGmNLANG8JrkiAf8hQ/view
+ form</a>
+LAST-MODIFIED:20250216T090040Z
+SEQUENCE:1
+STATUS:CONFIRMED
+SUMMARY:한국사회 대전환 의제 공론화 토론회
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20250220T090000Z
+DTEND:20250220T100000Z
+DTSTAMP:20250914T135147Z
+UID:6mel4hjbj4krqj0iblkp39c348@google.com
+CLASS:PUBLIC
+CREATED:20250217T170807Z
+DESCRIPTION: 주최: <span>사회대전환</span><span>·윤석열정권퇴진 인천운동본부</span><br><span>신청
+ 서: </span><a href="https://docs.google.com/forms/d/1MiCDX6s3N4lH3zqUhF29nCn
+ r2yr2qkqO8CXKoKmope8/viewform?edit_requested=true">https://docs.google.com/
+ forms/d/1MiCDX6s3N4lH3zqUhF29nCnr2yr2qkqO8CXKoKmope8/viewform?edit_requeste
+ d=true</a>
+LAST-MODIFIED:20250217T170844Z
+LOCATION:인천겨레하나(남동구 인주대로 511\, 6층)
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:[세미나] 인천 1·2·30 탄핵집회를 함께한 응원봉 집담회
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20250222T020000Z
+DTEND:20250222T043000Z
+DTSTAMP:20250914T135147Z
+UID:5hgt55isulu1arl28uev0npjo1@google.com
+CLASS:PUBLIC
+CREATED:20250217T162401Z
+DESCRIPTION:주최: <span>2025년 3.8여성파업조직위원회</span><br>신청서: <a href="https://do
+ cs.google.com/forms/d/e/1FAIpQLSekyu799EPpaje40KMLaBUYJ7iIHeOoKVHQgqrHVRnfD
+ B508w/viewform">https://docs.google.com/forms/d/e/1FAIpQLSekyu799EPpaje40KM
+ LaBUYJ7iIHeOoKVHQgqrHVRnfDB508w/viewform</a>
+LAST-MODIFIED:20250217T170904Z
+LOCATION:민주노총 15층 
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:[세미나] “너희는 갈라치지만\, 우리는 단결한다!”  3.8 여성파업 여성/퀴어 노동자 정세 토론회
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20250219T100000Z
+DTEND:20250219T110000Z
+DTSTAMP:20250914T135147Z
+UID:257e2j805454usqndb9jvl2u8j@google.com
+CLASS:PUBLIC
+CREATED:20250217T174141Z
+DESCRIPTION:주최:<br>이재정 (윤퇴청 대표)<br><a href="https://x.com/getoutyoon/status
+ /1891423485785985437">https://x.com/getoutyoon/status/1891423485785985437</
+ a><br>신청:<br><a href="https://docs.google.com/forms/d/e/1FAIpQLSd-O_FAAx-M3
+ GVdr4_pu7u7Gmqd5EV77VilR1CtwSdhJrrBTQ/viewform" target="_blank">https://doc
+ s.google.com/forms/d/e/1FAIpQLSd-O_FAAx-M3GVdr4_pu7u7Gmqd5EV77VilR1CtwSdhJr
+ rBTQ/viewform</a><br>자료집: <br><a href="https://drive.google.com/file/d/1fDq
+ wHHuKLde-ROC0R0A-f0jOn7JY8XHb/view?pli=1" target="_blank">https://drive.goo
+ gle.com/file/d/1fDqwHHuKLde-ROC0R0A-f0jOn7JY8XHb/view?pli=1</a><br><a href=
+ "https://drive.google.com/file/d/1CW4kMBdQXZaciAtmZ3-3fh-naRaEW-Bg/view?usp
+ =drive_link" target="_blank">https://drive.google.com/file/d/1CW4kMBdQXZaci
+ AtmZ3-3fh-naRaEW-Bg/view?usp=drive_link</a>
+LAST-MODIFIED:20250217T174822Z
+LOCATION:온라인\, 줌(Zoom) (줌링크 공유)
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:[토론회] 후속모임\, <1000개의 광장의 목소리\, 함께 읽기>
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20250224T090000Z
+DTEND:20250224T100000Z
+DTSTAMP:20250914T135147Z
+UID:4k3r2cf6bkr0mu1be6ot3u92ht@google.com
+CLASS:PUBLIC
+CREATED:20250220T142159Z
+DESCRIPTION:원본링크 <a href="https://x.com/shoeshinemya/status/188924643747061
+ 3574" target="_blank"></a><a target="_blank" href="https://x.com/shoeshinem
+ ya/status/1889246437470613574">https://x.com/shoeshinemya/status/1889246437
+ 470613574</a><br>신청링크 <a href="https://drive.google.com/file/d/1glMBLozFxfr
+ CufcNeSw3g-L4FWBWV0I8/view?usp=drive_link" class="pastedDriveLink-0">저항시.jp
+ g</a>
+LAST-MODIFIED:20250220T142254Z
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:(서울\, 온라인) 위태로운 시대를 통과하는 중… 2025년\, 저항과 시: 저항시 어떻게 쓸까?
+TRANSP:TRANSPARENT
+ATTACH;FILENAME=저항시.jpg;FMTTYPE=image/jpeg:https://drive.google.com/file/d/
+ 1glMBLozFxfrCufcNeSw3g-L4FWBWV0I8/view?usp=drive_link
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20250228T100000Z
+DTEND:20250228T110000Z
+DTSTAMP:20250914T135147Z
+UID:4ieg63suveg81c33l1vmvk2akg@google.com
+CLASS:PUBLIC
+CREATED:20250222T161147Z
+DESCRIPTION:장소가 2층 플랫폼씨 사무실로 기재됨<br>신청링크 <a href="https://docs.google.com/f
+ orms/d/e/1FAIpQLSczLeEe4jwBN_hGwzC4IUzYbuun5YGpE5DQhG159bplF3jOGA/viewform"
+ >https://docs.google.com/forms/d/e/1FAIpQLSczLeEe4jwBN_hGwzC4IUzYbuun5YGpE5
+ DQhG159bplF3jOGA/viewform</a><br>원본링크 <a href="https://x.com/pps_kr/status/
+ 1892476561565032680?s=46&amp\;t=frFzTWA-mZFwJZsmyf0hhg">https://x.com/pps_k
+ r/status/1892476561565032680?s=46&amp\;t=frFzTWA-mZFwJZsmyf0hhg</a>
+LAST-MODIFIED:20250222T161215Z
+LOCATION:동교로41길\, 대한민국 서울특별시 마포구 동교로41길
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:(서울\, 온라인) 제 14차 팔레스타인 대화모임
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20250227T100000Z
+DTEND:20250227T130000Z
+DTSTAMP:20250914T135147Z
+UID:1nn0q1hdsd2c0i55b8bp0ksv1n@google.com
+CLASS:PUBLIC
+CREATED:20250222T161810Z
+DESCRIPTION:신청링크 <a href="https://docs.google.com/forms/d/e/1FAIpQLSfbDK51R
+ Rr3WCcpzB9sO72zw3_1UXogkxDglHhWqhmA-yiqlw/viewform">https://docs.google.com
+ /forms/d/e/1FAIpQLSfbDK51RRr3WCcpzB9sO72zw3_1UXogkxDglHhWqhmA-yiqlw/viewfor
+ m</a><br>원본링크 <a href="https://t.me/YOONOUT2025/795">https://t.me/YOONOUT20
+ 25/795</a>
+LAST-MODIFIED:20250222T161810Z
+LOCATION:추후 줌 링크 배포
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:(온라인) 온라인 숙의토론 <다시 민주공화국\, 시민이 주인되는 세상>
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20250226T100000Z
+DTEND:20250226T120000Z
+DTSTAMP:20250914T135147Z
+UID:4g6dnaseik7gatgdgv2gt1im9h@google.com
+CLASS:PUBLIC
+CREATED:20250220T142013Z
+DESCRIPTION:<a href="http://bit.ly/peacereading">http://bit.ly/peacereading
+ </a>
+LAST-MODIFIED:20250223T012915Z
+LOCATION:추후 온라인 주소 배포
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:(온라인) 한베평화재단 집담회 판결문으로 정의와 평화를 읽다
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20250227T110000Z
+DTEND:20250227T120000Z
+DTSTAMP:20250914T135147Z
+UID:4ma8pp25hp6p2falpij5hrfvg1@google.com
+CREATED:20250223T134659Z
+DESCRIPTION:<span>📣</span><span>사전 신청 꼭  부탁드립니다.</span>  <br>👩🏻‍🎤안내 <a 
+ dir="ltr" href="https://t.co/MuJZRjAxhp" target="_blank">https://bit.ly/3CW
+ MgTh</a><br><br>원문<br><a href="https://x.com/jeonga152391/status/1893646112
+ 252477817">https://x.com/jeonga152391/status/1893646112252477817</a>
+LAST-MODIFIED:20250223T134758Z
+LOCATION:개별 안내
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:(온라인) 광장과 함께하는 단결페미니즘
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20250304T110000Z
+DTEND:20250304T130000Z
+DTSTAMP:20250914T135147Z
+UID:1cr6cg3kkuh65v7qc3er8u3r37@google.com
+CLASS:PUBLIC
+CREATED:20250302T043134Z
+DESCRIPTION:신청<br><a href="https://docs.google.com/forms/d/e/1FAIpQLSfb8Uoj
+ WBImI8jB-pIdvLRd6hCh42asb9BIxB3UR48_Wy4wpw/viewform">https://docs.google.co
+ m/forms/d/e/1FAIpQLSfb8UojWBImI8jB-pIdvLRd6hCh42asb9BIxB3UR48_Wy4wpw/viewfo
+ rm</a><br>원문<br><a href="https://x.com/demlabor1848/status/1892804711771746
+ 672?s=46&amp\;t=frFzTWA-mZFwJZsmyf0hhg">https://x.com/demlabor1848/status/1
+ 892804711771746672?s=46&amp\;t=frFzTWA-mZFwJZsmyf0hhg</a>
+LAST-MODIFIED:20250302T043134Z
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:[책모임] 대안 이론들의 비판적 독해 ≪좌파 포퓰리즘을 위하여≫
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20250307T110000Z
+DTEND:20250307T140000Z
+DTSTAMP:20250914T135147Z
+UID:2b63da9nju080879prfu373jkk@google.com
+CLASS:PUBLIC
+CREATED:20250304T141711Z
+DESCRIPTION:주최:<br><span>페미위키(</span><a href="https://femiwiki.com/">https:
+ //femiwiki.com</a><span>)</span><br>신청: <a href="https://docs.google.com/fo
+ rms/d/e/1FAIpQLScCCmuNXOXUEY_fvs1_Nd4HDM7v6rwkW78H-e135xubAlbLOQ/viewform">
+ https://docs.google.com/forms/d/e/1FAIpQLScCCmuNXOXUEY_fvs1_Nd4HDM7v6rwkW78
+ H-e135xubAlbLOQ/viewform</a><br><a href="https://x.com/Femiwikidotcome/stat
+ us/1896564794750320793">https://x.com/Femiwikidotcome/status/18965647947503
+ 20793</a><br><a href="https://drive.google.com/file/d/1z7FB10EMpKCqrV1sK2xf
+ Ohz4EtAWku58/view?usp=drive_link" class="pastedDriveLink-0">https://drive.g
+ oogle.com/file/d/1z7FB10EMpKCqrV1sK2xfOhz4EtAWku58/view?usp=drive_link</a>
+LAST-MODIFIED:20250304T143841Z
+LOCATION:온라인 구글미트
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:(온라인)<이것저것 기록하라!> 3.8 여성의날 이브파티 페미위키 에디터톤
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20250306T100000Z
+DTEND:20250306T110000Z
+DTSTAMP:20250914T135147Z
+UID:05sjnrsge5hl1qdb40gek6653h@google.com
+CLASS:PUBLIC
+CREATED:20250305T141841Z
+DESCRIPTION:<a href="https://x.com/yoonoutaction/status/1896837616861159490
+ ">https://x.com/yoonoutaction/status/1896837616861159490</a><br>신청링크:<a hre
+ f="https://docs.google.com/forms/d/1iSmR-ZaBfW06tGrFyL5uLFoKIa2HrVkmoCGub97
+ GDU0/viewform?edit_requested=true">https://docs.google.com/forms/d/1iSmR-Za
+ BfW06tGrFyL5uLFoKIa2HrVkmoCGub97GDU0/viewform?edit_requested=true</a>
+LAST-MODIFIED:20250305T141943Z
+LOCATION:온라인
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:[토론회]기후먹거리\, 평등먹거리\, 살림시대로!
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20250307T100000Z
+DTEND:20250307T110000Z
+DTSTAMP:20250914T135147Z
+UID:0njg0l05s0hgaa3v9rvetulgv4@google.com
+CLASS:PUBLIC
+CREATED:20250306T151228Z
+DESCRIPTION:온라인 동시 진행됩니다.<br>신청<br><a href="https://www.google.com/url?q=ht
+ tps://docs.google.com/forms/d/e/1FAIpQLSceP4Gye856C6LrDPbUzhQ-N0TRaah3aWq5X
+ D3B9OWvsHDuig/viewform&amp\;sa=D&amp\;source=calendar&amp\;usd=2&amp\;usg=A
+ OvVaw3y0C49QX_0FKvxzrjf0wYD" target="_blank">https://docs.google.com/forms/
+ d/e/1FAIpQLSceP4Gye856C6LrDPbUzhQ-N0TRaah3aWq5XD3B9OWvsHDuig/viewform</a><b
+ r>원문<br><a href="https://www.google.com/url?q=https://x.com/platformckr/sta
+ tus/1897124040491589988&amp\;sa=D&amp\;source=calendar&amp\;usd=2&amp\;usg=
+ AOvVaw1d-06CpaOKHfKBKF6cQTSi" target="_blank">https://x.com/platformckr/sta
+ tus/1897124040491589988</a>
+LAST-MODIFIED:20250307T054708Z
+LOCATION:플랫폼C\, 대한민국 서울특별시 마포구 망원동 338-73
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:!!연기되었습니다!! [공론장] 3.8여성의날 전야행사: 광장에 나온 페미-퀴어들의 평등으로 공론장
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20250315T010000Z
+DTEND:20250315T080000Z
+DTSTAMP:20250914T135147Z
+UID:3t9tmkja7bfgnjbm3leplvsj5h@google.com
+CLASS:PUBLIC
+CREATED:20250309T030018Z
+DESCRIPTION:ZOOM 동시 송출(현장 50석 마감시 자동으로 온라인 신청으로 전환)\, 참가비 5000원<br>신청<br><a
+  href="https://docs.google.com/forms/d/e/1FAIpQLSeD4mKTIM82kalx5sPrKCNpDjYq
+ birWCEKC-QH-ir1aGDUHSw/viewform">https://docs.google.com/forms/d/e/1FAIpQLS
+ eD4mKTIM82kalx5sPrKCNpDjYqbirWCEKC-QH-ir1aGDUHSw/viewform</a><br>원문<br><a h
+ ref="https://x.com/namposium/status/1895041143358005399" target="_blank">ht
+ tps://x.com/namposium/status/1895041143358005399</a>
+LAST-MODIFIED:20250309T123902Z
+LOCATION:온라인링크 개별전달
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:(온라인) 2025 남태령 아카이빙 심포지엄: 12.3 비상계엄\, 그리고 '남태령'을 기록하다
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=Asia/Seoul:20250304T200000
+DTEND;TZID=Asia/Seoul:20250304T210000
+RRULE:FREQ=WEEKLY;UNTIL=20250310T145959Z;BYDAY=TU
+DTSTAMP:20250914T135147Z
+UID:59m86oqj1pi7mdo2utadrj78jn@google.com
+CLASS:PUBLIC
+CREATED:20250224T144248Z
+DESCRIPTION:<a href="https://x.com/vodkassian/status/1893917218905198597">h
+ ttps://x.com/vodkassian/status/1893917218905198597</a><br><a href="https://
+ drive.google.com/file/d/17R4NT0lkRkwVkKveOwdFqttLT0HKBiwP/view?usp=drive_li
+ nk" class="pastedDriveLink-0">https://drive.google.com/file/d/17R4NT0lkRkwV
+ kKveOwdFqttLT0HKBiwP/view?usp=drive_link</a>
+LAST-MODIFIED:20250311T071329Z
+LOCATION:온라인 (ZOOM) 교육
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:울산의 파업역사 같이보기
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20250402T093000Z
+DTEND:20250402T103000Z
+DTSTAMP:20250914T135147Z
+UID:4idlfmebd1uhe2821u6el1t93e@google.com
+CLASS:PUBLIC
+CREATED:20250317T084025Z
+DESCRIPTION:강사 : 이민주\, 책 페미사냥 저자 <br><span>장소 : 이화여대 &amp\; 온라인 </span><br>
+ <span>회비 : 서페대연 회원 무료\, </span><span>비회원 5\,000원</span><br><br>참가 신청 링크 :<b
+ r><a href="https://docs.google.com/forms/d/e/1FAIpQLSfauBwNqGjeTxAk544NaiZV
+ MRNBjtmYqJhth8em9P4urL7dsg/viewform">https://docs.google.com/forms/d/e/1FAI
+ pQLSfauBwNqGjeTxAk544NaiZVMRNBjtmYqJhth8em9P4urL7dsg/viewform</a><br><span>
+ <br></span><br><span>원문:</span><br><a href="https://x.com/seoulfemi/status/
+ 1901209706108248328?s=46&amp\;t=frFzTWA-mZFwJZsmyf0hhg">https://x.com/seoul
+ femi/status/1901209706108248328?s=46&amp\;t=frFzTWA-mZFwJZsmyf0hhg</a><span
+ ></span>
+LAST-MODIFIED:20250317T084026Z
+LOCATION:이화여자대학교\, 대한민국 서울특별시 서대문구 이화여대길 52
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:(서울\, 온라인)<페미사냥\, 누가 사냥을 선동하는가?> 2025 4월 서페대연 페미니즘 원데이클래스
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20250323T080000Z
+DTEND:20250323T110000Z
+DTSTAMP:20250914T135147Z
+UID:22k08prc00clqlbc84mbn3b01k@google.com
+CLASS:PUBLIC
+CREATED:20250317T115428Z
+DESCRIPTION:일시 : 17:00 ~ 20:00(줌 연결은 17:00 ~ 19:00)<br>장소 : 또 하나의 문화(서울특별시 
+ 마포구 와우산로 174-5 대재빌라 302)<br>참가신청링크: <br><a href="https://docs.google.com/fo
+ rms/d/e/1FAIpQLSfS6of4DZ_5Yt9JohSsFi85t8RCnBP1nzDZuwbcBCy3bw3Thg/viewform">
+ https://docs.google.com/forms/d/e/1FAIpQLSfS6of4DZ_5Yt9JohSsFi85t8RCnBP1nzD
+ ZuwbcBCy3bw3Thg/viewform</a>
+LAST-MODIFIED:20250319T072501Z
+LOCATION:174-5\, 대한민국 서울특별시 마포구 와우산로 174-5
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:(서울\, 온라인) 또 하나의 문화 월례포럼 페미니즘 정치와 새로운 연대 "대신(代身)하는 몸과 '여성'연대의 정치"
+TRANSP:OPAQUE
+ATTACH;FILENAME=250323대신하는몸과여성연대의정치.png;FMTTYPE=image/png:https://drive.goo
+ gle.com/open?id=1bIH6Z4s-5-LfBixR0LRTimB0hkcrmBcq
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20250328T100000Z
+DTEND:20250328T110000Z
+DTSTAMP:20250914T135147Z
+UID:4ugthmji9iisb2v4bouojrpc0d@google.com
+CLASS:PUBLIC
+CREATED:20250319T091429Z
+DESCRIPTION:장소 : 전국금속노동조합 4층 회의실 3 <span>(서울시 중구 정동길 5 경향신문사 별관)</span><br>
+ &amp\; <span>온라인 줌(참석자에게 링크 개별 발송)</span><br><br>신청링크 :<br><a href="https:/
+ /docs.google.com/forms/d/e/1FAIpQLSc_LLWKZawXP_Qcqkeztmwh6aq_sbZFj13aqsuu4z
+ 3p-h5_zg/viewform">https://docs.google.com/forms/d/e/1FAIpQLSc_LLWKZawXP_Qc
+ qkeztmwh6aq_sbZFj13aqsuu4z3p-h5_zg/viewform</a><br><br>출처 : <a href="https:
+ //x.com/qqdongne/status/1902196304228561054?s=19">https://x.com/qqdongne/st
+ atus/1902196304228561054?s=19</a>
+LAST-MODIFIED:20250319T091429Z
+LOCATION:전국금속노동조합\, 대한민국 서울특별시 중구 정동길 5
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:(서울\, 온라인) 발표회 - 성소수자 노동자의 노동실태 및 정신건강 연구
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20250401T110000Z
+DTEND:20250401T120000Z
+DTSTAMP:20250914T135147Z
+UID:5is6134dcga3tdr85nhr5a1jja@google.com
+CLASS:PUBLIC
+CREATED:20250313T081524Z
+DESCRIPTION:일시 : 4.1.(화) 20:00<br>장소 : Zoom 온라인<br><br>읽을 책 : 낸시 프레이저\, 202
+ 2. &lt\;좌파의 길 - 식인 자본주의에 반대한다&gt\; Cannibal Capitalism: How our System is D
+ evouring Democracy\, Care and the Planet and What We Can Do About It (서해문집\
+ , 2023)<br><br><br>매월 첫째 화요일 밤에 열리는 책 한 권을 같이 읽고 토론하는 공개 줌 세미나<br>신청 세미나 정시
+  전 과정 참여\, 화면 대면 필수<br>당일 오후 Zoom 참여 비번 발송<br><br>신청 링크 : <a href="https://
+ docs.google.com/forms/d/e/1FAIpQLScWkwHPy6_-wHDx3NeiYzZArpmVhp4vqZTaf9SRAz_
+ N8mSgoA/viewform">https://docs.google.com/forms/d/e/1FAIpQLScWkwHPy6_-wHDx3
+ NeiYzZArpmVhp4vqZTaf9SRAz_N8mSgoA/viewform</a><br><br>원본 링크 : <a href="http
+ s://x.com/demlabor1848/status/1900033060357496918?s=46&amp\;t=frFzTWA-mZFwJ
+ Zsmyf0hhg">https://x.com/demlabor1848/status/1900033060357496918?s=46&amp\;
+ t=frFzTWA-mZFwJZsmyf0hhg</a>
+LAST-MODIFIED:20250330T025019Z
+LOCATION:Zoom
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:민책클럽 책읽기 모임 - 대안 이론들의 비판적 독해
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=Asia/Seoul:20250325T200000
+DTEND;TZID=Asia/Seoul:20250325T210000
+RRULE:FREQ=WEEKLY;WKST=SU;UNTIL=20250407T145959Z;INTERVAL=1;BYDAY=TU
+DTSTAMP:20250914T135147Z
+UID:eibf27e03glrf3elvnojrdc309@google.com
+CLASS:PUBLIC
+CREATED:20250224T144248Z
+DESCRIPTION:<a href="https://x.com/vodkassian/status/1893917218905198597">h
+ ttps://x.com/vodkassian/status/1893917218905198597</a><br><a href="https://
+ drive.google.com/file/d/17R4NT0lkRkwVkKveOwdFqttLT0HKBiwP/view?usp=drive_li
+ nk" class="pastedDriveLink-0">https://drive.google.com/file/d/17R4NT0lkRkwV
+ kKveOwdFqttLT0HKBiwP/view?usp=drive_link</a>
+LAST-MODIFIED:20250404T014353Z
+LOCATION:온라인 (ZOOM) 교육
+SEQUENCE:1
+STATUS:CONFIRMED
+SUMMARY:울산의 파업역사 같이보기
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20250409T040000Z
+DTEND:20250409T050000Z
+DTSTAMP:20250914T135147Z
+UID:4o5ih93l7pj5de83t9i33hclf8@google.com
+CLASS:PUBLIC
+CREATED:20250408T131845Z
+DESCRIPTION:*비상행동 유튜브로 생중계됩니다.<br>장소 : 참여연대 아름드리홀 2층<br><span><br></span><b
+ r><span>좌장 : 한상희 참여연대 공동대표</span><br><span>패널 : </span><br><span>유승익 명지대 객원
+ 교수 / 헌법학자</span><br><span>이지현 참여연대 사무처장 / 윤석열즉각퇴진·사회대개혁 비상행동 공동운영위원장</span>
+ <br><span>조영호 서강대 정치외교학 교수</span><br><span>조지훈 민주사회를 위한 변호사모임 사무총장 / 윤석열즉각퇴
+ 진·사회대개혁 비상행동 공동운영위원장</span><br><span><br></span><br><span>출처 : </span><a hr
+ ef="https://x.com/yoonoutaction/status/1909512437025669184?s=46&amp\;t=frFz
+ TWA-mZFwJZsmyf0hhg">https://x.com/yoonoutaction/status/1909512437025669184?
+ s=46&amp\;t=frFzTWA-mZFwJZsmyf0hhg</a>
+LAST-MODIFIED:20250409T015200Z
+LOCATION:참여연대\, 대한민국 서울특별시 종로구 자하문로9길 16
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:내란수괴 윤석열 파면의 의미와 과제 모색 긴급좌담회 - 12.3 내란 종식을 위해 무엇을 해야 하는가
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20250416T103000Z
+DTEND:20250416T113000Z
+DTSTAMP:20250914T135147Z
+UID:0jhhi9ll220gslfmd4bt9vtk9p@google.com
+CLASS:PUBLIC
+CREATED:20250407T045004Z
+DESCRIPTION:장소 : 온라인 Zoom(참가신청 시 문자 안내)<br><br>발표자 : 한준성(강릉원주대 다문화학과)<br><b
+ r>신청링크 : <a href="https://docs.google.com/forms/d/e/1FAIpQLSesyHi-aqvGqcLmr
+ J9cyCziQ6f4oIhXY-XbOQjQltVj-8zqpA/viewform">https://docs.google.com/forms/d
+ /e/1FAIpQLSesyHi-aqvGqcLmrJ9cyCziQ6f4oIhXY-XbOQjQltVj-8zqpA/viewform</a><br
+ ><br>출처 : <a href="https://x.com/kmwustu053/status/1909083905816457490">htt
+ ps://x.com/kmwustu053/status/1909083905816457490</a>
+LAST-MODIFIED:20250409T015237Z
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:(가)사람이 왔다_이주노동자차별철폐네트워크 2차 공부모임 "불법성의 정치와 이민윤리"
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20250410T100000Z
+DTEND:20250410T113000Z
+DTSTAMP:20250914T135147Z
+UID:3ja4qutods9or1d6rni7k0bjrn@google.com
+CLASS:PUBLIC
+CREATED:20250405T154237Z
+DESCRIPTION:줌으로 동시 진행됩니다.<br>참가비: 회원 무료\, 비회원 5천원<br>신청:<br><a href="https:
+ //www.google.com/url?q=https://docs.google.com/forms/d/e/1FAIpQLSfClqOO9Qbr
+ 56rxwkoO4SU-wOfTrZQrxkvDsyxY5opoGuouFA/viewform&amp\;sa=D&amp\;source=calen
+ dar&amp\;usd=2&amp\;usg=AOvVaw0beA06o9RAcrZzmZgHg8CE" target="_blank">https
+ ://docs.google.com/forms/d/e/1FAIpQLSfClqOO9Qbr56rxwkoO4SU-wOfTrZQrxkvDsyxY
+ 5opoGuouFA/viewform</a><br><br>주최: 플랫폼C
+LAST-MODIFIED:20250409T024425Z
+LOCATION:플랫폼C\, 대한민국 서울특별시 마포구 동교로 41 2층
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:[오픈토크] 극우의 무기가 된 '혐중'\, 사회운동은 어떻게 대응해야 하는가
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20250411T100000Z
+DTEND:20250411T110000Z
+DTSTAMP:20250914T135147Z
+UID:45jiffftbf199to3rumfjbnf61@google.com
+CLASS:PUBLIC
+CREATED:20250408T140427Z
+DESCRIPTION:장소 : <span>플랫폼C (망원동 338-73\, 2층)</span><br><span><br></span><b
+ r><span>신청링크 : </span><a href="https://docs.google.com/forms/d/e/1FAIpQLScz
+ LeEe4jwBN_hGwzC4IUzYbuun5YGpE5DQhG159bplF3jOGA/viewform" target="_blank">ht
+ tps://docs.google.com/forms/d/e/1FAIpQLSczLeEe4jwBN_hGwzC4IUzYbuun5YGpE5DQh
+ G159bplF3jOGA/viewform</a><br><span><br></span><br><span>출처 : </span><a hre
+ f="https://x.com/pps_kr/status/1909558323915186539?s=46&t=frFzTWA-mZFwJZsmy
+ f0hhg" target="_blank">https://x.com/pps_kr/status/1909558323915186539?s=46
+ &amp\;t=frFzTWA-mZFwJZsmyf0hhg</a>
+LAST-MODIFIED:20250409T024647Z
+LOCATION:플랫폼C\, 대한민국 서울특별시 마포구 동교로 41 2층
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:[제16차 팔레스타인 대화모임] 유발 하라리와 자유주의적 시온주의자들
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20250417T100000Z
+DTEND:20250417T113000Z
+DTSTAMP:20250914T135147Z
+UID:3760lme66p0lsi815g03666nsc@google.com
+CLASS:PUBLIC
+CREATED:20250405T154407Z
+DESCRIPTION:줌 온라인 동시 진행<br>참가비 없음<br>신청:<br><a href="https://www.google.com
+ /url?q=https://docs.google.com/forms/d/e/1FAIpQLSfClqOO9Qbr56rxwkoO4SU-wOfT
+ rZQrxkvDsyxY5opoGuouFA/viewform&amp\;sa=D&amp\;source=calendar&amp\;usd=2&a
+ mp\;usg=AOvVaw0beA06o9RAcrZzmZgHg8CE" target="_blank">https://docs.google.c
+ om/forms/d/e/1FAIpQLSfClqOO9Qbr56rxwkoO4SU-wOfTrZQrxkvDsyxY5opoGuouFA/viewf
+ orm</a><br>주최: 플랫폼C
+LAST-MODIFIED:20250409T025003Z
+LOCATION:플랫폼C\, 대한민국 서울특별시 마포구 동교로 41 2층
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:[책모임] 혐오와 차별은 어떻게 정치가 되는가: 21세기 극우의 탄생과 현재
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20250429T100000Z
+DTEND:20250429T120000Z
+DTSTAMP:20250914T135147Z
+UID:01boka3c0lobqtj4su0e32gduo@google.com
+CLASS:PUBLIC
+CREATED:20250405T154543Z
+DESCRIPTION:줌 온라인으로 동시 진행됩니다.<br>참가비: 회원 무료\, 비회원 5천원<br>신청:<br><a href="ht
+ tps://www.google.com/url?q=https://docs.google.com/forms/d/e/1FAIpQLSfClqOO
+ 9Qbr56rxwkoO4SU-wOfTrZQrxkvDsyxY5opoGuouFA/viewform&amp\;sa=D&amp\;source=c
+ alendar&amp\;usd=2&amp\;usg=AOvVaw0beA06o9RAcrZzmZgHg8CE" target="_blank">h
+ ttps://docs.google.com/forms/d/e/1FAIpQLSfClqOO9Qbr56rxwkoO4SU-wOfTrZQrxkvD
+ syxY5opoGuouFA/viewform</a><br>주최: 플랫폼C
+LAST-MODIFIED:20250409T025025Z
+LOCATION:플랫폼C\, 대한민국 서울특별시 마포구 동교로 41 2층
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:[월례포럼] 다시 만들 세계 - 광장의 외침이 보여준 우리의 힘
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20250428T103000Z
+DTEND:20250428T113000Z
+DTSTAMP:20250914T135147Z
+UID:7qo9q4mc33vg09di2cigldf9sj@google.com
+CLASS:PUBLIC
+CREATED:20250410T055611Z
+DESCRIPTION:책 : 이현경 &lt\;작업장의 페미니즘&gt\; 책 다 못 읽고 오셔도 저자의 이야기 들어요^^<br>장소 : 
+ 서울근로자건강센터 211호 대회의실 (서울 금천구 가산디지털1로 131  BYC 하이시티 2층 211호 대회의실)<br>온라인 참여 :
+  신청해주신 분들께 줌 주소 전달 에정<br>문의 : 반올림 임다윤 (010-5310-8992) 반도체 노동자의 건강과 인권지킴이 반올
+ 림<br>신청 링크 : <a href="https://docs.google.com/forms/d/e/1FAIpQLSdz7I3dMy7n9
+ Hg-8WDDUQH-G0KLruR4k5XmbN01P1tVGIgLHg/viewform">https://docs.google.com/for
+ ms/d/e/1FAIpQLSdz7I3dMy7n9Hg-8WDDUQH-G0KLruR4k5XmbN01P1tVGIgLHg/viewform</a
+ ><br><br>출처 : <a href="https://x.com/sharpsglory/status/1910205264973988155
+ ?s=46">https://x.com/sharpsglory/status/1910205264973988155?s=46</a>
+LAST-MODIFIED:20250410T055611Z
+LOCATION:서울근로자건강센터/서울직업트라우마센터\, 대한민국 서울특별시 금천구 가산동 가산디지털1로 131
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:<작업장의 페미니즘> 북토크
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20250424T043000Z
+DTEND:20250424T094500Z
+DTSTAMP:20250914T135147Z
+UID:52tr97ftlrpql28p1sg2jkrpr8@google.com
+CLASS:PUBLIC
+CREATED:20250414T051107Z
+DESCRIPTION:장소 : 줌(Zoom) 온라인<br><br>줌 링크 : <a href="https://us02web.zoom.us
+ /j/84749371301?pwd=TEhWemNWSjdCKyszV0xySFRJWDA5Zz09">https://us02web.zoom.u
+ s/j/84749371301?pwd=TEhWemNWSjdCKyszV0xySFRJWDA5Zz09</a><br><br>출처 : <a hre
+ f="https://x.com/jsnqueerkorea/status/1910952366184292390?s=46">https://x.c
+ om/jsnqueerkorea/status/1910952366184292390?s=46</a>
+LAST-MODIFIED:20250414T051107Z
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:제30회 인천대학교 인문학연구소 학술세미나 한국의 퀴어 서사\, 수행\, 담론
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=Asia/Seoul:20250415T200000
+DTEND;TZID=Asia/Seoul:20250415T220000
+RRULE:FREQ=WEEKLY;WKST=SU;UNTIL=20250429T145959Z;BYDAY=TU
+DTSTAMP:20250914T135147Z
+UID:50o4m2247ngsup9u0tb0h0t9tj@google.com
+CLASS:PUBLIC
+CREATED:20250224T144248Z
+DESCRIPTION:신청 링크: <br><a href="https://docs.google.com/forms/d/e/1FAIpQLSd
+ lVrR8BMptCLt84GNKd6dFU6ONhIQ0KO4Wrc2oA0bSz_cb6A/viewform">https://docs.goog
+ le.com/forms/d/e/1FAIpQLSdlVrR8BMptCLt84GNKd6dFU6ONhIQ0KO4Wrc2oA0bSz_cb6A/v
+ iewform</a><br><br>민주노총 총파업에 대한 인지도가 많았던 것을 반영하여 일부 회차의 주제가 변경되었습니다.
+LAST-MODIFIED:20250416T032129Z
+LOCATION:온라인 (ZOOM) 교육
+SEQUENCE:2
+STATUS:CONFIRMED
+SUMMARY:울산의 파업역사 같이보기
+TRANSP:TRANSPARENT
+ATTACH;FILENAME=울산파업역사.jpg;FMTTYPE=image/jpeg:https://drive.google.com/open
+ ?id=19eqRX1vmZHFWRF-uqc6XgMy4AvO65VvG
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=Asia/Seoul:20250421T200000
+DTEND;TZID=Asia/Seoul:20250421T220000
+DTSTAMP:20250914T135147Z
+UID:50o4m2247ngsup9u0tb0h0t9tj@google.com
+RECURRENCE-ID;TZID=Asia/Seoul:20250422T200000
+CLASS:PUBLIC
+CREATED:20250224T144248Z
+DESCRIPTION:신청 링크: <br><a href="https://docs.google.com/forms/d/e/1FAIpQLSd
+ lVrR8BMptCLt84GNKd6dFU6ONhIQ0KO4Wrc2oA0bSz_cb6A/viewform">https://docs.goog
+ le.com/forms/d/e/1FAIpQLSdlVrR8BMptCLt84GNKd6dFU6ONhIQ0KO4Wrc2oA0bSz_cb6A/v
+ iewform</a><br><br>민주노총 총파업에 대한 인지도가 많았던 것을 반영하여 일부 회차의 주제가 변경되었습니다.
+LAST-MODIFIED:20250416T032129Z
+LOCATION:온라인 (ZOOM) 교육
+SEQUENCE:3
+STATUS:CONFIRMED
+SUMMARY:울산의 파업역사 같이보기
+TRANSP:TRANSPARENT
+ATTACH;FILENAME=울산파업역사.jpg;FMTTYPE=image/jpeg:https://drive.google.com/open
+ ?id=19eqRX1vmZHFWRF-uqc6XgMy4AvO65VvG
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20250422T110000Z
+DTEND:20250422T123000Z
+DTSTAMP:20250914T135147Z
+UID:659tc36a7s0t9gkec6v85l8s8o@google.com
+CLASS:PUBLIC
+CREATED:20250421T135707Z
+DESCRIPTION:◉ 2025년 4월 22일(화) <a href="https://x.com/theoldsleeve/status/19
+ 13772574322118673?t=1200">20:00</a>~22:00 <br>◉ 주제: 우리는 왜 새만금신공항 사업을 막아야하는가
+ ? <br>◉ 발표: 김지은 전북녹색연합 사무국장(새만금신공항 백지화공동행동 공동집행위원장) <br>◉ 사회: 오광석 선생님(경남 환생
+ 교) <br><br>접속 링크는 원문을 참고해주시기 바랍니다.<br>원문: <a href="https://x.com/theoldslee
+ ve/status/1913772574322118673">https://x.com/theoldsleeve/status/1913772574
+ 322118673</a>
+LAST-MODIFIED:20250421T135708Z
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:(온라인) 우리는 왜 새만금신공항 사업을 막아야하는가?
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20250430T050000Z
+DTEND:20250430T060000Z
+DTSTAMP:20250914T135147Z
+UID:2e9rjcjrbtm0go9hkfetisgpu5@google.com
+CLASS:PUBLIC
+CREATED:20250429T021305Z
+DESCRIPTION:장소 : 국회의원회관 제2세미나실<br><br>주최: 전국신공항백지화연대 (가덕도신공항반대시민행동\, 경기국제공항
+ 백지화공동행동\, 새만금신공항백지화공동행동\, 제주제2공항강행저지비상도민회의\, 종교환경회의\, 한국환경회의\, 기후위기충남행동)\, 
+ 진보당 윤종오 국회의원\, 조국혁신당 서왕진 국회의원 <br><br>사회: 박찬식(제주제2공항강행저지비상도민회의 공동집행위원장) <br
+ >발제: "신공항은 지역경제를 살릴까?"_구교훈(국제물류사협회 회장) <br>토론: <br> 양준호(인천대학교 경제학과 교수) <br>
+  김상철(공공교통네트워크 정책센터장) <br> 김지은(새만금신공항 백지화공동행동 공동집행위원장)<br><br>출처 : <a href="
+ https://x.com/theoldsleeve/status/1916771213722194231">https://x.com/theold
+ sleeve/status/1916771213722194231</a>
+LAST-MODIFIED:20250429T021305Z
+LOCATION:국회의원회관\, 대한민국 서울특별시 영등포구 의사당대로 1
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:(서울) 신공항은 지역 경제를 살릴까? : 경제성과 산업 측면에서 본 신공항 건설의 문제점
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20250430T110000Z
+DTEND:20250430T130000Z
+DTSTAMP:20250914T135147Z
+UID:1sqluvjrb8qqn3turdpd2msniq@google.com
+CLASS:PUBLIC
+CREATED:20250429T142030Z
+DESCRIPTION:일시 : 4. 30.(수) 20:00 ~ 22:00<br>장소 : 카카오톡 오픈 채팅방<br><br>원본 링크 :
+  <a href="https://x.com/ekctu/status/1917136357694280138?s=46&amp\;t=frFzTW
+ A-mZFwJZsmyf0hhg">https://x.com/ekctu/status/1917136357694280138?s=46&amp\;
+ t=frFzTWA-mZFwJZsmyf0hhg</a>
+LAST-MODIFIED:20250429T142030Z
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:(온라인) "노동"에 할 말 많은 청년들 모여라 노동절 전야
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20250511T060000Z
+DTEND:20250511T080000Z
+DTSTAMP:20250914T135147Z
+UID:380ookvku71nk1vtj2ggtrig4h@google.com
+CLASS:PUBLIC
+CREATED:20250506T032424Z
+DESCRIPTION:장소 : 스페이스엘(서울 중구 동호로 20나길 38-7)<br><br>참가 신청 링크 : <a href="http
+ s://docs.google.com/forms/d/e/1FAIpQLSdCeog7HtZscn-93GFapXEOxt934jb-vElv_On
+ QUUWN9TSdMg/viewform">https://docs.google.com/forms/d/e/1FAIpQLSdCeog7HtZsc
+ n-93GFapXEOxt934jb-vElv_OnQUUWN9TSdMg/viewform</a><br><br>출처 : <a href="htt
+ ps://x.com/qsignstart/status/1918233469555229144?s=46">https://x.com/qsigns
+ tart/status/1918233469555229144?s=46</a>
+LAST-MODIFIED:20250506T032425Z
+LOCATION:서울 중구 동호로 20나길 38-7
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:(서울) 청년성소수자문화연대 큐사인 2025년 5월 월례모임 <그냥\, 가족이야>
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20250511T050000Z
+DTEND:20250511T060000Z
+DTSTAMP:20250914T135147Z
+UID:2su219tt9qr4m5q55l3965dqln@google.com
+CLASS:PUBLIC
+CREATED:20250506T045636Z
+DESCRIPTION:*5.17 당일에는 강남역에서 진행되는 추모행동 유튜브 중계(16:00)\n일시 : 1차 5.11(일) 14:00
+ \, 2차 5.18(일) 19:00\n장소 : 온라인 구글미트\n\n주제 : 5.17 강남역 여성표적 살해사건\, 미아역 여성혐오 살인
+ 사건을 비롯한 젠더폭력 관련 문서 작성(교제폭력\, 딥페이크 범죄 등)\n\n참가 신청 링크 : https://docs.google.c
+ om/forms/d/e/1FAIpQLScYOa487jEkSwUqKwHlWHTso4t-FHwgWmPdqjNMzIUKsVXTlw/viewf
+ orm\n\n출처 : https://x.com/femiwikidotcome/status/1919586434467369435?s=46&t
+ =frFzTWA-mZFwJZsmyf0hhg
+LAST-MODIFIED:20250506T045758Z
+LOCATION:온라인 구글미트
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:(온라인) 5.17기록 에디터톤
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20250518T100000Z
+DTEND:20250518T110000Z
+DTSTAMP:20250914T135147Z
+UID:02ej59e69egl12tul1m1n88am4@google.com
+CLASS:PUBLIC
+CREATED:20250506T045730Z
+DESCRIPTION:*5.17 당일에는 강남역에서 진행되는 추모행동 유튜브 중계(16:00)\n일시 : 1차 5.11(일) 14:00
+ \, 2차 5.18(일) 19:00\n장소 : 온라인 구글미트\n\n주제 : 5.17 강남역 여성표적 살해사건\, 미아역 여성혐오 살인
+ 사건을 비롯한 젠더폭력 관련 문서 작성(교제폭력\, 딥페이크 범죄 등)\n\n참가 신청 링크 : https://docs.google.c
+ om/forms/d/e/1FAIpQLScYOa487jEkSwUqKwHlWHTso4t-FHwgWmPdqjNMzIUKsVXTlw/viewf
+ orm\n\n출처 : https://x.com/femiwikidotcome/status/1919586434467369435?s=46&t
+ =frFzTWA-mZFwJZsmyf0hhg
+LAST-MODIFIED:20250506T045806Z
+LOCATION:온라인 구글미트
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:(온라인) 5.17기록 에디터톤
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20250509T100000Z
+DTEND:20250509T110000Z
+DTSTAMP:20250914T135147Z
+UID:63nhfhrcrknc9o2pqusteb74de@google.com
+CLASS:PUBLIC
+CREATED:20250507T024803Z
+DESCRIPTION:*현장에서 ZOOM 라이브 송출되는 점 참고 부탁드립니다.<br><br>장소 : 한국외대 서울캠퍼스 강의실<br>
+ 주제: 광주가 만든 오늘\, 5•18이 바꾼 한국 사회 <br>연사: 박솔지 통일인문학연구단 전임연구원<br>문의 : 대학생 시국회의 
+ 집행위원장 김민지(010-3622-5539)<br><br>참가 신청 링크 : <a href="https://docs.google.com
+ /forms/d/e/1FAIpQLScFMpL7Vkgkqg2Fc9HaXIOXC6JT9yov0klNFjrzm9EDjTnAAA/viewfor
+ m">https://docs.google.com/forms/d/e/1FAIpQLScFMpL7Vkgkqg2Fc9HaXIOXC6JT9yov
+ 0klNFjrzm9EDjTnAAA/viewform</a><br><br>출처 : <a href="https://x.com/univstaf
+ 2024/status/1918211905774395705?s=46">https://x.com/univstaf2024/status/191
+ 8211905774395705?s=46</a>
+LAST-MODIFIED:20250507T024804Z
+LOCATION:한국외국어대학교 서울캠퍼스\, 대한민국 서울특별시 동대문구 이문로 107
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:(서울) [시국강연] 광주가 만든 오늘\, 5•18이 바꾼 한국 사회
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20250508T010000Z
+DTEND:20250508T020000Z
+DTSTAMP:20250914T135147Z
+UID:056bmlsam8mqlr9cqp8vbscn71@google.com
+CLASS:PUBLIC
+CREATED:20250507T025725Z
+DESCRIPTION:장소 : 강북노동자복지관 210호 회의실(마포구 환일길 13)<br>문의 : 민주노총 서울본부 김일웅 정책국장 0
+ 10-3382-2224<br><br>사회대개혁 개헌·입법을 위한 집담회 진행(안)<br>- 현황 및 주요 단위 계획 공유<br>- 개헌
+ ·입법 운동 추진 방향 토론<br><br>참가 신청 링크 : <a href="https://docs.google.com/forms/d/
+ e/1FAIpQLSeqk1sGPe19MSLTASoYn54kdXKu-tZYsWY1ZVi1p3xCgySMzA/viewform">https:
+ //docs.google.com/forms/d/e/1FAIpQLSeqk1sGPe19MSLTASoYn54kdXKu-tZYsWY1ZVi1p
+ 3xCgySMzA/viewform</a><br><br>출처 : <a href="https://t.me/kctu_seoul/1224">h
+ ttps://t.me/kctu_seoul/1224</a>
+LAST-MODIFIED:20250507T025725Z
+LOCATION:서울특별시 강북노동자복지관\, 대한민국 서울특별시 마포구 환일길 13
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:(서울) 사회대개혁 개헌.입법을 위한 집담회
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20250522T103000Z
+DTEND:20250522T120000Z
+DTSTAMP:20250914T135147Z
+UID:1ls3jbt0l3ufifoh436e5jcq54@google.com
+CLASS:PUBLIC
+CREATED:20250510T154248Z
+DESCRIPTION:초청 강사 : 나지현(전국여성노동조합 전 위원장 현 지도위원)<br>교육장소 : 온라인 ZOOM 회의실(강의 당일
+  연락처로 링크 발송)<br>신청 기간 : ~2025.05.19(참석희망자가 많을 경우 신청 접수가 조기 종료될 수 있습니다)<br>대
+ 상 : 전국여성노동조합원 및 비조합원<br>신청 링크 : <a href="https://docs.google.com/forms/d/e/
+ 1FAIpQLSdPUnnuDpmKhCbCCVoUZego9Y_ZBJca85zedEPfUZwty2K-cA/viewform">https://
+ docs.google.com/forms/d/e/1FAIpQLSdPUnnuDpmKhCbCCVoUZego9Y_ZBJca85zedEPfUZw
+ ty2K-cA/viewform</a><br><br>출처 : <a href="https://x.com/dcfu2018/status/192
+ 1041439443546573?s=46&amp\;t=frFzTWA-mZFwJZsmyf0hhg">https://x.com/dcfu2018
+ /status/1921041439443546573?s=46&amp\;t=frFzTWA-mZFwJZsmyf0hhg</a>
+LAST-MODIFIED:20250510T154248Z
+LOCATION:온라인 Zoom
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:(온라인) 교과서엔 없는 진짜 역사 : 여성노동운동사
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20250514T100000Z
+DTEND:20250514T110000Z
+DTSTAMP:20250914T135147Z
+UID:6o34rmk49nj6si2q1a476uplbe@google.com
+CLASS:PUBLIC
+CREATED:20250513T141641Z
+DESCRIPTION:일시 : 5. 14.(수) 19:00<br>장소 : 온라인(ZOOM)<br><br>참가 링크 : <a href="
+ https://us06web.zoom.us/j/89012159180?pwd=gYCZPpiO2WjPwnwZcaWQin88p20mbx.1#
+ success">https://us06web.zoom.us/j/89012159180?pwd=gYCZPpiO2WjPwnwZcaWQin88
+ p20mbx.1#success</a><br>원본 링크 : <a href="https://x.com/greenpartyk/status/1
+ 922145134403055860?s=46&amp\;t=frFzTWA-mZFwJZsmyf0hhg">https://x.com/greenp
+ artyk/status/1922145134403055860?s=46&amp\;t=frFzTWA-mZFwJZsmyf0hhg</a>
+LAST-MODIFIED:20250513T141641Z
+LOCATION:ZOOM
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:(온라인) 평등으로 가는 녹색당 여성위원회 풀뿌리 공론장
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20250525T050000Z
+DTEND:20250525T080000Z
+DTSTAMP:20250914T135147Z
+UID:24nfp1rrcr4ta5k9300rvkb54l@google.com
+CLASS:PUBLIC
+CREATED:20250520T140348Z
+DESCRIPTION:장소 : 녹색당사(서울 마포구 합정역 인근) + 온라인 Zoom 병행<br>대상 : 청소년(만 24세 이하)\, 
+ 비당원도 참여 가능!<br><br>진행 순서 <br>- 평등문화약속문 함께 읽기(5분)<br>- 참여자 인사 나누기(15분)<br>- 
+ 이상현 녹색당 대표 발제(40분)<br><br>이야기 나눌 주제들(총 90분)<br>① 극우 세력에 대항하기 위해\, 주목해야 할 것<
+ br>② 위기를 넘어 우리가 만들어갈 세계<br>③ 세상을 바꾸기 위해\, 우리부터 시작할 수 있는 일<br><br>문의 : youth
+ greens@kgreens.org / 공동비상대책위원장 수영 (010-2798-2887)<br><br>참여 신청 링크 : <a href
+ ="https://docs.google.com/forms/d/e/1FAIpQLScOAPnCJ3IoZIiJJPV6X2sp9KnPz29hW
+ 1VzxVPnswUE0MjhaA/viewform">https://docs.google.com/forms/d/e/1FAIpQLScOAPn
+ CJ3IoZIiJJPV6X2sp9KnPz29hW1VzxVPnswUE0MjhaA/viewform</a><br><br>출처 : <a hre
+ f="https://x.com/greenpartyk/status/1924717074494193914?s=46&amp\;t=frFzTWA
+ -mZFwJZsmyf0hhg">https://x.com/greenpartyk/status/1924717074494193914?s=46&
+ amp\;t=frFzTWA-mZFwJZsmyf0hhg</a>
+LAST-MODIFIED:20250520T140348Z
+LOCATION:녹색당\, 대한민국 서울특별시 마포구 양화진4길 33-12 3층
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:(온라인) 평등으로 가는 녹색당:청소년 풀뿌리 공론장
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20250525T050000Z
+DTEND:20250525T145900Z
+DTSTAMP:20250914T135147Z
+UID:1h44dfqtu24hje92q2b1p4vu43@google.com
+CLASS:PUBLIC
+CREATED:20250523T055455Z
+DESCRIPTION:* 사회대개혁 골든벨 행사는 신청 미달로 행사 취소됐습니다. 온라인 골든벨은 25일까지 참여 가능합니다.<br>(
+ <a href="https://x.com/yoonoutaction/status/1925787298722893851?s=46&amp\;t
+ =frFzTWA-mZFwJZsmyf0hhg">https://x.com/yoonoutaction/status/192578729872289
+ 3851?s=46&amp\;t=frFzTWA-mZFwJZsmyf0hhg</a>)<br><br><br>참여방법 : 아래 참여링크를 통해 
+ 사회대개혁 퀴즈문제 5개 풀기\, 중복 참여 가능<br>참여자 혜택<br>- 5개 문제를 모두 맞춘 분들 중 추첨을 통해 <u>1명에게
+ 는 30만원 상당의 상품권</u>(전통시장과 농촌\, 환경을 살리는 매장에서 쓸 수 있습니다! 추후 자세히 공지)<br>- 문제 5개 
+ 중 3개 이상 정답을 맞춘 분들 중 추첨을 통해 <u>500명에게 ‘비상행동 굿즈’</u> (곧 실물공개)를 보내드립니다.<br><br
+ >온라인 퀴즈 대회 링크 : <a href="https://docs.google.com/forms/d/e/1FAIpQLSc1JxX_e8
+ vy8Sewd4piNA1sTUJKYRc1KHTFCWgQr-Y7VBHSrA/viewform#talk.bisang1203">https://
+ docs.google.com/forms/d/e/1FAIpQLSc1JxX_e8vy8Sewd4piNA1sTUJKYRc1KHTFCWgQr-Y
+ 7VBHSrA/viewform#talk.bisang1203</a><br><br>출처 : <a href="https://talk.bisa
+ ng1203.net/posts/latqeX2">https://talk.bisang1203.net/posts/latqeX2</a>
+LAST-MODIFIED:20250523T055455Z
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:(온라인) 사회대개혁 온라인 골든벨
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20250530T103000Z
+DTEND:20250530T113000Z
+DTSTAMP:20250914T135147Z
+UID:4c6nr9m3ijtm6ilic8l916gne6@google.com
+CLASS:PUBLIC
+CREATED:20250524T091735Z
+DESCRIPTION:일시 : 5. 30.(금) 19:30<br>장소 : 온라인 줌<br><br>신청 링크 : <a href="http
+ s://docs.google.com/forms/d/e/1FAIpQLSdTZdIY9awjnXHIOAz7HJwX-oSgEr3qCyLMpJ7
+ -Os9FCJEmGA/viewform">https://docs.google.com/forms/d/e/1FAIpQLSdTZdIY9awjn
+ XHIOAz7HJwX-oSgEr3qCyLMpJ7-Os9FCJEmGA/viewform</a><br>원본 링크 : <a href="http
+ s://x.com/kmwustu053/status/1925915206976201150">https://x.com/kmwustu053/s
+ tatus/1925915206976201150</a>
+LAST-MODIFIED:20250524T091735Z
+LOCATION:ZOOM
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:(온라인) 혐중의 계보학 : 만보산에서 탄핵전야까지
+TRANSP:OPAQUE
+ATTACH;FILENAME=Gro5qjGXEAAtPf4.jpg;FMTTYPE=image/jpeg:https://drive.google
+ .com/open?id=1cylSsBXxJhGQGrsMTSKkB6wGjyKrtGcb
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20250529T100000Z
+DTEND:20250529T110000Z
+DTSTAMP:20250914T135147Z
+UID:458pibq5fuaosjaeikguaj8aj4@google.com
+CLASS:PUBLIC
+CREATED:20250525T084449Z
+DESCRIPTION:*온라인 참여도 가능합니다.<br>장소 : 이화여자대학교 학관 강의실 551호<br><br>참가 신청 링크 : <
+ a href="https://docs.google.com/forms/d/e/1FAIpQLSctZ2Cx6tZQ8W5wSctC4-EKmv3
+ 1TXQ009g0bfS362wpamWaBQ/viewform">https://docs.google.com/forms/d/e/1FAIpQL
+ SctZ2Cx6tZQ8W5wSctC4-EKmv31TXQ009g0bfS362wpamWaBQ/viewform</a><br><br>출처 : 
+ <a href="https://x.com/scp_korea/status/1926409049257414753">https://x.com/
+ scp_korea/status/1926409049257414753</a>
+LAST-MODIFIED:20250525T084449Z
+LOCATION:이화여자대학교\, 대한민국 서울특별시 서대문구 이화여대길 52
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:(서울) 팔레스타인 알아가기 - 자유주의적 시온주의: 팔레스타인에 대한 우리의 오해
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20250613T100000Z
+DTEND:20250613T110000Z
+DTSTAMP:20250914T135147Z
+UID:01h6nbssfurheb7r439prg1nu1@google.com
+CLASS:PUBLIC
+CREATED:20250523T055708Z
+DESCRIPTION:온라인 zoom으로 북토크 진행합니다.<br><br>참가 신청 링크 : <a href="https://docs.g
+ oogle.com/forms/d/e/1FAIpQLSfoYpHL8VGkOOlZ6Cn402hJErx8f8-PoOICVu0jRIm674kWX
+ Q/viewform">https://docs.google.com/forms/d/e/1FAIpQLSfoYpHL8VGkOOlZ6Cn402h
+ JErx8f8-PoOICVu0jRIm674kWXQ/viewform</a><br><br>출처 : <a href="https://x.com
+ /labor_health/status/1925723834662948893?s=46&amp\;t=frFzTWA-mZFwJZsmyf0hhg
+ ">https://x.com/labor_health/status/1925723834662948893?s=46&amp\;t=frFzTWA
+ -mZFwJZsmyf0hhg</a>
+LAST-MODIFIED:20250608T020455Z
+LOCATION:온라인 zoom
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:(온라인) 「오늘도 무사히」온라인 북토크
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20250612T060000Z
+DTEND:20250612T080000Z
+DTSTAMP:20250914T135147Z
+UID:1dhqdduhnqspajh6nibkl21o4h@google.com
+CLASS:PUBLIC
+CREATED:20250608T111936Z
+DESCRIPTION:<b>* YouTube 생중계 | 서울특별시의회 토론회(제2대회의실) 검색</b><br>장소 : 서울특별시의회 제
+ 2대회의실(의원회관 2층)<br><br>출처 : <a href="https://x.com/womenlink/status/19246939
+ 15644657793" target="_blank">https://x.com/womenlink/status/192469391564465
+ 7793</a>
+LAST-MODIFIED:20250608T111936Z
+LOCATION:서울특별시의회\, 대한민국 서울특별시 중구 세종대로 125
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:(온라인) 국제가사노동자의 날 기념 토론회 - 불안한 체류\, 배제된 노동권:필리핀 돌봄노동자의 목소리
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20250613T093000Z
+DTEND:20250613T103000Z
+DTSTAMP:20250914T135147Z
+UID:6svgo7tveo8d2kat51flk4ru7e@google.com
+CLASS:PUBLIC
+CREATED:20250608T112041Z
+DESCRIPTION:<b>서울에서 오프라인으로 진행되는 일정이지만\, 사전 신청자에 한해 온라인 링크가 전달될 예정입니다.<br>발언
+ 신청폼을 통해서 온라인 신청 가능합니다.</b><br><br>일시 : 6. 13.(금) 18:30<br>장소 : 세종호텔 농성장<br>
+ <br>발언신청: <a href="https://docs.google.com/forms/d/17OdWouQypyGA9wh1PqSke9i
+ 5y1mIBOB7zL_Y-zzwDTI/viewform?edit_requested=true" target="_blank">https://
+ docs.google.com/forms/d/17OdWouQypyGA9wh1PqSke9i5y1mIBOB7zL_Y-zzwDTI/viewfo
+ rm?edit_requested=true</a><br>원본 링크 : <a href="https://x.com/breadandrosesk
+ r/status/1917114173731033103?s=46&t=frFzTWA-mZFwJZsmyf0hhg" target="_blank"
+ >https://x.com/breadandroseskr/status/1917114173731033103?s=46&amp\;t=frFzT
+ WA-mZFwJZsmyf0hhg</a>
+LAST-MODIFIED:20250608T112041Z
+LOCATION:세종호텔\, 대한민국 서울특별시 중구 퇴계로 145
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:(서울) 여성-성소수자 차별과 혐오 깨기 할말많
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20250705T010000Z
+DTEND:20250705T090000Z
+DTSTAMP:20250914T135147Z
+UID:20au7q54m4ac844u987fgdm81b@google.com
+CLASS:PUBLIC
+CREATED:20250609T141213Z
+DESCRIPTION:*온라인(줌) 동시 진행합니다.<br>장소 : 스테이션 사람\, 사람홀(서울시 은평구 증산로 17가길 15-7 /
+  6호선 새절역 3번 출구)<br>참가대상 : 법을 통한 사회변화에 관심있는\, <br>                 인권운동 안에서의
+  법률가 역할이 궁금한\, <br>                 법학전문대학원 진학을 고민중이거나 다니고 있는 분<br>접수기간 : 6
+ /2(월) ~ 7/3(목) 18:00까지<br>참가비 : 3만원(희망법 회원 2만원)<br>신청방법 : 본 신청서 작성 후 참가비 입금
+ (신한은행 140-015-353340 예금주 공익인권변호사모임 희망을만드는법)<br>문의 : 02-364-1210 / <a href="
+ mailto:edu@hopeandlaw.org" target="_blank"><u>edu@hopeandlaw.org</u></a> (희
+ 망법\, 담당자 김광민) <br><br>프로그램 <br><br>❑<b>강의1</b><br>⃝ <b><u>성별이분법을 넘는 법 : 트랜스
+ 인권 Talk </u></b><br>- 희망법 성적지향·성별정체성 인권팀- 소하(서울인권영화제 활동가)<br>- 이안(행동하는성소수자인
+ 권연대 트랜스젠더퀴어팀 활동가)<br><br><br>❑<b>강의2</b><br>⃝ <b><u>운동변호(Movement Lawyering
+ )\, 그게 뭔데?</u></b><br>- 김동현(희망법 변호사)<br><br>❑<b>강의3</b><br>⃝  <b><u>장애인 탈시설
+  : 벽을 부수고 함께 만드는 길</u></b><br>- 희망법 장애 인권팀<br>- 진은선(장애여성공감 독립생활센터숨 소장)<br> 
+ <br><b>❑강의4</b><br>⃝ <b><u>위험의 외주화 : 안전은 하청 줄 수 없다</u></b> <br>- 희망법 기업과 인권
+ 팀<br><b><br></b><br><b><u>❑참가자 네트워킹 프로그램</u></b><br>- 현장 강의 참가자 중 희망자 참여 <b
+ r>- 강의 종료 후 1시간 내외 진행\, 간단한 비건 다과 제공<br><br>참가 신청 링크 : <a href="https://doc
+ s.google.com/forms/d/e/1FAIpQLSfBm6p47bvnSqDVvDjIaFF_MyPUgWzZRUV2jG8_m6zWPt
+ 1iZQ/viewform" target="_blank"><u>https://docs.google.com/forms/d/e/1FAIpQL
+ SfBm6p47bvnSqDVvDjIaFF_MyPUgWzZRUV2jG8_m6zWPt1iZQ/viewform</u></a><br><br>출
+ 처 : <a href="https://x.com/hopeandlaw/status/1931973240609751502?s=46" targ
+ et="_blank"><u>https://x.com/hopeandlaw/status/1931973240609751502?s=46</u>
+ </a>
+LAST-MODIFIED:20250609T141213Z
+LOCATION:스테이션 사람\, 대한민국 서울특별시 은평구 증산로17가길 15-7
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:(온라인) (서울) 제12회 공익인권법 실무학교
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20250613T100000Z
+DTEND:20250613T110000Z
+DTSTAMP:20250914T135147Z
+UID:2ldfu5rucddbpjb69pmcc11fc9@google.com
+CLASS:PUBLIC
+CREATED:20250609T143313Z
+DESCRIPTION:<br>이야기 나눔<br><ul><li>[저자] 임준 / 인하대 의대 교수\, 노동건강연대 전 대표</li><li
+ >[사회] 박한솔 / 노동건강연대 활동가 </li></ul><br>북토크 참가 신청 링크 : <a href="https://docs.g
+ oogle.com/forms/d/e/1FAIpQLSfoYpHL8VGkOOlZ6Cn402hJErx8f8-PoOICVu0jRIm674kWX
+ Q/viewform">https://docs.google.com/forms/d/e/1FAIpQLSfoYpHL8VGkOOlZ6Cn402h
+ JErx8f8-PoOICVu0jRIm674kWXQ/viewform</a><br><br>출처 : <a href="https://x.com
+ /labor_health/status/1931976485847568702">https://x.com/labor_health/status
+ /1931976485847568702</a>
+LAST-MODIFIED:20250609T143313Z
+LOCATION:줌(ZOOM)
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:(온라인) 용감한 의사 임준과 함께하는 온라인 북토크
+TRANSP:OPAQUE
+ATTACH;FILENAME=Gs_Be1kbgAAY4FS.jpg;FMTTYPE=image/jpeg:https://drive.google
+ .com/open?id=1I7euwDQk3KrO1KnoC4coESH_VXygZFVn
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20250625T050000Z
+DTEND:20250625T081500Z
+DTSTAMP:20250914T135147Z
+UID:0r74m4hns8c1dvgmtcdcdph4h2@google.com
+CLASS:PUBLIC
+CREATED:20250610T112536Z
+DESCRIPTION:장소 : 온라인 줌(ZOOM) <br>회의 ID : 815 3535 7020(초대 링크:  <a href="htt
+ ps://ewha.zoom.us/j/87535357020)">https://ewha.zoom.us/j/87535357020)</a><b
+ r><br>참가 신청 링크 : <a href="https://docs.google.com/forms/d/e/1FAIpQLSe7OdGfi
+ NiiTCOC5OnmUv2hMe8rgovbDqazcqBfpytMWVRHcA/viewform">https://docs.google.com
+ /forms/d/e/1FAIpQLSe7OdGfiNiiTCOC5OnmUv2hMe8rgovbDqazcqBfpytMWVRHcA/viewfor
+ m</a>
+LAST-MODIFIED:20250610T112536Z
+LOCATION:온라인 줌(zoom)
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:(온라인) 새 정부가 추진해야 할 여성 의제
+TRANSP:OPAQUE
+ATTACH;FILENAME=GtBWjUbbsAAHQZn.jpg;FMTTYPE=image/jpeg:https://drive.google
+ .com/open?id=18jiEzHwnfFpZ3ODGahR0ngcClVglMl6M
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20250626T103000Z
+DTEND:20250626T123000Z
+DTSTAMP:20250914T135147Z
+UID:1jbdcek74ffoobm6eb7f9c1616@google.com
+CLASS:PUBLIC
+CREATED:20250612T140102Z
+DESCRIPTION:일시: 6. 26.(목) 19:30 ~ 21:30<br>장소: 온라인<br><br>신청 링크: <a href="h
+ ttps://docs.google.com/forms/d/e/1FAIpQLSfqSaodpro53ph9erASwNHsjsQf_x5bn4mI
+ 0BCeguPrJ2y6cw/viewform">https://docs.google.com/forms/d/e/1FAIpQLSfqSaodpr
+ o53ph9erASwNHsjsQf_x5bn4mI0BCeguPrJ2y6cw/viewform</a><br>원본링크: <a href="htt
+ ps://x.com/gynotopia/status/1928347068315156925">https://x.com/gynotopia/st
+ atus/1928347068315156925</a>
+LAST-MODIFIED:20250612T140102Z
+LOCATION:온라인
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:(온라인) 2025 여성문화이론연구소 107차 콜로키움 '우리'에게 마이크를 쥐어주는 일
+TRANSP:OPAQUE
+ATTACH;FILENAME=GsLdb0BW8AAQbDW.jpg;FMTTYPE=image/jpeg:https://drive.google
+ .com/open?id=1o1914BX0HCxXdkesyuOZT44_5MoWPQv_
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20250608T080000Z
+DTEND:20250608T090000Z
+DTSTAMP:20250914T135147Z
+UID:572apam9ov9213sarhsvtarg56@google.com
+CLASS:PUBLIC
+CREATED:20250605T101133Z
+DESCRIPTION:<br>일시: 6. 8.(일)\, 6. 22.(일) 17:00<br>장소: 구글 미트<br>주제: 대선과 여성\,
+  프라이드 먼스<br><br>신청 링크: <a href="https://docs.google.com/forms/d/e/1FAIpQLSd
+ Auy45Zc5GbUtODOamhLv9Ihd7KYRROWLWm0mAyjWK8sotNw/viewform"><u><u>https://doc
+ s.google.com/forms/d/e/1FAIpQLSdAuy45Zc5GbUtODOamhLv9Ihd7KYRROWLWm0mAyjWK8s
+ otNw/viewform</u></u></a><br>원본 링크: <a href="https://x.com/femiwikidotcome/
+ status/1929891209851613272?s=46&amp\;t=frFzTWA-mZFwJZsmyf0hhg"><u>https://x
+ .com/femiwikidotcome/status/1929891209851613272?s=46&amp\;t=frFzTWA-mZFwJZs
+ myf0hhg</u></a>
+LAST-MODIFIED:20250614T194651Z
+LOCATION:온라인
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:(온라인) 페미위키 6월 에디터톤
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20250605T100000Z
+DTEND:20250605T110000Z
+DTSTAMP:20250914T135147Z
+UID:763qmk1r86ihrqcothfsqj1kg8@google.com
+CLASS:PUBLIC
+CREATED:20250525T084606Z
+DESCRIPTION:*온라인 참여도 가능합니다.<br>장소: 이화여자대학교학생문화관(서울 서대문구 이화여대길 52)<br><br>참가
+  신청 링크 : <a href="https://docs.google.com/forms/d/e/1FAIpQLSctZ2Cx6tZQ8W5wS
+ ctC4-EKmv31TXQ009g0bfS362wpamWaBQ/viewform">https://docs.google.com/forms/d
+ /e/1FAIpQLSctZ2Cx6tZQ8W5wSctC4-EKmv31TXQ009g0bfS362wpamWaBQ/viewform</a><br
+ ><br>출처 : <a href="https://x.com/scp_korea/status/1926409049257414753">http
+ s://x.com/scp_korea/status/1926409049257414753</a>
+LAST-MODIFIED:20250614T194651Z
+LOCATION:이화여자대학교 학생문화관(학문관)\, 대한민국 서울특별시 서대문구 이화여대길
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:(온라인) 팔레스타인 알아가기 - 우리의 투쟁은 연결되어 있다: 팔레스타인 해방은 어떻게 우리의 해방과 연결되어 있나요?
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20250618T050000Z
+DTEND:20250618T080000Z
+DTSTAMP:20250914T135147Z
+UID:0detur2u0fdl54f9a1omhvq49b@google.com
+CLASS:PUBLIC
+CREATED:20250610T133651Z
+DESCRIPTION:*온라인 줌으로도 참가 가능합니다(링크는 6월 18일에 문자로 발송)<br>장소 : 여의도 국회도서관 강당<br>
+ <br>발표<br>- 공공재생에너지의 부상\, 왜 중요한가? / 션 스위니(TUED)<br>- 에너지 전환의 현실과 공공재생에너지법의 
+ 중요성 / 구준모(공공재생에너지연대)<br>- 유럽 에너지 민영화의 실패와 대안\, 에너지 공기업의 역할 / 베라 웨그만(PRIRU)<
+ br><br>토론<br>좌장 : 한윤정(녹색연합 공동대표)<br>김석(민주노총 정책국장)<br>이정필(에너지기후정책연구소장)<br>김보
+ 림(청소년기후행동 활동가)<br>김동주(한국환경사회학회 이사)<br>임국현(산자부 재생에너지정책과장)<br><br>참가 신청 링크 : 
+ <a href="https://docs.google.com/forms/d/e/1FAIpQLSf7aMrnkzOIAWXSP9kPe8h1b4
+ vo9DhX7aeAalpz4DIcWtWNqA/viewform">https://docs.google.com/forms/d/e/1FAIpQ
+ LSf7aMrnkzOIAWXSP9kPe8h1b4vo9DhX7aeAalpz4DIcWtWNqA/viewform</a><br><br>출처 :
+  <a href="https://x.com/kptunews/status/1932368725484986568">https://x.com/
+ kptunews/status/1932368725484986568</a>
+LAST-MODIFIED:20250615T050603Z
+LOCATION:국회도서관\, 대한민국 서울특별시 영등포구 의사당대로 1
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:(온라인) 공공재생에너지 국제 심포지엄 : 세계는 지금\, 공공재생에너지
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20250701T103000Z
+DTEND:20250701T113000Z
+DTSTAMP:20250914T135147Z
+UID:68vhkqrs4efvap9cgnma3opsho@google.com
+CLASS:PUBLIC
+CREATED:20250617T065002Z
+DESCRIPTION:일시: 7. 1.(화) 19:30<br>장소: ZOOM 비대면<br><br>신청링크: <a href="https:
+ //docs.google.com/forms/d/e/1FAIpQLSeV_dqhaw9FqIBgvGb4F3xj_yCwIuKk1gI7uQDPI
+ Xul6xRtBg/viewform">https://docs.google.com/forms/d/e/1FAIpQLSeV_dqhaw9FqIB
+ gvGb4F3xj_yCwIuKk1gI7uQDPIXul6xRtBg/viewform</a><br>원본링크: <a href="https://
+ x.com/demlabor1848/status/1934817700066545703">https://x.com/demlabor1848/s
+ tatus/1934817700066545703</a>
+LAST-MODIFIED:20250617T065002Z
+LOCATION:ZOOM
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:(온라인) 7월 민주주의와 노동연구소 민책클럽 '대안 이론의 비판적 독해: <생태계의 파괴자 자본주의>'
+TRANSP:OPAQUE
+ATTACH;FILENAME=GtnaL6Ba0AQv7H6.jpg;FMTTYPE=image/jpeg:https://drive.google
+ .com/open?id=1APnZ8rpLtAEhwVbK5vE4jyX6kC-xZOZJ
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=Asia/Seoul:20250618T193000
+DTEND;TZID=Asia/Seoul:20250618T203000
+RRULE:FREQ=WEEKLY;WKST=MO;UNTIL=20250827T145959Z;BYDAY=WE
+DTSTAMP:20250914T135147Z
+UID:04dn5fsf4uuif5kk21jj1q3or9@google.com
+CLASS:PUBLIC
+CREATED:20250617T071332Z
+DESCRIPTION:일시: 6. 18.(수) ~ 8. 27.(수) 19:30<br>장소: ZOOM 온라인 / 1\, 10회차 오프라인
+  진행(서울)<br>참여비: 280\,000원 (19세 미만 200\,000원)<br><br>신청링크: <a href="https://
+ docs.google.com/forms/d/e/1FAIpQLSf85gJhC9AxVnRHPYg8eRVKWXPCpWtQH8PWuvlEl95
+ LSndUTQ/viewform">https://docs.google.com/forms/d/e/1FAIpQLSf85gJhC9AxVnRHP
+ Yg8eRVKWXPCpWtQH8PWuvlEl95LSndUTQ/viewform</a><br>원본링크: <a href="https://x.
+ com/dalibom_book/status/1920753148311781874">https://x.com/dalibom_book/sta
+ tus/1920753148311781874</a>
+LAST-MODIFIED:20250617T071333Z
+LOCATION:ZOOM
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:(온라인) [나와 당신의 연대기: 페미니스트 자기 역사 쓰기 워크숍] 3기 모집
+TRANSP:OPAQUE
+ATTACH;FILENAME=GqfizXdbcAAWouS.jpg;FMTTYPE=image/jpeg:https://drive.google
+ .com/open?id=1AjIUrVmO3dQms5d9jwLQ9xwGzL8nK2FY
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20250626T060000Z
+DTEND:20250626T090000Z
+DTSTAMP:20250914T135147Z
+UID:4ijh43vev8vhinmjm9qb7bo7ju@google.com
+CREATED:20250618T171413Z
+DESCRIPTION:<br><b>일시: 2025년 6월 26일(목) 오후 3시~6시</b><br><b>장소: 경향신문사 16층 회의실
+  / 온라인 병행</b><br><br><br><b>[기조강연]</b><br><p><b>주디 퍼지 교수(Prof. Judy Fudge)<
+ /b></p><p></p><ul><li>현재 캐나다 McMaster 대학 교수\, 영국 켄트 대학 교수\, 캐나다 빅토리아 대학 교수 
+ 역임.</li><li>영국 옥스포드 대학에서 법학박사학위 취득. 현재 캐나다 국립학술원 회원.</li><li>전세계 노동법연구기관들의 
+ 네트워크인 Labour Law Research Network (LLRN)가 수여하는 2025년 노동법연구 평생공로상 수상자로 지명.</
+ li></ul><br><br><b>[토론]</b><br>사회: 윤지영(직장갑질119 대표)<br>- 플랫폼노동자 권리 보장을 위한 새로
+ 운 ILO협약을 위하여: 모니카 테퍼(Monica Tepfer\, 국제노총)<br>- 모든 노동자의 기본법으로서 근로기준법을 위하여: 
+ 윤애림(노동자권리연구소)<br>- 모든 노동자의 노동3권 보장을 위하여: 신하나(민주사회를 위한 변호사모임)<br><br><br><b>
+ [주최 및 주관]</b><br>￭ 주최: 노동법률단체(노동인권실현을 위한 노무사모임\, 민주사회를 위한 변호사모임 노동위원회\, 민주주
+ 의법학연구회\, 법률원\, 전국불안정노동철폐연대 법률위원회)\, 직장갑질119\, 플랫폼노동자희망찾기￭ 주관: 노동자권리연구소<br><
+ br>온라인 신청: <a href="https://www.google.com/url?q=https://docs.google.com/fo
+ rms/d/e/1FAIpQLSd7dIYk1ZSm7YKuZAmgF1lO73Wa9RMrIlD_qQPpp3x3M-X1Pw/viewform&a
+ mp\;sa=D&amp\;source=calendar&amp\;usd=2&amp\;usg=AOvVaw2nl9-xiXSSTS7eeOzLk
+ D54" target="_blank">https://docs.google.com/forms/d/e/1FAIpQLSd7dIYk1ZSm7Y
+ KuZAmgF1lO73Wa9RMrIlD_qQPpp3x3M-X1Pw/viewform</a><br><br><a href="https://w
+ ww.google.com/url?q=https://x.com/Gapjil119/status/1935234332140126605&amp\
+ ;sa=D&amp\;source=calendar&amp\;usd=2&amp\;usg=AOvVaw1YhNQx-lSh8GStN-GQOxVd
+ " target="_blank">https://x.com/Gapjil119/status/1935234332140126605</a>
+LAST-MODIFIED:20250618T171414Z
+LOCATION:경향신문빌딩\, 대한민국 서울특별시 중구 정동길 3
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:(온라인) 배제와 차별을 넘어! "노동법을 모든 노동자에게" 국제토론회
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20250626T100000Z
+DTEND:20250626T120000Z
+DTSTAMP:20250914T135147Z
+UID:35ikchq4po6rblmc3792ckid61@google.com
+CREATED:20250618T171844Z
+DESCRIPTION:한국노동안전보건연구소 젠더와노동건강권센터 월례토론회<br><br>깻잎에 담긴 인권: 이주노동자의 노동권\, 주거권
+ \, 가족구성권<br><br>발제: 우춘희(매사추세츠 대학교 박사수료\, &lt\;깻잎 투쟁기&gt\; 저자)<br>토론: 박슬기\, 
+ 전승연 (한노보연 젠더센터 이주팀)<br><br>일시/장소: 2025. 6. 26(목) 19시\, 온라인(줌\, 신청자에 안내)<br>
+ 신청: <a href="https://docs.google.com/forms/d/e/1FAIpQLSf8y93MptUZTCr6-AFnSO
+ 41kxvKlj_OnOBIJoAmipFhb7aoRg/viewform">https://docs.google.com/forms/d/e/1F
+ AIpQLSf8y93MptUZTCr6-AFnSO41kxvKlj_OnOBIJoAmipFhb7aoRg/viewform</a><br><br>
+ 문의: kilshlabor@gmail.com<br><br><a href="https://x.com/hnbygender/status/19
+ 35189856449413350">https://x.com/hnbygender/status/1935189856449413350</a>
+LAST-MODIFIED:20250622T025116Z
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:(온라인) 깻잎에 담긴 인권: 이주노동자의 노동권\, 주거권\, 가족구성권 토론회
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20250624T100000Z
+DTEND:20250624T110000Z
+DTSTAMP:20250914T135147Z
+UID:4cles7c6ddsijv4845f4k3cbrl@google.com
+CREATED:20250622T030054Z
+DESCRIPTION:일시: 6. 24.(화) 19:00\n장소: 서울근로자건강센터 BYC 211호 대회의실 (서울 금천구 가산디지털1
+ 로 131 BYC 하이시티 211호) / 온라인 줌\n초대 손님 : 한국여성노동자회 배진경 활동가\n* 온라인 참여 가능\n\n신청 링
+ 크: <a href="https://www.google.com/url?q=https://docs.google.com/forms/d/e/
+ 1FAIpQLSf82VQl0DLqnh0iOSdIS9OProFYQS4oxyQKU7wgc9jQDmqc7Q/viewform&amp\;sa=D
+ &amp\;source=calendar&amp\;usd=2&amp\;usg=AOvVaw3Ua3QhKQ2TNVvoMvWmUD5o" tar
+ get="_blank">https://docs.google.com/forms/d/e/1FAIpQLSf82VQl0DLqnh0iOSdIS9
+ OProFYQS4oxyQKU7wgc9jQDmqc7Q/viewform</a>\n원본 링크: <a href="https://www.goog
+ le.com/url?q=https://x.com/sharpsglory/status/1930526426597667041&amp\;sa=D
+ &amp\;source=calendar&amp\;usd=2&amp\;usg=AOvVaw2PJAsHzwk7CPDR-qzyD8cF" tar
+ get="_blank">https://x.com/sharpsglory/status/1930526426597667041</a>
+LAST-MODIFIED:20250622T030054Z
+LOCATION:서울근로자건강센터/서울직업트라우마센터\, 대한민국 서울특별시 금천구 가산동 가산디지털1로 131
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:(온라인) 한국여성노동자회와 함께하는 <무엇이든 물어보세요>
+TRANSP:OPAQUE
+ATTACH;FILENAME=GsqbbmJasAAr0JN.jpg;FMTTYPE=image/jpeg:https://drive.google
+ .com/open?id=17TxC-a2HwfOgUkaW96l2dhoOd1h3fLRO
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20250628T080000Z
+DTEND:20250628T090000Z
+DTSTAMP:20250914T135147Z
+UID:0010ikeqhcp6ctl9o7qp5lf0nv@google.com
+CLASS:PUBLIC
+CREATED:20250601T142108Z
+DESCRIPTION:*줌 온라인으로도 진행합니다.\n장소 : 서울시 마포구 동교로 41\, 2층 플랫폼c\n참가비 : 회원 무료 / 
+ 비회원 5천원 (우리은행 1005-304-289561 플랫폼씨)\n문의 : 공일공-이오공공-사육일사\n발제 : 한재각(기후정의동맹집행위
+ 원/대전녹색당 공동운영위원장)\n\n참가 신청 링크 : https://docs.google.com/forms/d/e/1FAIpQLSce
+ PJx-Rhb_c6_iGDWSvRyeY2Zs-DT34b1emHtxoh_PKD4jGA/viewform\n\n\n출처 : https://t
+ .me/platformc/2673
+LAST-MODIFIED:20250622T031528Z
+LOCATION:41\, 대한민국 서울특별시 마포구 동교로27길 41
+SEQUENCE:2
+STATUS:CONFIRMED
+SUMMARY:(온라인) 해와 바람은 상품이 아니다! 공공재생에너지는 기후위기 대안이 될 수 있을까?
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20250624T100000Z
+DTEND:20250624T110000Z
+DTSTAMP:20250914T135147Z
+UID:1d9scpa7qbsvskq5b2rpe8mt51@google.com
+CREATED:20250622T093011Z
+DESCRIPTION:일시: 6. 24.(화) 19:00\n장소: 인권재단 사람홀(지하철 6호선 새절역\, 서울시 은평구 증산로17가길
+  15-7)\n* 온라인 참여 가능\n\n신청: <a href="https://www.google.com/url?q=https://do
+ cs.google.com/forms/d/e/1FAIpQLSfvIYn9GqxF20S0BoleFqfQdtZ6UXUdBxnlfooqSM5vQ
+ qUnFQ/viewform?usp%3Dsend_form&amp\;sa=D&amp\;source=calendar&amp\;usd=2&am
+ p\;usg=AOvVaw1ec0VNFCxyvY9ZU49m8stt" target="_blank">https://docs.google.co
+ m/forms/d/e/1FAIpQLSfvIYn9GqxF20S0BoleFqfQdtZ6UXUdBxnlfooqSM5vQqUnFQ/viewfo
+ rm?usp=send_form</a>\n공지링크: <a href="https://www.google.com/url?q=https://x
+ .com/pps_kr/status/1936714363420955111&amp\;sa=D&amp\;source=calendar&amp\;
+ usd=2&amp\;usg=AOvVaw2g_JAMDc5xm3_XrXEDvEg8" target="_blank">https://x.com/
+ pps_kr/status/1936714363420955111</a>\n\n원본링크: <a href="https://www.google.
+ com/url?q=https://x.com/pps_kr/status/1935988446906269863?s%3D46%26t%3DfrFz
+ TWA-mZFwJZsmyf0hhg&amp\;sa=D&amp\;source=calendar&amp\;usd=2&amp\;usg=AOvVa
+ w2KWBJFv0JDNDPbDrQqk7XM" target="_blank">https://x.com/pps_kr/status/193598
+ 8446906269863?s=46&amp\;t=frFzTWA-mZFwJZsmyf0hhg</a>
+LAST-MODIFIED:20250622T093011Z
+LOCATION:인권재단 사람\, 대한민국 서울특별시 은평구 증산로17가길 15-7 3층
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:(온라인) [이란 긴급 포럼] 이란을 적대하도록 훈련된 세계 - 미국과 이스라엘의 이란 침공
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20250706T100000Z
+DTEND:20250706T110000Z
+DTSTAMP:20250914T135147Z
+UID:3rj74a5b571ukniukt1nd92h7u@google.com
+CLASS:PUBLIC
+CREATED:20250624T124202Z
+DESCRIPTION:일정: 7/6(일) 19:00 (ZOOM)<br>대상 : 정의로운 전환과 공공재생에너지를 바라는 모든 말벌동지들<
+ br>문의 : 010-7615-6411(문준혁)<br><br>참가신청 링크 : <a href="https://docs.google.co
+ m/forms/d/e/1FAIpQLSdRRnfunASo6P0V6qayCWE0lnJTo8DedhDqOMQBL0XVTJPf2Q/viewfo
+ rm">https://docs.google.com/forms/d/e/1FAIpQLSdRRnfunASo6P0V6qayCWE0lnJTo8D
+ edhDqOMQBL0XVTJPf2Q/viewform</a><br><br>출처 : <a href="https://x.com/jjwasps
+ buk25/status/1937364362651660718?s=46&amp\;t=frFzTWA-mZFwJZsmyf0hhg">https:
+ //x.com/jjwaspsbuk25/status/1937364362651660718?s=46&amp\;t=frFzTWA-mZFwJZs
+ myf0hhg</a>
+LAST-MODIFIED:20250624T124203Z
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:(온라인) 공공재생에너지법 입법운동 온라인 말벌 간담회 : 석탄발전은 멈춰도 우리의 삶은 멈출 수 없다
+TRANSP:OPAQUE
+ATTACH;FILENAME=GuLmlbIbgAAdaTB.jpg;FMTTYPE=image/jpeg:https://drive.google
+ .com/open?id=1aBOJ-AG3MMbSrRaxGJ-z0MfYLM8j2S9o
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20250704T100000Z
+DTEND:20250704T120000Z
+DTSTAMP:20250914T135147Z
+UID:5sochvjk4ovv0qd14i9cb7hfsp@google.com
+CLASS:PUBLIC
+CREATED:20250626T070728Z
+DESCRIPTION:장소 :  민주노총 16층 중회의실 (서울 중구 정동길 3 경향신문사\, 온라인 병행)<br>* 온라인 링크는 신
+ 청자를 대상으로 추후 발송드립니다.<br>문의 : 010-3457-9118(최종현)<br><br>간담회 진행 순서<br>① 발제 : 이
+ 재백 (발전노조 서부본부장) <br>-태안화력 폐쇄와 故김충현 사망사고\, 태안화력 노동자들의 정의로운 전환 운동<br>② 발제 : 한
+ 재각(기후정의동맹 집행위원\, 공공재생에너지연대)<br>-공공재생에너지 입법청원 및  정의로운 전환 2025공동행동 사업 흐름<br>③
+  질의응답 및 토론<br><br>참가 신청 링크 : <a href="https://docs.google.com/forms/d/e/1FA
+ IpQLSd9t9WqkhK1rM7gPra3SETYsuRlXJGtfaFhNCVxPBnMfZcd0Q/viewform">https://doc
+ s.google.com/forms/d/e/1FAIpQLSd9t9WqkhK1rM7gPra3SETYsuRlXJGtfaFhNCVxPBnMfZ
+ cd0Q/viewform</a><br><br>출처 : <a href="https://x.com/march2socialism/status
+ /1937807111058231764?s=46&amp\;t=frFzTWA-mZFwJZsmyf0hhg">https://x.com/marc
+ h2socialism/status/1937807111058231764?s=46&amp\;t=frFzTWA-mZFwJZsmyf0hhg</
+ a>
+LAST-MODIFIED:20250626T070729Z
+LOCATION:경향신문 본사\, 대한민국 서울특별시 중구 정동길 3
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:(온라인\, 서울) 태안화력 故 김충현 노동자 사망사고\, 노동자 기후정의운동의 시각으로 바라보기 : 공공재생에너지·정의
+ 로운 전환 투쟁으로 나아가는 간담회
+TRANSP:OPAQUE
+ATTACH;FILENAME=GuR5NFPbQAAQmWx.jpg;FMTTYPE=image/jpeg:https://drive.google
+ .com/open?id=1S6HNXK50mViqhshC--XhSYTWbWm2ewMg
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=Asia/Seoul:20250715T190000
+DTEND;TZID=Asia/Seoul:20250715T210000
+RRULE:FREQ=WEEKLY;WKST=MO;UNTIL=20250721T145959Z;BYDAY=TU,TH
+DTSTAMP:20250914T135147Z
+UID:1nnmlf465jfgbqrq511451c524@google.com
+CLASS:PUBLIC
+CREATED:20250629T021045Z
+DESCRIPTION:일시 : 2025. 7. 15(화) / 7.17(목) 저녁 7시<br>접속 : 온라인 ZOOM<br>참가비 : 3
+ \,000원(2강 전체) [국민] 801701-04-088398 노동건강연대<br>노동건강연대 회원은 참가비 무료<br><br>강사: 
+ 이병훈 (중앙대 사회학과 명예교수)<br><br>1강(7.15 화): 불안정노동의 세계적 추세 및 한국적 특성<br>2강(7.19 목)
+ : 불안정노동을 막는 정치의 역할<br><br>신청: <a href="https://docs.google.com/forms/d/e/1F
+ AIpQLSfJQZDI7MB-gvlyic5DzOFPNl0oBGMBjDP7HhLnSxsT5NWvpQ/viewform">https://do
+ cs.google.com/forms/d/e/1FAIpQLSfJQZDI7MB-gvlyic5DzOFPNl0oBGMBjDP7HhLnSxsT5
+ NWvpQ/viewform</a><br>원문: <a href="https://x.com/labor_health/status/193843
+ 9556254351531">https://x.com/labor_health/status/1938439556254351531</a>
+LAST-MODIFIED:20250629T021045Z
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:(온라인) 2025 여름 특강〈일해도 불안한 우리 - 불안정노동 시대와 정치〉
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20250709T090000Z
+DTEND:20250709T110000Z
+DTSTAMP:20250914T135147Z
+UID:1njco8udcr628rsqtp7v2c38as@google.com
+CLASS:PUBLIC
+CREATED:20250629T021312Z
+DESCRIPTION:📍날짜 : 7월 9일 (수) 6시<br>📍장소 : 이화여대 강의실 &amp\; 온라인<br>📍연사 : 오현희
+  변호사 <br>- (전) 민주사회를 위한 변호사모임 여성인권위원장<br>- (현) 부산 돌려차기 사건 국가 배상 대리인단<br><b>
+ 📍참가비 : 비회원 3000원</b><br>*서페대연 회원 무료<br>주최 : 서페대연<br>후원 : (재) 공공상생연대  <br><
+ br><b>* 서울에서 오프라인 동시 진행</b><br><br>신청: <a href="https://docs.google.com/for
+ ms/d/e/1FAIpQLSeR7BqEhswu-bcOh6cETrR17vTxrAOuzDr2tYqFjUJU_mBuoA/viewform" t
+ arget="_blank">https://docs.google.com/forms/d/e/1FAIpQLSeR7BqEhswu-bcOh6cE
+ TrR17vTxrAOuzDr2tYqFjUJU_mBuoA/viewform</a><br>원문: <a href="https://x.com/s
+ eoulfemi/status/1934431376193073367" target="_blank">https://x.com/seoulfem
+ i/status/1934431376193073367</a>
+LAST-MODIFIED:20250629T021312Z
+LOCATION:이화여자대학교\, 대한민국 서울특별시 서대문구 이화여대길 52
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:(온라인) 7월 서페대연 페미니즘 원데이 클래스: 페미니스트 변호사가 알려주는 여혐댓글 대응法(법)
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20250716T100000Z
+DTEND:20250716T110000Z
+DTSTAMP:20250914T135147Z
+UID:3acgbf0ditbi40lvqmurtvdbp9@google.com
+CLASS:PUBLIC
+CREATED:20250629T031720Z
+DESCRIPTION:[7월 플랫폼C 페미니즘 공부모임] 🛠작업장의 페미니즘 - 여성 노동자\, 가부장적 구조를 깨다<br>* 서울에
+ 서 오프라인으로 동시 진행됩니다!<br><br>이 책은 남성 중심적인 노동 현장에서 ‘소수자’로 존재하는 여성 노동자들의 이야기를 담고
+  있습니다. 남초 작업장에서 자신의 여성성을 감추고 살아남아야 했던 여성들\, 노동조합 안에서도 주변화되며 성평등한 활동 기반을 스스로
+  만들어가야 했던 여성 활동가들. 이들이 마주한 성차별적 구조와 그에 맞선 실천의 과정이 인터뷰와 서술을 통해 펼쳐집니다. <br>페미
+ 니즘이 일터에서 어떤 방식으로 실천되고 있는지\, 우리가 함께 연대할 수 있는 페미니즘은 어떤 모습이어야 하는지를 이야기해봅시다!<br
+ ><br>📅 일시:  7월 16일 수요일 오후 7시 <br>📍 장소: <b>서울 마포구 동교로 41\, 2층 플랫폼c + 줌온라인<
+ /b><br>💬 대상: 페미니즘과 노동에 관심 있는 누구나<br>📲 문의 : 010-이오공공-4614<br><br>신청: <a hr
+ ef="https://docs.google.com/forms/d/e/1FAIpQLSeFom_IMHQqYBhgXU3dGTwO-pojpdz
+ 13CyL0dgRqpf1v8_hGg/viewform" target="_blank">https://docs.google.com/forms
+ /d/e/1FAIpQLSeFom_IMHQqYBhgXU3dGTwO-pojpdz13CyL0dgRqpf1v8_hGg/viewform</a><
+ br>원문: <a href="https://t.me/platformc/2727" target="_blank">https://t.me/p
+ latformc/2727</a>
+LAST-MODIFIED:20250629T031820Z
+LOCATION:플랫폼C\, 대한민국 서울특별시 마포구 동교로 41 2층
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:(온라인) 『작업장의 페미니즘』- 여성 노동자\, 가부장적 구조를 깨다
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20250704T100000Z
+DTEND:20250704T110000Z
+DTSTAMP:20250914T135147Z
+UID:0iinj91nambue47d7spv4bsq7f@google.com
+CREATED:20250629T050451Z
+DESCRIPTION:일시: 7. 4.(금) 19:00\n장소: 인권재단 사람 B1 사람홀 (서울시 은평구 증산로17가길 15-7)\n
+ 참가비:  5000원(오프라인 선착순 50명\, 현장 참가 시 비건 김밥 제공)\n* 온라인 스트리밍 예정\n\n발표자: 다나 엘-쿠르
+ 드\n주제: 미국이 허락한 '평화': 점령의 하수인\, 팔레스타인 자치정부\n\n신청링크: https://docs.google.com/
+ forms/d/e/1FAIpQLScaotDNavv7KgfixlYHpwIYlFC3rZLAoAfbsFtx9-A6aqoA0w/viewform
+ \n원본링크: https://x.com/pps_kr/status/1938149756343357751
+LAST-MODIFIED:20250629T050451Z
+LOCATION:인권재단 사람\, 대한민국 서울특별시 은평구 증산로17가길 15-7 3층
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:(온라인) [방한 팔레스타인 학자 특강] 미국이 허락한 '평화': 점령의 하수인\, 팔레스타인 자치정부
+TRANSP:OPAQUE
+ATTACH;FILENAME=GuWvoWNbEAIyMvF.jpg;FMTTYPE=image/jpeg:https://drive.google
+ .com/open?id=1vZ5ZfmqETWeB8BHzSyG7HHGKFdMI8LiX
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20250723T103000Z
+DTEND:20250723T123000Z
+DTSTAMP:20250914T135147Z
+UID:1lmht66pstt8nhbtpgd4lqpen2@google.com
+CLASS:PUBLIC
+CREATED:20250701T155341Z
+DESCRIPTION:일시: 7. 23.(수) 19:30 ~ 21:30<br>장소: 온라인<br><br>주제<br>- 2030 좌충우돌
+  금융 성장기 (7/23)<br>- 4050 퀴어들의 화려한 금융생활(8/20)<br>- 퀴어가 퀴어에게 알려주는 건강보험(9/10)<
+ br><br>신청 링크: <a href="https://docs.google.com/forms/d/e/1FAIpQLScIl7jDvnCj
+ cvu3nqv6Eey5XWiVpvlAnS62HCvBtsUBe9t16Q/viewform">https://docs.google.com/fo
+ rms/d/e/1FAIpQLScIl7jDvnCjcvu3nqv6Eey5XWiVpvlAnS62HCvBtsUBe9t16Q/viewform</
+ a><br>원본링크: <a href="https://x.com/kscrc/status/1940010179241943071">https:
+ //x.com/kscrc/status/1940010179241943071</a>
+LAST-MODIFIED:20250701T155341Z
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:(온라인) Money with Pride와 함께 만드는 퀴어를 위한 금융백서
+TRANSP:OPAQUE
+ATTACH;FILENAME=GuxM-HvXEAE3OkT.jpg;FMTTYPE=image/jpeg:https://drive.google
+ .com/open?id=1-NcOrDcE_-WlLjlYO42gfOvj_ZZL_Tvu
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20250910T103000Z
+DTEND:20250910T123000Z
+DTSTAMP:20250914T135147Z
+UID:7mv9itcau0pqn9mejl25c70gtm@google.com
+CLASS:PUBLIC
+CREATED:20250701T155458Z
+DESCRIPTION:<br>일시: 9. 10.(수) 19:30 ~ 21:30<br>장소: 온라인<br><br>주제<br>- 2030 
+ 좌충우돌 금융 성장기 (7/23)<br>- 4050 퀴어들의 화려한 금융생활(8/20)<br>- 퀴어가 퀴어에게 알려주는 건강보험(9/
+ 10)<br><br>신청 링크: <a href="https://docs.google.com/forms/d/e/1FAIpQLScIl7jD
+ vnCjcvu3nqv6Eey5XWiVpvlAnS62HCvBtsUBe9t16Q/viewform"><u>https://docs.google
+ .com/forms/d/e/1FAIpQLScIl7jDvnCjcvu3nqv6Eey5XWiVpvlAnS62HCvBtsUBe9t16Q/vie
+ wform</u></a><br>원본링크: <a href="https://x.com/kscrc/status/1940010179241943
+ 071"><u>https://x.com/kscrc/status/1940010179241943071</u></a>
+LAST-MODIFIED:20250701T155458Z
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:(온라인) Money with Pride와 함께 만드는 퀴어를 위한 금융백서
+TRANSP:OPAQUE
+ATTACH;FILENAME=GuxM-HvXEAE3OkT.jpg;FMTTYPE=image/jpeg:https://drive.google
+ .com/open?id=1-NcOrDcE_-WlLjlYO42gfOvj_ZZL_Tvu
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20250820T103000Z
+DTEND:20250820T123000Z
+DTSTAMP:20250914T135147Z
+UID:6735k2o1edpq40qk5nfcbo4tmp@google.com
+CLASS:PUBLIC
+CREATED:20250701T155421Z
+DESCRIPTION:<br>일시: 8. 20.(수) 19:30 ~ 21:30<br>장소: 온라인<br><br>주제<br>- 2030 
+ 좌충우돌 금융 성장기 (7/23)<br>- 4050 퀴어들의 화려한 금융생활(8/20)<br>- 퀴어가 퀴어에게 알려주는 건강보험(9/
+ 10)<br><br>신청 링크: <a href="https://docs.google.com/forms/d/e/1FAIpQLScIl7jD
+ vnCjcvu3nqv6Eey5XWiVpvlAnS62HCvBtsUBe9t16Q/viewform"><u>https://docs.google
+ .com/forms/d/e/1FAIpQLScIl7jDvnCjcvu3nqv6Eey5XWiVpvlAnS62HCvBtsUBe9t16Q/vie
+ wform</u></a><br>원본링크: <a href="https://x.com/kscrc/status/1940010179241943
+ 071"><u>https://x.com/kscrc/status/1940010179241943071</u></a>
+LAST-MODIFIED:20250701T155514Z
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:(온라인) Money with Pride와 함께 만드는 퀴어를 위한 금융백서
+TRANSP:OPAQUE
+ATTACH;FILENAME=GuxM-HvXEAE3OkT.jpg;FMTTYPE=image/jpeg:https://drive.google
+ .com/open?id=1-NcOrDcE_-WlLjlYO42gfOvj_ZZL_Tvu
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=Asia/Seoul:20250728T193000
+DTEND;TZID=Asia/Seoul:20250728T210000
+RRULE:FREQ=WEEKLY;WKST=MO;COUNT=4;BYDAY=MO,WE
+DTSTAMP:20250914T135147Z
+UID:5jlldrbk6hhl3curdfhc3ppnkt@google.com
+CLASS:PUBLIC
+CREATED:20250706T033947Z
+DESCRIPTION:<br>○ 일시 : 2025년 7월 28일(월)\, 31일(수)\,  8월 4일(월)\,  6일(수) 저녁 7시 
+ 30분 ~ 9시 30분<br><br>○ 강사 : 권김현영(여성현실연구소)<br>○ 장소 : 온라인(ZOOM)<br>○ 신청하기 :<a 
+ href="https://bit.ly/etalfs25">https://bit.ly/etalfs25</a><br>○ 참가비 : 80\,0
+ 00원(단강 수강 없습니다. 한국성적소수자문화인권센터 후원회원 50% 할인)<br><br>입금계좌 : 1006-301-221561 (우
+ 리은행 예금주 : 한국성적소수자문화인권센터)<br><br><br><u><b>* 본 강의는 강의 후 신청하신 분에 한하여 매 강의 다음날
+ 부터 2주간 강의 녹화 영상의 링크를 제공합니다.</b></u><br><u><b>* 본 강좌를 수강하시는 분들은 9월에 진행될 페미니즘
+  정치강좌 수강시 할인 혜택을 드립니다!</b></u><br>○  문의 : <a href="mailto:e_tal_edu@naver.c
+ om">e_tal_edu@naver.com</a> / 010-6795-8981<br><br>출처: <a href="https://x.c
+ om/kscrc/status/1941469940806193584">https://x.com/kscrc/status/19414699408
+ 06193584</a>
+LAST-MODIFIED:20250706T033955Z
+LOCATION:줌
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:(온라인) 이탈 기획특강: 권김현영의 페미니즘 입문강좌
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20250708T100000Z
+DTEND:20250708T113000Z
+DTSTAMP:20250914T135147Z
+UID:67ilm5q4rdimt4mrmp1vjo36mj@google.com
+CLASS:PUBLIC
+CREATED:20250630T092745Z
+DESCRIPTION:일시: 7. 8.(화) 19:00<br>장소: 세종문화회관 노조 사무실 및 온라인 병행<br><br>원본링크: <
+ a href="https://x.com/jjw19780909kje/status/1939339819500601848?s=46" targe
+ t="_blank">https://x.com/jjw19780909kje/status/1939339819500601848?s=46</a>
+ <br>신청: <a href="https://docs.google.com/forms/d/e/1FAIpQLSdqiuri3IaVuoPL22
+ ncmbFckwwLYI6HraxnhRJjuGftN7qiRA/viewform">https://docs.google.com/forms/d/
+ e/1FAIpQLSdqiuri3IaVuoPL22ncmbFckwwLYI6HraxnhRJjuGftN7qiRA/viewform</a>
+LAST-MODIFIED:20250706T055024Z
+LOCATION:세종문화회관\, 대한민국 서울특별시 종로구 세종대로 175
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:(온라인) 정세 교육 〈지금 세계는\, 우리는: 이스라엘\, 이란 그리고 트럼프〉
+TRANSP:OPAQUE
+ATTACH;FILENAME=GunrSMBawAAGvV6.jpg;FMTTYPE=image/jpeg:https://drive.google
+ .com/open?id=1Ci3r9HwPKgilGuASVoI9t1ot-lGmZ6cL
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20250714T103000Z
+DTEND:20250714T123000Z
+DTSTAMP:20250914T135147Z
+UID:0gbgk1bdffrijs3rggf2f5bur3@google.com
+CLASS:PUBLIC
+CREATED:20250701T153515Z
+DESCRIPTION:일시: 7. 14.(월) 19:30<br>장소: 온라인<br><br>발표: 황지영 서강대 사회학과 박사과정<br>
+ <br>신청 링크: <a href="https://docs.google.com/forms/d/e/1FAIpQLSfBudcBofmk2uY
+ UrfG423tuYfp98b-fq9F8wmDtpIA-QEAFIw/viewform">https://docs.google.com/forms
+ /d/e/1FAIpQLSfBudcBofmk2uYUrfG423tuYfp98b-fq9F8wmDtpIA-QEAFIw/viewform</a><
+ br>원본 링크: <a href="https://x.com/saramiwatta/status/1939876496862290414">ht
+ tps://x.com/saramiwatta/status/1939876496862290414</a>
+LAST-MODIFIED:20250712T175029Z
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:(온라인) (가)사람이왔다 네번째 공부모임: 비합법 노동시장의 이주노동자와 브로커
+TRANSP:OPAQUE
+ATTACH;FILENAME=GuvTY26WwAAg3bw.jpg;FMTTYPE=image/jpeg:https://drive.google
+ .com/open?id=1QSSFlDkc2tXpbtiEPcNYcr5VfAHrY_Fv
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20250725T100000Z
+DTEND:20250725T110000Z
+DTSTAMP:20250914T135147Z
+UID:03a2q13cgelog7b5gvisoipr9p@google.com
+CLASS:PUBLIC
+CREATED:20250714T161600Z
+DESCRIPTION:* 온라인 ZOOM 참가 병행<br>일시 : 7/25(금) 19:00<br>장소 : 강북노동자복지관 205호(서울
+  마포구 환일길 13)<br><br>프로그램<br>- 발제 : 양준석 국제연대위원장<br>- 사회 : 이용덕 정책선전위원<br><br>
+ 참가신청 링크 : <a href="https://docs.google.com/forms/d/e/1FAIpQLSfcyib4HC4k701m
+ VRaMLQHDZDyFisgODw_k1WzRUky2FBxnpQ/viewform">https://docs.google.com/forms/
+ d/e/1FAIpQLSfcyib4HC4k701mVRaMLQHDZDyFisgODw_k1WzRUky2FBxnpQ/viewform</a><b
+ r><br>출처 : <a href="https://x.com/March2Socialism/status/194430436464834590
+ 3">https://x.com/March2Socialism/status/1944304364648345903</a>
+LAST-MODIFIED:20250714T161600Z
+LOCATION:서울특별시 강북노동자복지관\, 대한민국 서울특별시 마포구 환일길 13
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:(서울\, 온라인)  [사회주의를향한전진 정세집담회] 세계적인 극우 정권과 '민주' 정권의 주고받기\, 어떻게 깨부술 것
+ 인가?
+TRANSP:OPAQUE
+ATTACH;FILENAME=GvuKqRJbsAEfpk7.jpg;FMTTYPE=image/jpeg:https://drive.google
+ .com/open?id=16oiIiyTs08Eu7LrVj1UKv6czJb2qo_IH
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20250826T050000Z
+DTEND:20250826T073000Z
+DTSTAMP:20250914T135147Z
+UID:32jjbcgl48ne3t7nu40h1rufac@google.com
+CLASS:PUBLIC
+CREATED:20250714T163900Z
+DESCRIPTION:일시 : 8/26(화) 14:00 ~ 16:30<br>장소 : 공공운수노조 2층 모아홀(ZOOM 병행)<br>대상
+  : 노동조합 간부 및 활동가\, 각 단위사업장 조직\, 정책\, 사업기획\, 교육\, 언론홍보 담당자\, 진보정당운동 활동가\, AI
+ 에 관심있는 시민<br>※ 참가자 노트북 지참요망<br>문의 : 교육센터 움(02-497-0471)<br><br>프로그램<br>- 강사
+  : 김태관PD (전 KBC PD / 현 호남대학교 미디커뮤니케이션학과 교수)<br>1부 : 생성형 AI 활용 전략 : 14:00~15
+ :00<br>2부 : 생성형 AI 활용 제안 : 15:15~16:15<br> <br>출처 : <a href="https://x.com/
+ kptunews/status/1944617983600644371?s=46">https://x.com/kptunews/status/194
+ 4617983600644371?s=46</a>
+LAST-MODIFIED:20250714T163900Z
+LOCATION:전국공공운수사회서비스노조\, 대한민국 서울특별시 강서구 등촌로 149
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:(서울\, 온라인) [교육센터 움 두 번째 열린강좌] 생성형AI(Generative AI) 활용 전략과 제안
+TRANSP:OPAQUE
+ATTACH;FILENAME=Gvyrvz5bIAAAgDG.jpg;FMTTYPE=image/jpeg:https://drive.google
+ .com/open?id=1a--0IsjBu34LWGPBRGuhmWfDBlee_Fj0
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20250805T103000Z
+DTEND:20250805T113000Z
+DTSTAMP:20250914T135147Z
+UID:1s5ihsgc0mr76a5ria38h1837f@google.com
+CLASS:PUBLIC
+CREATED:20250715T091835Z
+DESCRIPTION:일시: 8. 5.(화) 19:30<br>장소: 온라인 (ZOOM)<br><br>8월의 책: 닉 서르닉\, 2020
+ \, &lt\;플랫폼 자본주의&gt\;<br><br>신청링크: <a href="https://docs.google.com/forms/d
+ /e/1FAIpQLSf5KkiROYjlb2JbR-ZsUcMj-ML-K2tIyn1HGu1KwXOb_-01Eg/viewform">https
+ ://docs.google.com/forms/d/e/1FAIpQLSf5KkiROYjlb2JbR-ZsUcMj-ML-K2tIyn1HGu1K
+ wXOb_-01Eg/viewform</a><br>원본링크: <a href="https://x.com/demlabor1848/status
+ /1944971976931729845">https://x.com/demlabor1848/status/1944971976931729845
+ </a>
+LAST-MODIFIED:20250715T091835Z
+LOCATION:ZOOM
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:(온라인) 민주주의와노동연구소 '민책클럽': 21세기 노동의 변화
+TRANSP:OPAQUE
+ATTACH;FILENAME=Gv3tlp1a4AQk2MT.jpg;FMTTYPE=image/jpeg:https://drive.google
+ .com/open?id=1p_dvxwDhl6jvFJQZH6TO9z6m5jlHlQIc
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20250717T100000Z
+DTEND:20250720T110000Z
+DTSTAMP:20250914T135147Z
+UID:5cplnf4rl35m1tbgjhqlvaaatb@google.com
+CLASS:PUBLIC
+CREATED:20250716T070339Z
+DESCRIPTION:*온라인(비대면) 상영만 진행합니다.<br>*온라인 상영 링크는 당일 문자/이메일로 발송됩니다.<br>일시 : 7
+ /17(목) 19:00 ~ 7/20(일) 자정까지 자유롭게 관람<br>문의 : (사)푸른아시아 070-8798-7924<br><br>참
+ 가신청 링크 : <a href="https://docs.google.com/forms/d/e/1FAIpQLSf2URc8k-iipeQ5-
+ 90eSnPNPVCRhdFaCr2XtlM9BJjGikjoUA/viewform">https://docs.google.com/forms/d
+ /e/1FAIpQLSf2URc8k-iipeQ5-90eSnPNPVCRhdFaCr2XtlM9BJjGikjoUA/viewform</a><br
+ ><br>출처 : <a href="https://x.com/pps_kr/status/1945330590485766328">https:/
+ /x.com/pps_kr/status/1945330590485766328</a>
+LAST-MODIFIED:20250716T070339Z
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:(온라인) '기후변화씨네톡' 〈야생의 채집가들〉 비대면 상영회
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20250722T100000Z
+DTEND:20250722T110000Z
+DTSTAMP:20250914T135147Z
+UID:3nfg6rbmbd7bvrf4kmvmvoha9l@google.com
+CLASS:PUBLIC
+CREATED:20250719T111900Z
+DESCRIPTION:일시: 7. 22.(화) 19:00<br>장소: 서울근로자건강센터 BYC 211호 대회의실 / 온라인 줌<br>초
+ 대손님: 저자 김은정<br>문의 : 반올림 임다윤 (010-5310-8992)<br><br>*북토크에서는 &lt\;치유라는 이름의 폭력
+ &gt\; 서론과 결론\, 일라이 클레어의 &lt\;눈부시게 불완전한&gt\;의 4장 '치유의 뉘앙스'를 함께 논의할 예정이니 미리 읽
+ 고 오시면 좋겠습니다.<br><br>신청링크: <a href="https://docs.google.com/forms/d/e/1FAIpQ
+ LSdakUf33FuuDqygRYZndwSqNsKMWhNd59ZGJeMhK2Gqc3nKnQ/viewform">https://docs.g
+ oogle.com/forms/d/e/1FAIpQLSdakUf33FuuDqygRYZndwSqNsKMWhNd59ZGJeMhK2Gqc3nKn
+ Q/viewform</a><br><br>원본링크: <a href="https://x.com/sharpsglory/status/19420
+ 46174925783199">https://x.com/sharpsglory/status/1942046174925783199</a>
+LAST-MODIFIED:20250719T111900Z
+LOCATION:서울근로자건강센터/서울직업트라우마센터\, 대한민국 서울특별시 금천구 가산동 가산디지털1로 131
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:(서울\, 온라인) 저자 김은정과 함께하는 <치유라는 이름의 폭력> 북토크 - 장애학과 페미니즘의 눈으로 본 근현대 한국
+ 문학
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20250701T050000Z
+DTEND:20250701T060000Z
+DTSTAMP:20250914T135147Z
+UID:031ldgumu596qe3e1e59dv4jkf@google.com
+CLASS:PUBLIC
+CREATED:20250721T153104Z
+DESCRIPTION:*공간 한계상 약 15명 정도의 오프라인 신청자(선착순)만 받고 나머지 신청자는 온라인 링크를 제공해드리는 점 양
+ 해 부탁드립니다*<br>일시 : 7/22(화) 14:00<br>장소 : 민주노동당(정의당) 당사 (서울시 구로구 디지털로33길 55 이
+ 앤씨벤처드림타워2차 1011호)  *네이버 지도 검색시 '정의당'을 검색해야 합니다*<br>진행 : 출범식 후 창립총회 진행 / 온오프
+ 라인 병행하여 진행<br>문의 : 010-4885-0331<br><br>프로그램<br> 1부 출범식<br>0. 참석자 소개<br>0-1
+  민중의례<br>1. 출범식 시작<br>1-1 기조영상<br>2. 축사(민주노동당 대전시당 부위원장 '신민기'\, 도서 '고등학교운동사
+ ' 기획 저자 '조한진희'\, 전국학교비정규직노동조합 위원장 '000'\, 청소년정치연합 위원장 '이지민')<br>3. 출범문 낭독<b
+ r>4. 단체 사진 찍고 마무리<br>5. 10분 쉬는 시간<br><br>2부 창립총회<br>0. 인사말<br>1. 상급 단체 결정<b
+ r>2. 위원장\, 부위원장\, 사무총장 출마의변 간단히 듣고 선출<br>3. 규정\, 규약\, 강령 결정<br>4. 앞으로 어떤 활동
+ 을 할건지 계획 듣기<br>5. 기타 논의 안건<br>6. 단체사진 찍고 마무리<br><br>신청 링크 : <a href="https:
+ //docs.google.com/forms/d/e/1FAIpQLSepXRAZkOEW4ejJVpy7Bbvd5TuCbYUB9xmcFFdX0
+ cYQe-yD1g/viewform">https://docs.google.com/forms/d/e/1FAIpQLSepXRAZkOEW4ej
+ JVpy7Bbvd5TuCbYUB9xmcFFdX0cYQe-yD1g/viewform</a><br><br>출처 : <a href="https
+ ://x.com/youthlaborunion/status/1947274347476836396?s=46&amp\;t=frFzTWA-mZF
+ wJZsmyf0hhg">https://x.com/youthlaborunion/status/1947274347476836396?s=46&
+ amp\;t=frFzTWA-mZFwJZsmyf0hhg</a>
+LAST-MODIFIED:20250721T153105Z
+LOCATION:197-10\, 대한민국 서울특별시 구로구 구로동 197-10
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY: (서울\, 온라인) 전국청소년노동조합 창립총회 및 출범식
+TRANSP:OPAQUE
+ATTACH;FILENAME=GwYbscKbgAAPIiE.jpg;FMTTYPE=image/jpeg:https://drive.google
+ .com/open?id=1hjaPFinRt-FTJ9UtmeAiQS9gy4mwZhXJ
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20250729T110000Z
+DTEND:20250729T120000Z
+DTSTAMP:20250914T135147Z
+UID:1d1ls2c374639vp4hnde4p26fh@google.com
+CLASS:PUBLIC
+CREATED:20250724T072017Z
+DESCRIPTION:일시 : 7/29(화) 20:00<br>장소 : 온라인(줌 주소를 개별적으로 보내드립니다.)<br>신청 및 문의 
+ : 보리 010-9207-4711<br><br>참가 신청 링크 : <a href="https://docs.google.com/forms
+ /d/e/1FAIpQLSeBK9b7P1XhLxa1K422UTifAChLflWleNhIi52DRHP9_uAqyg/viewform">htt
+ ps://docs.google.com/forms/d/e/1FAIpQLSeBK9b7P1XhLxa1K422UTifAChLflWleNhIi5
+ 2DRHP9_uAqyg/viewform</a><br><br>출처 : <a href="https://x.com/animalmoim/sta
+ tus/1947580384285495622">https://x.com/animalmoim/status/194758038428549562
+ 2</a>
+LAST-MODIFIED:20250724T072017Z
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:(온라인) 복날 앞\, 뜨겁게 끓여지는 지구
+TRANSP:OPAQUE
+ATTACH;FILENAME=GwcyBDDbEAA_qyi.jpg;FMTTYPE=image/jpeg:https://drive.google
+ .com/open?id=1jRvyFYr05MMv05wilzRjRiDJdV6-1qlC
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=Asia/Seoul:20250719T170000
+DTEND;TZID=Asia/Seoul:20250719T190000
+RRULE:FREQ=WEEKLY;WKST=MO;UNTIL=20250809T145959Z;BYDAY=SA
+DTSTAMP:20250914T135147Z
+UID:5sp1p6lk870q4ihnkti2q0k3q7@google.com
+CLASS:PUBLIC
+CREATED:20250714T162224Z
+DESCRIPTION:〈반란의 청소년〉 「10대의 섹스\, 유쾌한 섹슈얼리티」 함께 읽기<br><br>*해당 이벤트는 청소년\, 비청소
+ 년 관계없이 자유롭게 참여 가능합니다.<br>* 7/19~8/9까지 매주 토요일 17:00~19:00 온라인으로 진행합니다.<br>* 
+ 1. 발제 2. 비판 3. 토론 순서로 진행될 예정입니다.<br><br>문의 : 성적인청소년들 wearesexualteens@gmail
+ .com<br><br>7/19<br>1장 : 서문 / 막연한 섹스\, 변화하는 10대\, 갈팡질팡하는 어른들. pp. 4~63<br>청
+ 소년의 섹슈얼리티란 무엇일까?<br><br>7/26<br>2장 : 진동하는 10대. pp. 64~88<br>어른들은 청소년의 섹슈얼리티
+ 를 어떻게 바라보고 있을까?<br><br>8/2<br>3장 : 10대 여성\, 외모 중심주의에 갇히다. pp. 89~125<br>어른들
+ 은 왜\, 어떻게 청소년\, 특히 여성청소년의 외모를 재단하려 들까?<br><br>8/9<br>4장 : 10대의 로맨스\, 임신에 대한
+  그녀들의 선택 pp. 126~150<br>청소년의 임신은 대체 뭐가 그렇게 문제일까? <br><br>참가 신청 링크 : <a href
+ ="https://docs.google.com/forms/d/e/1FAIpQLSfOVLuDL91OzdV6F26h5-LPiGGklaXJ8
+ VUzo98fuQm0nMo3Bw/viewform">https://docs.google.com/forms/d/e/1FAIpQLSfOVLu
+ DL91OzdV6F26h5-LPiGGklaXJ8VUzo98fuQm0nMo3Bw/viewform</a><br><br>출처 : <a hre
+ f="https://x.com/Sexualteens_Kr/status/1941336428073582952">https://x.com/S
+ exualteens_Kr/status/1941336428073582952</a>
+LAST-MODIFIED:20250726T132138Z
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:(온라인) 〈반란의 청소년〉「10대의 섹스\, 유쾌한 섹슈얼리티」 함께 읽기
+TRANSP:OPAQUE
+ATTACH;FILENAME=GvEDKikXAAASeN8.jpg;FMTTYPE=image/jpeg:https://drive.google
+ .com/open?id=1gf3aeV1gSPOMCzWk2cnhrRjqJiuX2Qme
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20250801T100000Z
+DTEND:20250801T110000Z
+DTSTAMP:20250914T135147Z
+UID:25igpi5jop5rgq3uqiq8qffndu@google.com
+CLASS:PUBLIC
+CREATED:20250729T130718Z
+DESCRIPTION:일시 : 8/1(금) 19:00<br>장소 : ZOOM(온라인)<br><br>참가 신청 링크 : <a href="
+ https://docs.google.com/forms/d/e/1FAIpQLSeEJt4NA0RIDkfC7xjbpk2XKfLWXMHat-a
+ IxLdIkqskg95eQw/viewform">https://docs.google.com/forms/d/e/1FAIpQLSeEJt4NA
+ 0RIDkfC7xjbpk2XKfLWXMHat-aIxLdIkqskg95eQw/viewform</a><br><br>출처 : <a href=
+ "https://x.com/gongjaee/status/1950128212404846718">https://x.com/gongjaee/
+ status/1950128212404846718</a>
+LAST-MODIFIED:20250729T130718Z
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:(온라인) 공공재생에너지법 5만 국민동의청원의 의미와 경험을 나누는 온라인 집담회
+TRANSP:OPAQUE
+ATTACH;FILENAME=GxA-iOhbUAExk7c.jpg;FMTTYPE=image/jpeg:https://drive.google
+ .com/open?id=1j3-HME-Hp4e82z-NEblwEFa9lntP_hX8
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20250813T030000Z
+DTEND:20250813T050000Z
+DTSTAMP:20250914T135147Z
+UID:5dt6064pa28p2lqbn6outmbh7g@google.com
+CLASS:PUBLIC
+CREATED:20250804T120913Z
+DESCRIPTION:이주구금대응네트워크 연속기획강좌 제 3회 <br>'인종화'된 억류: 미국의 이주구금 현황과 폐지운동<br><br>
+ 일시 : 8/13(수) 12:00~14:00<br>진행: 김연주(이주구금대응네트워크\, 난민인권센터)<br>강연 : 서범선(Detent
+ ion Watch Network)<br>참가비 : 전체수강 1만원\, 부분수강 5천원<br>참가비 입금 계좌 : 카카오뱅크 7942-0
+ 3-77659 ㄱㅇㅈ<br>문의 : naidkr2024@gmail.com<br><br>참가신청 링크 : <a href="https://
+ docs.google.com/forms/d/1mQqats9AKryi-cV8Vm8mELrqLtHgBa0CHJQ7GkG0Wt4/viewfo
+ rm?edit_requested=true">https://docs.google.com/forms/d/1mQqats9AKryi-cV8Vm
+ 8mELrqLtHgBa0CHJQ7GkG0Wt4/viewform?edit_requested=true</a><br><br>출처 : <a h
+ ref="https://x.com/dont_be_discove/status/1952281362809098585">https://x.co
+ m/dont_be_discove/status/1952281362809098585</a>
+LAST-MODIFIED:20250804T120913Z
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:(온라인) 이주구금대응네트워크 연속기획강좌 제 3회 '인종화'된 억류: 미국의 이주구금 현황과 폐지운동 - 제1강 트럼프
+  행정부 2기\, 이주구금과 국경통제의 변화와 현황
+TRANSP:OPAQUE
+ATTACH;FILENAME=GxfljMWaMAAZEUu.jpg;FMTTYPE=image/jpeg:https://drive.google
+ .com/open?id=1eMCJrxuwGLKwH2bkqlVpngfIzgSnsRMN
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=Asia/Seoul:20250827T100000
+DTEND;TZID=Asia/Seoul:20250827T130000
+RRULE:FREQ=WEEKLY;WKST=MO;UNTIL=20250924T145959Z;BYDAY=WE
+DTSTAMP:20250914T135147Z
+UID:6uftfhc3k8d7s2ime14g0oogsf@google.com
+CLASS:PUBLIC
+CREATED:20250804T121423Z
+DESCRIPTION:*모든 강의는 온라인 ZOOM 으로 진행됩니다. 각 강의 수강인원은 500명이며\, ZOOM 접속 시 선착순으로 
+ 접속 가능합니다. 인원이 다 찰 경우 접속이 제한될 수 있습니다.<br>*강의 수강 신청 폼에 작성해주신 메일주소와 연락처를 통해 ZO
+ OM 링크를 보내드립니다.<br>*모든 강의는 무료로 수강하실 수 있습니다.<br>*강의를 무료로 진행하기 위해 카카오 같이가치를 통한
+  후원을 받고 있습니다. 많은 참여 부탁 드립니다.<br><br>[1강] 8월 27일 (수) 오전 10시-13시 <br>돌봄을 수입하는
+  사회 : 자본주의 '재생산적 전환' 속 한국의 이주돌봄노동자 1-2세대<br>- 이미애 (제주대학교 탐라문화연구원 학술연구교수)<br
+ ><br>[2강] 9월 3일 (수) 오후 1시-4시<br>팔레스타인 해방 없이 여성 해방 없다 - 가자 홀로코스트\, 이란 침공\, "
+ 페미니즘" 프로파간다<br>- 덩야핑 (팔레스타인 평화연대)<br><br>[3강] 9월 10일 (수) 오후 1시-4시 <br>부엌으로부
+ 터의 혁명 : 『임금과 가부장제』 북토크<br>- 안숙영 (계명대 여성학과 교수)<br><br>[4강] 9월 17일 (수) 오전 10시
+ -13시<br>인종\, 구금\, 추방\, 학살 : 키워드로 풀어보는 미국 페미니즘의 현황<br>- 한주희 (UCLA 젠더학 교수)<br
+ ><br>[5강] 9월 24일 (수) 오후 1시-4시<br>전쟁과 기후위기\, 여성 - 군사산업의 지역화에 대한 고민들<br>- 배보람
+  (녹색전환연구소 부소장)<br><br>수강신청 링크 : <a href="https://docs.google.com/forms/d/e/
+ 1FAIpQLSecivS4rflqi7SXDc95195RFe8iQIag0k3y-LEu8PhQgm31pA/viewform">https://
+ docs.google.com/forms/d/e/1FAIpQLSecivS4rflqi7SXDc95195RFe8iQIag0k3y-LEu8Ph
+ Qgm31pA/viewform</a><br><br>카카오 같이가치 링크 : <a href="https://together.kakao.c
+ om/fundraisings/129536/story">https://together.kakao.com/fundraisings/12953
+ 6/story</a><br><br>출처 : <a href="https://x.com/kwwnet/status/19522786622603
+ 83831">https://x.com/kwwnet/status/1952278662260383831</a>
+LAST-MODIFIED:20250804T121525Z
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:(온라인) 2025 제8회 페미노동아카데미
+TRANSP:OPAQUE
+ATTACH;FILENAME=GxfiW7_bYAABjVN.jpg;FMTTYPE=image/jpeg:https://drive.google
+ .com/open?id=1tj_BKk8h52IA-7aA9RZEZarlYn0dEZ30
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=Asia/Seoul:20250903T130000
+DTEND;TZID=Asia/Seoul:20250903T160000
+DTSTAMP:20250914T135147Z
+UID:6uftfhc3k8d7s2ime14g0oogsf@google.com
+RECURRENCE-ID;TZID=Asia/Seoul:20250903T100000
+CLASS:PUBLIC
+CREATED:20250804T121423Z
+DESCRIPTION:*모든 강의는 온라인 ZOOM 으로 진행됩니다. 각 강의 수강인원은 500명이며\, ZOOM 접속 시 선착순으로 
+ 접속 가능합니다. 인원이 다 찰 경우 접속이 제한될 수 있습니다.<br>*강의 수강 신청 폼에 작성해주신 메일주소와 연락처를 통해 ZO
+ OM 링크를 보내드립니다.<br>*모든 강의는 무료로 수강하실 수 있습니다.<br>*강의를 무료로 진행하기 위해 카카오 같이가치를 통한
+  후원을 받고 있습니다. 많은 참여 부탁 드립니다.<br><br>[1강] 8월 27일 (수) 오전 10시-13시 <br>돌봄을 수입하는
+  사회 : 자본주의 '재생산적 전환' 속 한국의 이주돌봄노동자 1-2세대<br>- 이미애 (제주대학교 탐라문화연구원 학술연구교수)<br
+ ><br>[2강] 9월 3일 (수) 오후 1시-4시<br>팔레스타인 해방 없이 여성 해방 없다 - 가자 홀로코스트\, 이란 침공\, "
+ 페미니즘" 프로파간다<br>- 덩야핑 (팔레스타인 평화연대)<br><br>[3강] 9월 10일 (수) 오후 1시-4시 <br>부엌으로부
+ 터의 혁명 : 『임금과 가부장제』 북토크<br>- 안숙영 (계명대 여성학과 교수)<br><br>[4강] 9월 17일 (수) 오전 10시
+ -13시<br>인종\, 구금\, 추방\, 학살 : 키워드로 풀어보는 미국 페미니즘의 현황<br>- 한주희 (UCLA 젠더학 교수)<br
+ ><br>[5강] 9월 24일 (수) 오후 1시-4시<br>전쟁과 기후위기\, 여성 - 군사산업의 지역화에 대한 고민들<br>- 배보람
+  (녹색전환연구소 부소장)<br><br>수강신청 링크 : <a href="https://docs.google.com/forms/d/e/
+ 1FAIpQLSecivS4rflqi7SXDc95195RFe8iQIag0k3y-LEu8PhQgm31pA/viewform">https://
+ docs.google.com/forms/d/e/1FAIpQLSecivS4rflqi7SXDc95195RFe8iQIag0k3y-LEu8Ph
+ Qgm31pA/viewform</a><br><br>카카오 같이가치 링크 : <a href="https://together.kakao.c
+ om/fundraisings/129536/story">https://together.kakao.com/fundraisings/12953
+ 6/story</a><br><br>출처 : <a href="https://x.com/kwwnet/status/19522786622603
+ 83831">https://x.com/kwwnet/status/1952278662260383831</a>
+LAST-MODIFIED:20250804T121525Z
+SEQUENCE:1
+STATUS:CONFIRMED
+SUMMARY:(온라인) 2025 제8회 페미노동아카데미
+TRANSP:OPAQUE
+ATTACH;FILENAME=GxfiW7_bYAABjVN.jpg;FMTTYPE=image/jpeg:https://drive.google
+ .com/open?id=1tj_BKk8h52IA-7aA9RZEZarlYn0dEZ30
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=Asia/Seoul:20250910T130000
+DTEND;TZID=Asia/Seoul:20250910T160000
+DTSTAMP:20250914T135147Z
+UID:6uftfhc3k8d7s2ime14g0oogsf@google.com
+RECURRENCE-ID;TZID=Asia/Seoul:20250910T100000
+CLASS:PUBLIC
+CREATED:20250804T121423Z
+DESCRIPTION:*모든 강의는 온라인 ZOOM 으로 진행됩니다. 각 강의 수강인원은 500명이며\, ZOOM 접속 시 선착순으로 
+ 접속 가능합니다. 인원이 다 찰 경우 접속이 제한될 수 있습니다.<br>*강의 수강 신청 폼에 작성해주신 메일주소와 연락처를 통해 ZO
+ OM 링크를 보내드립니다.<br>*모든 강의는 무료로 수강하실 수 있습니다.<br>*강의를 무료로 진행하기 위해 카카오 같이가치를 통한
+  후원을 받고 있습니다. 많은 참여 부탁 드립니다.<br><br>[1강] 8월 27일 (수) 오전 10시-13시 <br>돌봄을 수입하는
+  사회 : 자본주의 '재생산적 전환' 속 한국의 이주돌봄노동자 1-2세대<br>- 이미애 (제주대학교 탐라문화연구원 학술연구교수)<br
+ ><br>[2강] 9월 3일 (수) 오후 1시-4시<br>팔레스타인 해방 없이 여성 해방 없다 - 가자 홀로코스트\, 이란 침공\, "
+ 페미니즘" 프로파간다<br>- 덩야핑 (팔레스타인 평화연대)<br><br>[3강] 9월 10일 (수) 오후 1시-4시 <br>부엌으로부
+ 터의 혁명 : 『임금과 가부장제』 북토크<br>- 안숙영 (계명대 여성학과 교수)<br><br>[4강] 9월 17일 (수) 오전 10시
+ -13시<br>인종\, 구금\, 추방\, 학살 : 키워드로 풀어보는 미국 페미니즘의 현황<br>- 한주희 (UCLA 젠더학 교수)<br
+ ><br>[5강] 9월 24일 (수) 오후 1시-4시<br>전쟁과 기후위기\, 여성 - 군사산업의 지역화에 대한 고민들<br>- 배보람
+  (녹색전환연구소 부소장)<br><br>수강신청 링크 : <a href="https://docs.google.com/forms/d/e/
+ 1FAIpQLSecivS4rflqi7SXDc95195RFe8iQIag0k3y-LEu8PhQgm31pA/viewform">https://
+ docs.google.com/forms/d/e/1FAIpQLSecivS4rflqi7SXDc95195RFe8iQIag0k3y-LEu8Ph
+ Qgm31pA/viewform</a><br><br>카카오 같이가치 링크 : <a href="https://together.kakao.c
+ om/fundraisings/129536/story">https://together.kakao.com/fundraisings/12953
+ 6/story</a><br><br>출처 : <a href="https://x.com/kwwnet/status/19522786622603
+ 83831">https://x.com/kwwnet/status/1952278662260383831</a>
+LAST-MODIFIED:20250804T121525Z
+SEQUENCE:1
+STATUS:CONFIRMED
+SUMMARY:(온라인) 2025 제8회 페미노동아카데미
+TRANSP:OPAQUE
+ATTACH;FILENAME=GxfiW7_bYAABjVN.jpg;FMTTYPE=image/jpeg:https://drive.google
+ .com/open?id=1tj_BKk8h52IA-7aA9RZEZarlYn0dEZ30
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=Asia/Seoul:20250924T130000
+DTEND;TZID=Asia/Seoul:20250924T160000
+DTSTAMP:20250914T135147Z
+UID:6uftfhc3k8d7s2ime14g0oogsf@google.com
+RECURRENCE-ID;TZID=Asia/Seoul:20250924T100000
+CLASS:PUBLIC
+CREATED:20250804T121423Z
+DESCRIPTION:*모든 강의는 온라인 ZOOM 으로 진행됩니다. 각 강의 수강인원은 500명이며\, ZOOM 접속 시 선착순으로 
+ 접속 가능합니다. 인원이 다 찰 경우 접속이 제한될 수 있습니다.<br>*강의 수강 신청 폼에 작성해주신 메일주소와 연락처를 통해 ZO
+ OM 링크를 보내드립니다.<br>*모든 강의는 무료로 수강하실 수 있습니다.<br>*강의를 무료로 진행하기 위해 카카오 같이가치를 통한
+  후원을 받고 있습니다. 많은 참여 부탁 드립니다.<br><br>[1강] 8월 27일 (수) 오전 10시-13시 <br>돌봄을 수입하는
+  사회 : 자본주의 '재생산적 전환' 속 한국의 이주돌봄노동자 1-2세대<br>- 이미애 (제주대학교 탐라문화연구원 학술연구교수)<br
+ ><br>[2강] 9월 3일 (수) 오후 1시-4시<br>팔레스타인 해방 없이 여성 해방 없다 - 가자 홀로코스트\, 이란 침공\, "
+ 페미니즘" 프로파간다<br>- 덩야핑 (팔레스타인 평화연대)<br><br>[3강] 9월 10일 (수) 오후 1시-4시 <br>부엌으로부
+ 터의 혁명 : 『임금과 가부장제』 북토크<br>- 안숙영 (계명대 여성학과 교수)<br><br>[4강] 9월 17일 (수) 오전 10시
+ -13시<br>인종\, 구금\, 추방\, 학살 : 키워드로 풀어보는 미국 페미니즘의 현황<br>- 한주희 (UCLA 젠더학 교수)<br
+ ><br>[5강] 9월 24일 (수) 오후 1시-4시<br>전쟁과 기후위기\, 여성 - 군사산업의 지역화에 대한 고민들<br>- 배보람
+  (녹색전환연구소 부소장)<br><br>수강신청 링크 : <a href="https://docs.google.com/forms/d/e/
+ 1FAIpQLSecivS4rflqi7SXDc95195RFe8iQIag0k3y-LEu8PhQgm31pA/viewform">https://
+ docs.google.com/forms/d/e/1FAIpQLSecivS4rflqi7SXDc95195RFe8iQIag0k3y-LEu8Ph
+ Qgm31pA/viewform</a><br><br>카카오 같이가치 링크 : <a href="https://together.kakao.c
+ om/fundraisings/129536/story">https://together.kakao.com/fundraisings/12953
+ 6/story</a><br><br>출처 : <a href="https://x.com/kwwnet/status/19522786622603
+ 83831">https://x.com/kwwnet/status/1952278662260383831</a>
+LAST-MODIFIED:20250804T121525Z
+SEQUENCE:1
+STATUS:CONFIRMED
+SUMMARY:(온라인) 2025 제8회 페미노동아카데미
+TRANSP:OPAQUE
+ATTACH;FILENAME=GxfiW7_bYAABjVN.jpg;FMTTYPE=image/jpeg:https://drive.google
+ .com/open?id=1tj_BKk8h52IA-7aA9RZEZarlYn0dEZ30
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=Asia/Seoul:20250627T190000
+DTEND;TZID=Asia/Seoul:20250627T210000
+RRULE:FREQ=WEEKLY;WKST=MO;UNTIL=20250829T145959Z;BYDAY=FR
+EXDATE;TZID=Asia/Seoul:20250822T190000
+DTSTAMP:20250914T135147Z
+UID:00umjv92q8o9d0djevrg1ml59d@google.com
+CLASS:PUBLIC
+CREATED:20250622T030902Z
+DESCRIPTION:일시: 6. 27.(금)부터 거의 매주 금요일 19:00 ~ 21:00<br>장소: 용산 (온라인 참여 가능)<b
+ r>방식: 20~30분 발제 후 90분 토론<br><br>신청 링크: <a href="https://www.google.com/url?
+ q=https://docs.google.com/forms/d/17B9XzBiYBkDRLle1nOPrG6_qBjf_zskGsCvnsFn1
+ Jtw/viewform?edit_requested%3Dtrue&amp\;sa=D&amp\;source=calendar&amp\;usd=
+ 2&amp\;usg=AOvVaw3I7hLEm4ER9Z-u3gdh2yUW" target="_blank">https://docs.googl
+ e.com/forms/d/17B9XzBiYBkDRLle1nOPrG6_qBjf_zskGsCvnsFn1Jtw/viewform?edit_re
+ quested=true</a><br>원본 링크: <a href="https://www.google.com/url?q=https://x.
+ com/DDdaXqGG86uV3nN/status/1930530767760933223&amp\;sa=D&amp\;source=calend
+ ar&amp\;usd=2&amp\;usg=AOvVaw2R80BFQCKPNwtXEDWkqcqm" target="_blank">https:
+ //x.com/DDdaXqGG86uV3nN/status/1930530767760933223</a>
+LAST-MODIFIED:20250810T084605Z
+LOCATION:용산
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:(온라인) 2025 여름방학 마르크스 톡톡
+TRANSP:OPAQUE
+ATTACH;FILENAME=GsqfgITawAAKbBG.jpg;FMTTYPE=image/jpeg:https://drive.google
+ .com/open?id=1b44j7s_6AClrSDro5ij6Vkug_nnUJSti
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20250820T100000Z
+DTEND:20250820T113000Z
+DTSTAMP:20250914T135147Z
+UID:304u37r17jtos9oe5v17n8ci65@google.com
+CLASS:PUBLIC
+CREATED:20250811T143122Z
+DESCRIPTION:일시 : 8/20(수) 19:00~20:30<br>장소 : 온라인 줌(*이메일과 연락처로 전날 줌 링크 발송드립니
+ 다.)<br>문의 : 010-3337-3409 은혜 (기후정의동맹)<br><br>프로그램<br>사회 : 류민 기후정의동맹 집행위원<br
+ >발제1 : 조건희 한국노동안전보건연구소 상임활동가<br>발제2 : 최효 전국물류센터지부 쿠팡물류센터지회 사무장<br>질의응답 및 토론
+ <br><br>참가 신청 링크 : <a href="https://docs.google.com/forms/d/e/1FAIpQLSej80a
+ 1xf_c14BdfDG4rMe1qnvN-k2gRxreAlSCzxEvvactBQ/viewform">https://docs.google.c
+ om/forms/d/e/1FAIpQLSej80a1xf_c14BdfDG4rMe1qnvN-k2gRxreAlSCzxEvvactBQ/viewf
+ orm</a><br><br>출처 : <a href="https://x.com/_xiayin/status/19547653445828730
+ 95">https://x.com/_xiayin/status/1954765344582873095</a>
+LAST-MODIFIED:20250817T063533Z
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:(온라인) [기후정의동행 8월 월례포럼] 달마다 기후정의 8월 - 노동자의 건강권과 기후정의
+TRANSP:OPAQUE
+ATTACH;FILENAME=GyC4taSbcAEhJHR.jpg;FMTTYPE=image/jpeg:https://drive.google
+ .com/open?id=1T-Rho6TUsBy0sawCh6OmqKsU3MIBb_W5
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20250821T040000Z
+DTEND:20250821T090000Z
+DTSTAMP:20250914T135147Z
+UID:jlvfdg2snvsuoq1s333nprvnd0@google.com
+CREATED:20250802T085223Z
+DESCRIPTION:일시: 8. 21.(목) 13:00 ~ 18:00\n장소: ZOOM 온라인\n\n주최: 국제한국문학문화학\n\n참
+ 여: ZOOM 482 033 6975 (369369)
+LAST-MODIFIED:20250817T063644Z
+LOCATION:ZOOM
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:(온라인) 페미니즘 리부트 이후 10년 퀴어/페미니즘 정치의 심화와 분화
+TRANSP:OPAQUE
+ATTACH;FILENAME=페미니즘리부트 10년 학술대회.png;FMTTYPE=image/png:https://drive.google
+ .com/file/d/1V2a1XamvTFkgF8lNed4fDoW0va40M92z
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20250822T100000Z
+DTEND:20250822T120000Z
+DTSTAMP:20250914T135147Z
+UID:7lv92sab0ckbjrbjtmda8sa9ip@google.com
+CLASS:PUBLIC
+CREATED:20250819T081042Z
+DESCRIPTION:일시 : 8/22(금) 19:00~21:00<br>장소 : ZOOM(*줌 주소는 <b>추후 연락처로 공지</b>드
+ 립니다.)<br><br>프로그램<br>- 19:00~19:10 개회 및 인사<br>사회 : 이현재(여성문화이론연구소\, 한국철학사상연구
+ 회)<br>인사말 : 김종우(한국인권학회)<br>- 19:10~21:00 라운드 테이블<br>1. 권김현영(여성현실연구소) : 누가 왜
+  안티페미니즘과 반동성애를 극우의 기준이 아니라고 하는가?<br>2. 전원근(한국성소수자/퀴어연구학회\, 한국사회사학회) : 반공주의의
+  유령과 반퀴어 정동<br>3. 김보명(한국여성학회\, 이화여대) : 보수우파 혹은 극우의 젠더(반대) 정치학<br>4. 서보경(HIV
+ /AIDS 인권활동가네트워크\, 연세대) : 확인\, 분리\, 퇴치의 기제들과 '정상 상태'로서 미시 파시즘<br>5. 박한희(한국성소
+ 수자연구회\, 공익인권변호사모임 희망을만드는법) : 보수개신교는 어떻게 인권의 언어를 왜곡시켰나 : 차별금지법\, 인권조례\, 성평등에
+  대한 반동<br>- 질의응답 및 상호토론<br><br>참가 신청 링크 : <a href="https://docs.google.com/
+ forms/d/e/1FAIpQLSfdAj8LXXkqFhevfC4iu2JOZ2X4x6XK7YKtkKgPtYyv1VSvEQ/viewform
+ ?fbclid=IwY2xjawMPh2pleHRuA2FlbQIxMABicmlkETEzTEZ6YmEwUzNGMTFNVzJmAR5EvflKc
+ MQDjCkTKZyWGpus1GYPh37qk_rU1E_64NDAbehG9TdGf_Q5mk1Z0w_aem_tcRHBucGQbRSdmSpH
+ -MMTw">https://docs.google.com/forms/d/e/1FAIpQLSfdAj8LXXkqFhevfC4iu2JOZ2X4
+ x6XK7YKtkKgPtYyv1VSvEQ/viewform?fbclid=IwY2xjawMPh2pleHRuA2FlbQIxMABicmlkET
+ EzTEZ6YmEwUzNGMTFNVzJmAR5EvflKcMQDjCkTKZyWGpus1GYPh37qk_rU1E_64NDAbehG9TdGf
+ _Q5mk1Z0w_aem_tcRHBucGQbRSdmSpH-MMTw</a><br><br>출처 : <a href="https://x.com
+ /HopeandLaw/status/1957294792532214127">https://x.com/HopeandLaw/status/195
+ 7294792532214127</a>
+LAST-MODIFIED:20250819T081042Z
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:(온라인) 온라인 공동포럼: 반동성애와 안티페미니즘 그리고 우리사회의 파시즘
+TRANSP:OPAQUE
+ATTACH;FILENAME=Gym1PJea8AAjmkH.jpg;FMTTYPE=image/jpeg:https://drive.google
+ .com/open?id=1xvsWal9iMIs3tWQWdZhX59XzgSx7UCqk
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20250829T100000Z
+DTEND:20250829T110000Z
+DTSTAMP:20250914T135147Z
+UID:65nffntqm1mfnjsc9vf1en0tp2@google.com
+CLASS:PUBLIC
+CREATED:20250822T044338Z
+DESCRIPTION:일시: 8. 29.(금) 19:00<br>장소: 민주노총 15층 회의실 (서울시 중구 정동길 3)<br>* 온라인
+  ZOOM 참가 병행<br><br>발제<br>- 양동민(사회주의를향한전진): 러-우전쟁에 대한 사회주의자의 입장<br>- Sonia(팔
+ 레스타인 학생 공동행동): 러시아 내 소수민족 역사와 러-우 전쟁에서의 상황<br><br>신청링크: <a href="https://do
+ cs.google.com/forms/d/e/1FAIpQLScsoTpHnl7oDLPcMIgsrtcr5vCZXo6KKwzMjTV2wyihY
+ Yg31Q/viewform">https://docs.google.com/forms/d/e/1FAIpQLScsoTpHnl7oDLPcMIg
+ srtcr5vCZXo6KKwzMjTV2wyihYYg31Q/viewform</a><br>원본링크: <a href="https://x.co
+ m/MinStudioR/status/1954735305535471742">https://x.com/MinStudioR/status/19
+ 54735305535471742</a>
+LAST-MODIFIED:20250822T044338Z
+LOCATION:전국민주노동조합총연맹\, 대한민국 서울특별시 중구 정동길 3
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:(온라인) [정세집담회] 러시아 소수민족 입장에서 바라본 러-우 전쟁
+TRANSP:OPAQUE
+ATTACH;FILENAME=GyCdZYPa0AAEit3.jpg;FMTTYPE=image/jpeg:https://drive.google
+ .com/open?id=13Dio23Y52eTYgBbqKcrO-5ru3mtJc8RQ
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20250917T100000Z
+DTEND:20250917T120000Z
+DTSTAMP:20250914T135147Z
+UID:0448reim15cuub2a0bh9dcp5ne@google.com
+CREATED:20250823T222158Z
+DESCRIPTION:9월 플랫폼C 페미니즘 공부모임 : 셀 수 없는 성 - ‘두 개의 성’이라는 이분법을 넘어서<br><br>📖 함
+ 께 읽을 책: 『셀 수 없는 성』\, 티에리 오케 지음<br>📅 일시:  9월 17일 수요일 오후 7시 <br>📍 장소: 서울 마포
+ 구 동교로 41\, 2층 플랫폼c + <b>줌온라인</b><br>📌 신청: <a href="https://bit.ly/uncounta
+ ble-sex" target="_blank">https://bit.ly/uncountable-sex</a><br><br>출처: <a h
+ ref="https://x.com/platformckr/status/1959208280779354312" target="_blank">
+ https://x.com/platformckr/status/1959208280779354312</a>
+LAST-MODIFIED:20250823T222158Z
+LOCATION:온라인
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:(온라인\, 서울) 9월 플랫폼C 페미니즘 공부모임: 셀 수없는 성 - '두 개의 성'이라는 이분법을 넘어서
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20250827T030000Z
+DTEND:20250827T050000Z
+DTSTAMP:20250914T135147Z
+UID:5pno0vnh0pb525jf87089pkkc5@google.com
+CLASS:PUBLIC
+CREATED:20250804T121046Z
+DESCRIPTION:이주구금대응네트워크 연속기획강좌 제3회 \n'인종화'된 억류: 미국의 이주구금 현황과 폐지운동\n\n일시 : 8/
+ 27(수) 12:00~14:00\n진행: 김연주(이주구금대응네트워크\, 난민인권센터)\n강연 : 서범선(Detention Watch N
+ etwork)\n참가비 : 전체수강 1만원\, 부분수강 5천원\n참가비 입금 계좌 : 카카오뱅크 7942-03-77659 ㄱㅇㅈ\n문의
+  : naidkr2024@gmail.com\n\n참가신청 링크 : https://docs.google.com/forms/d/1mQqat
+ s9AKryi-cV8Vm8mELrqLtHgBa0CHJQ7GkG0Wt4/viewform?edit_requested=true\n\n출처 :
+  https://x.com/dont_be_discove/status/1952281362809098585
+LAST-MODIFIED:20250824T030129Z
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY: (온라인) 이주구금대응네트워크 연속기획강좌 제 3회 '인종화'된 억류: 미국의 이주구금 현황과 폐지운동 - 제2강 가두
+ 지 않으면 어쩔건데?라는 물음에 폐지운동이 답하다
+TRANSP:OPAQUE
+ATTACH;FILENAME=GxfljMWaMAAZEUu.jpg;FMTTYPE=image/jpeg:https://drive.google
+ .com/open?id=1eMCJrxuwGLKwH2bkqlVpngfIzgSnsRMN
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20250904T103000Z
+DTEND:20250904T113000Z
+DTSTAMP:20250914T135147Z
+UID:74dbld8vikojr23e7d8vb5ubmd@google.com
+CLASS:PUBLIC
+CREATED:20250825T070553Z
+DESCRIPTION:일시 : 9/4(목) 19:30<br>장소 : 온라인 줌 미팅(신청 시\, 안내문자 드립니다)<br><br>프로그
+ 램<br>강사 : 장귀연(전국불안정노동철폐연대)<br><br>* (가)사람이왔다에서는 격월로 이주노동 차별 및 그 철폐에 관한 공부모임
+ 을 진행하고 있습니다. 많은 관심과 참여를 부탁드립니다. <br><br>참가 신청 링크 : <a href="https://docs.go
+ ogle.com/forms/d/e/1FAIpQLSdMmdfHWNdCggryRb4ZDLU3pHA-bgmqfrH3RMhRMS2aGjFvUw
+ /viewform">https://docs.google.com/forms/d/e/1FAIpQLSdMmdfHWNdCggryRb4ZDLU3
+ pHA-bgmqfrH3RMhRMS2aGjFvUw/viewform</a><br><br>출처 : <a href="https://x.com/
+ kmwustu053/status/1959732801433215422?s=46">https://x.com/kmwustu053/status
+ /1959732801433215422?s=46</a>
+LAST-MODIFIED:20250825T070553Z
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:(온라인) 사람이왔다_다섯번째 공부모임 : 이주노동자와 노동조합
+TRANSP:OPAQUE
+ATTACH;FILENAME=GzJemDtacAAoYMv.jpg;FMTTYPE=image/jpeg:https://drive.google
+ .com/open?id=1TIT5nioiPZBncehwEy-r4M8_i8iGp3Ct
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20250910T050000Z
+DTEND:20250910T063000Z
+DTSTAMP:20250914T135147Z
+UID:1d9goplrmuh0ejt50g6vq8emdb@google.com
+CLASS:PUBLIC
+CREATED:20250825T071733Z
+DESCRIPTION:일시 : 9/10(수) 14:00~15:30<br>장소 : 온라인 줌(신청자 이메일로 주소 발송)<br>신청 기간
+  : 9/9(화)까지<br>참가비 : 무료<br>문의 : 2004-609@hanmail.net(전국연대 공식이메일)<br><br>내용<
+ br>강사 : 정미례(성매매문제해결을위한전국연대 정책자문위원)<br>2000년\, 2002년 군산 화재참사와 성매매방지법 제정 운동의 
+ 역사<br><br><br><br><br><br><br><br><br><a href="https://x.com/jkyd2004/statu
+ s/1959801223806365825/photo/1"><br></a><br>참가 신청 링크 : <a href="https://docs
+ .google.com/forms/d/e/1FAIpQLScj00Z0Wa3tuFeVey6yVFRWTYjyg8RVuSHNeok8GLw3y2H
+ eNQ/viewform">https://docs.google.com/forms/d/e/1FAIpQLScj00Z0Wa3tuFeVey6yV
+ FRWTYjyg8RVuSHNeok8GLw3y2HeNQ/viewform</a><br><br>출처 : <a href="https://x.c
+ om/jkyd2004/status/1959801223806365825">https://x.com/jkyd2004/status/19598
+ 01223806365825</a>
+LAST-MODIFIED:20250825T071733Z
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:(온라인) 2025년 성매매문제해결을위한전국연대 민들레순례단 20년 기념 대중강좌: 군산 화재참사\, 어떻게 기억할 것인
+ 가
+TRANSP:OPAQUE
+ATTACH;FILENAME=GzKcz9PbYAAPOA2.jpg;FMTTYPE=image/jpeg:https://drive.google
+ .com/open?id=1mkilq1gKVqLrlqOYyZqnSrff8Wi1kyY-
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20250910T100000Z
+DTEND:20250910T110000Z
+DTSTAMP:20250914T135147Z
+UID:0frb0nnlt0kv4vllvcdp42v51i@google.com
+CLASS:PUBLIC
+CREATED:20250827T045325Z
+DESCRIPTION:일시 : 9/10(수) 19:00<br>장소 : 서울근로자건강센터 BYC 211호 대회의실(서울 금천구 가산디지털
+ 1로 131 BYC 하이시티 211호) / 온라인 줌<br>문의 : 반올림 임다윤(010-5310-8992)<br>초대 손님 : 저자 
+ 김향수<br><br>참가 신청 링크 : <a href="https://docs.google.com/forms/d/e/1FAIpQLSf0
+ fWKd2CGAqdmnjZ15B4KVB7bWGWq4lu7TLWCUBQKdNCikNA/viewform">https://docs.googl
+ e.com/forms/d/e/1FAIpQLSf0fWKd2CGAqdmnjZ15B4KVB7bWGWq4lu7TLWCUBQKdNCikNA/vi
+ ewform</a><br><br>출처 : <a href="https://x.com/sharpsglory/status/1960187977
+ 361191279">https://x.com/sharpsglory/status/1960187977361191279</a>
+LAST-MODIFIED:20250827T045325Z
+LOCATION:서울근로자건강센터/서울직업트라우마센터\, 대한민국 서울특별시 금천구 가산동 가산디지털1로 131
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:(온라인) 저자 김향수와 함께하는 〈골골한 청년들〉 북토크 - '건강한 몸'의 세계를 살아내는 다양한 몸들의 이야기
+TRANSP:OPAQUE
+ATTACH;FILENAME=GzP8kUHaIAAI4kK.jpg;FMTTYPE=image/jpeg:https://drive.google
+ .com/open?id=1WEo_Bdmd-J__KEDvtYd5Hs6WXX61JRA8
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20250902T040000Z
+DTEND:20250902T064000Z
+DTSTAMP:20250914T135147Z
+UID:33n8d18a84875bosgqk1f73pi7@google.com
+CLASS:PUBLIC
+CREATED:20250830T170704Z
+DESCRIPTION:일시: 9. 2.(화) 13:00 ~ 15:40\n장소: 온라인 줌 (서울 오프라인 병행)\n문의 : 2004-6
+ 09@hanmail.net(전국연대 공식 이메일)\n참가비: 5\,000원 (전국연대 후원회원은 무료)\n\n내용\n- 진행: 이하영(
+ 성매매문제해결을위한전국연대 공동대표)\n- 발표 1: 한국 남성의 해외 성구매 관광 실태에 대한 문제제기 - 신그리나(젠더교육연구소 이
+ 제IGE 연구원)\n- 발표 2: 해외 성구매 관광 실태 보고(라오스) - 석희진(탁틴내일 활동가)\n- 발표 3: 해외 성구매 관광 
+ 실태 보고(베트남) - 신지영(성매매문제해결을위한전국연대 활동가)\n- 쉬는시간\n- 토론 1: 신박진영(성매매문제해결을위한전국연대 정
+ 책위원장)\n- 토론 2: 남지(한국이주여성인권센터 활동가)\n\n신청링크: https://docs.google.com/forms/d/
+ e/1FAIpQLSdC6ZjHImQEGmGkV3g_W-M8NmHFb4BRGli1GGagjz6pcgsFyg/viewform\n원본링크: 
+ https://x.com/jkyd2004/status/1955516808699801652
+LAST-MODIFIED:20250830T170704Z
+LOCATION:서울특별시 강북노동자복지관\, 대한민국 서울특별시 마포구 환일길 13
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:(온라인) 국경을 넘는 성착취\, 해외로 성구매하러 가는 남자들
+TRANSP:OPAQUE
+ATTACH;FILENAME=GyNkK8QbQAAx0Ro.jpg;FMTTYPE=image/jpeg:https://drive.google
+ .com/open?id=12cadsar_UydWxMaRrSq8NdyKa1GWkBvZ
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20251005T103000Z
+DTEND:20251005T113000Z
+DTSTAMP:20250914T135147Z
+UID:0eot490r24hn77bqq2phktki12@google.com
+CLASS:PUBLIC
+CREATED:20250905T143524Z
+DESCRIPTION:일시: 10. 5.(목) 19:30<br>장소: 온라인 ZOOM<br><br>참가비: 무료<br><br>신청 링크
+ : <a href="https://docs.google.com/forms/d/e/1FAIpQLSeEyWBJ9Fc0bAOb5_Fq84Hk
+ 2hfMVfgQaKgXL_apez5NuNlOtg/closedform">https://docs.google.com/forms/d/e/1F
+ AIpQLSeEyWBJ9Fc0bAOb5_Fq84Hk2hfMVfgQaKgXL_apez5NuNlOtg/closedform</a> <br>*
+  9. 5. 기준 신청 마감<br>원본 링크: <a href="https://x.com/kscrc/status/1702178525367
+ 972287?s=46">https://x.com/kscrc/status/1702178525367972287?s=46</a>
+LAST-MODIFIED:20250905T143524Z
+LOCATION:ZOOM
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:(온라인) 나이듦 연속강좌 3강: 성소수자와 세금
+TRANSP:OPAQUE
+ATTACH;FILENAME=F59aWkSa4AASgdw.jpg;FMTTYPE=image/jpeg:https://drive.google
+ .com/open?id=1wxquQSkV8pjsgW7wXu68mu-4CVwuyBYU
+ATTACH;FILENAME=F59aWkSa0AAdDxE.jpg;FMTTYPE=image/jpeg:https://drive.google
+ .com/open?id=1lDyFAas-09QVpVnSylcizYNBbE0f4MbV
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20251026T103000Z
+DTEND:20251026T123000Z
+DTSTAMP:20250914T135147Z
+UID:6vpa05un0mtj4klf5l290npnnn@google.com
+CLASS:PUBLIC
+CREATED:20250905T143659Z
+DESCRIPTION:일시: 10. 26.(목) 19:30\n장소: 온라인 ZOOM\n\n참가비: 무료\n\n신청 링크: https:/
+ /docs.google.com/forms/d/e/1FAIpQLSeEyWBJ9Fc0bAOb5_Fq84Hk2hfMVfgQaKgXL_apez
+ 5NuNlOtg/closedform \n* 9. 5. 기준 신청 마감\n원본 링크: https://x.com/kscrc/status/1
+ 702178525367972287?s=46
+LAST-MODIFIED:20250905T143659Z
+LOCATION:ZOOM
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:(온라인) 나이듦 연속강좌 4강: 성소수자 유언장 쓰기 연습 - 내가 만약 유언장 없이 죽는다면
+TRANSP:OPAQUE
+ATTACH;FILENAME=F59aXMpasAA7cKs.jpg;FMTTYPE=image/jpeg:https://drive.google
+ .com/open?id=1G4qQ1DC0lmEXNWmnFfHGoSKc-9lAoUxZ
+ATTACH;FILENAME=F59aXMnbEAANiWI.jpg;FMTTYPE=image/jpeg:https://drive.google
+ .com/open?id=1kbCbNbgGL_zoy6kxMR30kf0smexsYFF3
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20250919T100000Z
+DTEND:20250919T120000Z
+DTSTAMP:20250914T135147Z
+UID:0bnvg6od4eonm4t9cmt43lg3oo@google.com
+CLASS:PUBLIC
+CREATED:20250905T161446Z
+DESCRIPTION:일시: 9. 19.(금) 19:00 ~ 21:00<br>장소: ZOOM 온라인<br><br>신청링크: <a hre
+ f="https://docs.google.com/forms/d/e/1FAIpQLSe4FGGyPNNnqgI87TEP6Ft5Fo0BydGx
+ gi07pZ599i6mgJsF9g/viewform">https://docs.google.com/forms/d/e/1FAIpQLSe4FG
+ GyPNNnqgI87TEP6Ft5Fo0BydGxgi07pZ599i6mgJsF9g/viewform</a><br>원본링크: <a href=
+ "https://x.com/noastrashcan2/status/1963769075055853731?s=46&amp\;t=frFzTWA
+ -mZFwJZsmyf0hhg">https://x.com/noastrashcan2/status/1963769075055853731?s=4
+ 6&amp\;t=frFzTWA-mZFwJZsmyf0hhg</a>
+LAST-MODIFIED:20250905T161446Z
+LOCATION:ZOOM
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:(온라인) 경상남도 에너지 분야 탄소중립정책 선정 공론장
+TRANSP:OPAQUE
+ATTACH;FILENAME=G0C1TIVbgAAqOI0.jpg;FMTTYPE=image/jpeg:https://drive.google
+ .com/open?id=1J1LvAIIurTwT6-c_z0c3H1-29RwQiAAL
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20250919T030000Z
+DTEND:20250919T040000Z
+DTSTAMP:20250914T135147Z
+UID:65n7dev4k96rfqop51ibauakru@google.com
+CLASS:PUBLIC
+CREATED:20250910T152609Z
+DESCRIPTION:일시 : 9/19(금) 12:00<br>장소 : 온라인 ZOOM<br>강사 : 신민기\, AI 개발자/데이터 연구
+ 자<br><br>참여 신청 링크 : <a href="https://docs.google.com/forms/d/e/1FAIpQLSej_d
+ FrfVtRcJIgvrX4LBpv1KHHDrbLeqlNIrwcOzfa_bz2Vg/viewform">https://docs.google.
+ com/forms/d/e/1FAIpQLSej_dFrfVtRcJIgvrX4LBpv1KHHDrbLeqlNIrwcOzfa_bz2Vg/view
+ form</a><br><br>출처 : <a href="https://x.com/labor_health/status/19656860329
+ 65533852">https://x.com/labor_health/status/1965686032965533852</a>
+LAST-MODIFIED:20250910T152609Z
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:(온라인) AI와 노동 1탄: AI에 대해 우리가 알아야 할 넓고 얕은 지식
+TRANSP:OPAQUE
+ATTACH;FILENAME=G0eFBoPbgAEjiNm.jpg;FMTTYPE=image/jpeg:https://drive.google
+ .com/open?id=117UUDK7XL-nMHaVha6-qOm8yN1AjqCRB
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20250925T103000Z
+DTEND:20250925T113000Z
+DTSTAMP:20250914T135147Z
+UID:660fl4lsljkgj3hmiu1o6r41j2@google.com
+CLASS:PUBLIC
+CREATED:20250910T153012Z
+DESCRIPTION:<br>일시 : 9/25(목) 19:30<br><br>장소 : 솔트사직(서울 종로구 사직로11\, 2층) &amp
+ \; 온라인 줌<br>문의 : <a href="mailto:kilshlabor@gmail.com" target="_blank"><u>k
+ ilshlabor@gmail.com</u></a> / 02-324-8633<br>*발제 이후 젠더센터 이주팀 주도로 토론 진행<br><
+ br>참여 신청 링크 : <a href="https://docs.google.com/forms/d/e/1FAIpQLSf8y93MptUZ
+ TCr6-AFnSO41kxvKlj_OnOBIJoAmipFhb7aoRg/viewform" target="_blank"><u>https:/
+ /docs.google.com/forms/d/e/1FAIpQLSf8y93MptUZTCr6-AFnSO41kxvKlj_OnOBIJoAmip
+ Fhb7aoRg/viewform</u></a><br><br>출처 : <a href="https://x.com/pps_kr/status/
+ 1965696533497889124" target="_blank"><u>https://x.com/pps_kr/status/1965696
+ 533497889124</u></a>
+LAST-MODIFIED:20250910T153012Z
+LOCATION:11\, 대한민국 서울특별시 종로구 자하문로1라길 11
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY: (온라인\, 서울) [한국노동안전보건연구소 젠더와노동건강권센터 월례토론회] 존재가 저항이다\, 팔레스타인 민중의 싸움
+TRANSP:OPAQUE
+ATTACH;FILENAME=G0eNth9bMAAGPTs.jpg;FMTTYPE=image/jpeg:https://drive.google
+ .com/open?id=1Cn7BiqjuVQY64e_WMRVN2VZAOFHt7qQ9
+END:VEVENT
+END:VCALENDAR

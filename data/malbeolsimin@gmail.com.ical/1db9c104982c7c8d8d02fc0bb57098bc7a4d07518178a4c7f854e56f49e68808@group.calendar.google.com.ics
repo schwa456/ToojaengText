@@ -1,0 +1,2875 @@
+BEGIN:VCALENDAR
+PRODID:-//Google Inc//Google Calendar 70.9054//EN
+VERSION:2.0
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:투쟁일정_경기&인천
+X-WR-TIMEZONE:Asia/Seoul
+X-WR-CALDESC:경기\, 인천 지역 투쟁 일정을 정리했습니다! 확인하는 대로 추가하고 있습니다:)
+BEGIN:VTIMEZONE
+TZID:Asia/Seoul
+X-LIC-LOCATION:Asia/Seoul
+BEGIN:STANDARD
+TZOFFSETFROM:+0900
+TZOFFSETTO:+0900
+TZNAME:GMT+9
+DTSTART:19700101T000000
+END:STANDARD
+END:VTIMEZONE
+BEGIN:VEVENT
+DTSTART;TZID=Asia/Seoul:20250322T180000
+DTEND;TZID=Asia/Seoul:20250322T190000
+RRULE:FREQ=WEEKLY;WKST=MO;UNTIL=20250430T145959Z;BYDAY=SA
+DTSTAMP:20250914T135147Z
+UID:5v663rij4oibqjhn8rflb80oal@google.com
+CLASS:PUBLIC
+CREATED:20250410T050342Z
+DESCRIPTION:대면/비대면(워크온)<br>대면 : 매주 토요일 18:00 안산화랑유원지 수변산책로 소광장<br><br>비대면:<
+ br>참여방법 1 : 4.16km걷고 sns인증 (필수해시태크)<br>#세월호참사 #열한번째봄 #416생명안전공원 #함께걷자 #416별
+ 빛걷기<br><p>참여방법2 : 걷기 앱&lt\;워크온&gt\;과 함께 하는 챌린지<br>4.16km걷기 인증샷 인증 세월호참사 11주
+ 기 기억과약속 공동목표 걸음 1\,100\,000\,000걸음 (걸음기여도 시상)<br>*비대면 참여자 추첨을 통해 모바일 쿠폰제공</
+ p><p>출처 : <a href="https://416act.net/30/?q=YToxOntzOjEyOiJrZXl3b3JkX3R5cGU
+ iO3M6MzoiYWxsIjt9&amp\;bmode=view&amp\;idx=157095517&amp\;t=board">https://
+ 416act.net/30/?q=YToxOntzOjEyOiJrZXl3b3JkX3R5cGUiO3M6MzoiYWxsIjt9&amp\;bmod
+ e=view&amp\;idx=157095517&amp\;t=board</a></p>
+LAST-MODIFIED:20250417T011218Z
+LOCATION:화랑유원지\, 대한민국 경기도 안산시 단원구 초지동 667
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:(안산) 4.16별빛걷기 챌린지
+TRANSP:OPAQUE
+ATTACH;FILENAME=416별빛걷기.jpg;FMTTYPE=image/jpeg:https://drive.google.com/ope
+ n?id=1nFrURcnV28yEfYFf8iOl1ZoCjYENZHRN
+ATTACH;FILENAME=416별빛걷기비대면.jpg;FMTTYPE=image/jpeg:https://drive.google.com/
+ open?id=1NOH3qO8jjks5sRIVTpVzIyo9840lskmm
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20250405T050000Z
+DTEND:20250426T060000Z
+DTSTAMP:20250914T135147Z
+UID:1rgmm17pqf5rsamt9cqm623b90@google.com
+CLASS:PUBLIC
+CREATED:20250409T135213Z
+DESCRIPTION:장소 : 경기도미술관/보노마루 소극장/별무리 소극장\n\n4월 5일 14:00 개막식 - 경기도미술관(안산시 단원
+ 구 동산로 268)\n4월 27일 14:00 폐막식 - 안산 문화예술의전당 별무리 극장(안산시 고잔동 화랑로 312)\n\n예매 링크 
+ : https://booking.naver.com/booking/12/bizes/667423\n문의 : 010-5894-6249
+LAST-MODIFIED:20250417T011228Z
+LOCATION:경기도미술관\, 대한민국 경기도 안산시 단원구 동산로 268
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:(안산) 세월호 참사 11주기 4월 연극제 <바라\, 봄>
+TRANSP:OPAQUE
+ATTACH;FILENAME=세월호참사11주기4월연극제.png;FMTTYPE=image/png:https://drive.google.c
+ om/open?id=1WlV5SApsy_jLyX82TKELJEs7Aswsdkli
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20250419T132000Z
+DTEND:20250419T142000Z
+DTSTAMP:20250914T135147Z
+UID:4nkmvlhteurmb05s0dealr9mdj@google.com
+CLASS:PUBLIC
+CREATED:20250411T160739Z
+DESCRIPTION:*고양센터 현장선전전 17일(목)에서 19일(토)로 연기합니다.<br><br>장소 : 쿠팡고양센터 1번게이트(경기
+ 도 고양시 권율대로 570)<br><br>출처 : <a href="https://x.com/hongigpyo77/status/19125
+ 20493867102443?s=46&amp\;t=frFzTWA-mZFwJZsmyf0hhg">https://x.com/hongigpyo7
+ 7/status/1912520493867102443?s=46&amp\;t=frFzTWA-mZFwJZsmyf0hhg</a>
+LAST-MODIFIED:20250417T011244Z
+LOCATION:삼성웰스토리(주)쿠팡고양1센터\, 대한민국 경기도 고양시 덕양구 원흥동 701번지 7층
+SEQUENCE:1
+STATUS:CONFIRMED
+SUMMARY:(고양) 쿠팡고양센터 현장선전전
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20250424T030000Z
+DTEND:20250424T050000Z
+DTSTAMP:20250914T135147Z
+UID:0b2gj05v1rguigmtd9fj6uvfmg@google.com
+CLASS:PUBLIC
+CREATED:20250414T053126Z
+DESCRIPTION:문의: 건강한노동세상 양은정 010-9145-1917\,  <br>반올림 이종란 010-8799-1302<br><
+ br>출처 : <a href="https://x.com/sharpsglory/status/1911659408209428573">http
+ s://x.com/sharpsglory/status/1911659408209428573</a>
+LAST-MODIFIED:20250417T011604Z
+LOCATION:스태츠칩팩코리아\, 대한민국 인천광역시 중구 자유무역로 191
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:(인천) 스태츠챕팩코리아 현장실습생 간독성 산업재해 규탄 점심 선전전
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20250412T050000Z
+DTEND:20250412T103000Z
+DTSTAMP:20250914T135147Z
+UID:0kdqjv448dkaqh0go71103tbl4@google.com
+CLASS:PUBLIC
+CREATED:20250411T060811Z
+DESCRIPTION:*우천으로 인해 장소 변경(화랑유원지 -&gt\; 안산문화예술의전당)됐습니다.<br><b>*응원봉을 지참해 주세요
+ !</b><br><b><br></b><br>장소 : 안산문화예술의전당 달맞이극장<br>문의 : 4.16안산시민연대 031-483-041
+ 6<br><br>일시)<br>(사전마당)<br>14:00 시민체험부스\, 4.16기억메세지남기기\, 먹거리나눔\, 단원FM 오픈마이크<
+ br>15:00 노래가사바꾸기 경연대회\, 축하공연<br><br>(본마당)<br>18:00 ~ 19:30 전문공연\, 연극공연\, 시민
+ 공연_다시 만난 세계 100인 춤과 노래
+LAST-MODIFIED:20250418T100624Z
+LOCATION:안산문화예술의전당\, 대한민국 경기도 안산시 고잔동 화랑로 312
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:(안산) 세월호참사 11주기 열한번째봄 안산 기억문화제 기억의 힘으로 열어가는 새로운 세계
+TRANSP:OPAQUE
+ATTACH;FILENAME=안산기억문화제.png;FMTTYPE=image/png:https://drive.google.com/open
+ ?id=1y1OVwTlG3Td1Xbj7l5W22cnucO3Q6OBu
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20250419T060000Z
+DTEND:20250419T090000Z
+DTSTAMP:20250914T135147Z
+UID:24icfjm0rqk0pv4agv2do5sq47@google.com
+CLASS:PUBLIC
+CREATED:20250418T102832Z
+DESCRIPTION:더 나은 경기도를 위해 목소리를 들려주세요! : <br><a href="https://padlet.com/ralr
+ a1119/padlet-pzbobwmnrm47hkt6">https://padlet.com/ralra1119/padlet-pzbobwmn
+ rm47hkt6</a><br><br>출처 : <a href="https://x.com/kctukgrc1/status/1913123300
+ 458508651?s=46&amp\;t=frFzTWA-mZFwJZsmyf0hhg">https://x.com/kctukgrc1/statu
+ s/1913123300458508651?s=46&amp\;t=frFzTWA-mZFwJZsmyf0hhg</a>
+LAST-MODIFIED:20250418T102832Z
+LOCATION:경기도의회\, 대한민국 경기도 수원시 영통구 도청로 30
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:(수원) 경기사회대개혁토론회
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20250423T000000Z
+DTEND:20250423T013000Z
+DTSTAMP:20250914T135147Z
+UID:15lv460kh9qr5bqjd3q8vcfe1i@google.com
+CLASS:PUBLIC
+CREATED:20250418T103154Z
+DESCRIPTION:장소 : 임진각(납북자기념관 앞)<br><br>9:00 집결<br>10:00 기자회견&amp\;평화행동<br><b
+ r>4월 23일(수) 임진각에서 납북자 단체의 대북전단 살포가 예정되어 있습니다.<br>파주지역 주민들과 함께 대북전단 살포 반대의 목
+ 소리를 높입시다!<br><br>출처 : <a href="https://x.com/democracy_bak/status/191313460
+ 2719559754?s=46">https://x.com/democracy_bak/status/1913134602719559754?s=4
+ 6</a>
+LAST-MODIFIED:20250418T103224Z
+LOCATION:국립6·25전쟁납북자기념관\, 대한민국 경기도 파주시 문산읍 임진각로 153 KR
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:(파주) 접경징겨 주민에게 안전한 일상을! 한반도에 평화를! 대북전단 살포 저지 평화행동
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20250422T010000Z
+DTEND:20250422T020000Z
+DTSTAMP:20250914T135147Z
+UID:1u37d9bn1gl264i3rc6pq391jq@google.com
+CLASS:PUBLIC
+CREATED:20250421T135129Z
+DESCRIPTION:일시: 2025년 4월 22일 (화) 오전 10시<br>장소: 고용노동부 평택지청 앞 (경기도 평택시 고덕중앙5길
+  72)<br>주최: 경기이주평등연대<br><br>원문:<a href="https://x.com/1917nodong/status/191
+ 4147017963807161">https://x.com/1917nodong/status/1914147017963807161</a>
+LAST-MODIFIED:20250421T135129Z
+LOCATION:고용노동부 평택지청 앞\, 대한민국 경기도 평택시 고덕중앙5길 72
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:(평택) 이주노동자 산재사망 사건 책임 회피하는 고용노동부 규탄 기자회견
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20250422T020000Z
+DTEND:20250422T030000Z
+DTSTAMP:20250914T135147Z
+UID:26bon39be2k918rl9ieqctcbsm@google.com
+CLASS:PUBLIC
+CREATED:20250421T134037Z
+DESCRIPTION:우천시 취소 입니다! (<a href="https://x.com/hongigpyo77/status/19143155
+ 08037652889">https://x.com/hongigpyo77/status/1914315508037652889</a>)<br><
+ br>노동자 식사시간에 선전전 진행합니다.<br><br><a href="https://x.com/hongigpyo77/status/19
+ 14098691985777086" target="_blank">https://x.com/hongigpyo77/status/1914098
+ 691985777086</a>
+LAST-MODIFIED:20250421T135724Z
+LOCATION:쿠팡고양센터 1번 게이트\, 대한민국 경기도 고양시 덕양구 권율대로 570
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:(고양) 쿠팡고양센터 현장선전전
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20250430T093000Z
+DTEND:20250430T103000Z
+DTSTAMP:20250914T135147Z
+UID:3giae4itj5bduglihu50cm3ck1@google.com
+CLASS:PUBLIC
+CREATED:20250422T121044Z
+DESCRIPTION:일시 : 4. 30.(수) 18:30<br>장소 : 수원역 중앙광장(수원역 5번 출구)<br>주관 : 민주노총 경
+ 기도본부<br><br>원본 링크 : <a href="https://x.com/kctugyeonggi_do/status/191461230
+ 0268621836?s=46&amp\;t=frFzTWA-mZFwJZsmyf0hhg">https://x.com/kctugyeonggi_d
+ o/status/1914612300268621836?s=46&amp\;t=frFzTWA-mZFwJZsmyf0hhg</a>
+LAST-MODIFIED:20250422T121044Z
+LOCATION:수원역앞\, 수원시 수원역앞
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:(수원) 2025 세계노동절 투쟁문화제
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20250424T020000Z
+DTEND:20250424T030000Z
+DTSTAMP:20250914T135147Z
+UID:2bda4nm9q3fkbssd8pfcae19pv@google.com
+CLASS:PUBLIC
+CREATED:20250421T134104Z
+DESCRIPTION:노동자 식사시간에 선전전 진행합니다.<br><br><a href="https://x.com/hongigpyo77/
+ status/1914607933905658278">https://x.com/hongigpyo77/status/19146079339056
+ 58278</a>
+LAST-MODIFIED:20250422T143139Z
+LOCATION:쿠팡고양센터 1번 게이트\, 대한민국 경기도 고양시 덕양구 권율대로 570
+SEQUENCE:1
+STATUS:CONFIRMED
+SUMMARY:(고양) 쿠팡고양센터 현장선전전
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20250501T020000Z
+DTEND:20250501T023000Z
+DTSTAMP:20250914T135147Z
+UID:6g6lflfs687fbn2sr0hibicqvp@google.com
+CLASS:PUBLIC
+CREATED:20250501T120726Z
+DESCRIPTION:일시 : 5. 1.(목) 11:00<br>장소 : 수원주교좌 성당 앞<br>* 전국 동시다발 결의대회 진행\, 각
+  지역별 일정은 하단 링크 혹은 지역별 캘린더 참고<br><br>원본 링크 : <a href="https://x.com/sadd0420
+ s/status/1917730625479705026?s=46&amp\;t=frFzTWA-mZFwJZsmyf0hhg"><u>https:/
+ /x.com/sadd0420s/status/1917730625479705026?s=46&amp\;t=frFzTWA-mZFwJZsmyf0
+ hhg</u></a>
+LAST-MODIFIED:20250501T120726Z
+LOCATION:정자동주교좌성당\, 대한민국 경기도 수원시 장안구 이목로 39
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:(수원) 한국천주교 탈시설 권리보장 촉구 전국동시다발 결의대회
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20250501T020000Z
+DTEND:20250501T023000Z
+DTSTAMP:20250914T135147Z
+UID:7gqsicpvm6hh5d4qrjd35lfs1e@google.com
+CLASS:PUBLIC
+CREATED:20250501T120806Z
+DESCRIPTION:일시 : 5. 1.(목) 11:00<br>장소 : 답동성당<br>* 전국 동시다발 결의대회 진행\, 각 지역별 일
+ 정은 하단 링크 혹은 지역별 캘린더 참고<br><br>원본 링크 : <a href="https://x.com/sadd0420s/stat
+ us/1917730625479705026?s=46&amp\;t=frFzTWA-mZFwJZsmyf0hhg"><u>https://x.com
+ /sadd0420s/status/1917730625479705026?s=46&amp\;t=frFzTWA-mZFwJZsmyf0hhg</u
+ ></a>
+LAST-MODIFIED:20250501T120806Z
+LOCATION:주교좌 답동성당\, 대한민국 인천광역시 중구 우현로50번길 2
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:(인천) 한국천주교 탈시설 권리보장 촉구 전국 동시다발 결의대회
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20250511T020000Z
+DTEND:20250511T030000Z
+DTSTAMP:20250914T135147Z
+UID:4da6j4itkskpj0d38uk683ucik@google.com
+CLASS:PUBLIC
+CREATED:20250505T085128Z
+DESCRIPTION:일시 : 5. 11.(일) 11:00\n장소 : 부평역 광장\n\n세부 내용 웹자보 참조
+LAST-MODIFIED:20250505T085128Z
+LOCATION:부평역광장\, 대한민국 인천광역시 부평구 부평동
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:(인천) 제45주년 5·18민중항쟁 인천기념식
+TRANSP:OPAQUE
+ATTACH;FILENAME=KakaoTalk_20250505_084927855.jpg;FMTTYPE=image/jpeg:https:/
+ /drive.google.com/open?id=1-K0fGJfA1ix8mPaZ89r9JVs2yqhOYxq_
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20250528T100000Z
+DTEND:20250528T110000Z
+DTSTAMP:20250914T135147Z
+UID:51d9dmi5jqrn808k41896dov4q@google.com
+CLASS:PUBLIC
+CREATED:20250505T090817Z
+DESCRIPTION:일시 : 5. 28.(수) 19:00<br>장소 : 인천교구 노동사목센터(인천광역시 부평구 경인로 671 성애빌딩
+  3층)<br><br>원본 링크 : <a href="https://x.com/arcus_kr/status/1919272739203874
+ 955">https://x.com/arcus_kr/status/1919272739203874955</a><br>신청 링크 : <a hr
+ ef="https://docs.google.com/forms/d/e/1FAIpQLScZ1WEdOB2FRYxkTmNRWe617Q0mGwT
+ SOA8JdS6wyazsufdV5g/viewform">https://docs.google.com/forms/d/e/1FAIpQLScZ1
+ WEdOB2FRYxkTmNRWe617Q0mGwTSOA8JdS6wyazsufdV5g/viewform</a>
+LAST-MODIFIED:20250505T090817Z
+LOCATION:성애빌딩\, 대한민국 인천광역시 부평구 십정동 481-4
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:(인천) 가톨릭 앨라이 아르쿠스 월례미사 일정
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20250508T090000Z
+DTEND:20250508T100000Z
+DTSTAMP:20250914T135147Z
+UID:0gu91r67d0lt4mrp19ct1qu3vg@google.com
+CLASS:PUBLIC
+CREATED:20250507T031151Z
+DESCRIPTION:34주기 한진중공업 박창수열사 추모제가 안양역에서 열립니다.<br>장소 : 안양역 광장(행진 후 안양 샘병원 앞 
+ 추모대회)<br><br>출처 : <a href="https://x.com/kctugyeonggi_do/status/19199055690
+ 76592944?s=46&amp\;t=frFzTWA-mZFwJZsmyf0hhg">https://x.com/kctugyeonggi_do/
+ status/1919905569076592944?s=46&amp\;t=frFzTWA-mZFwJZsmyf0hhg</a>
+LAST-MODIFIED:20250507T031152Z
+LOCATION:안양역\, 대한민국 경기도 안양시 만안구 안양1동 674-250
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:(안양) 내란세력 청산! 사회대개혁 실현! 경기중부시국대회
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20250513T020000Z
+DTEND:20250513T030000Z
+DTSTAMP:20250914T135147Z
+UID:3ns68ohcih04scra047o5nnr15@google.com
+CLASS:PUBLIC
+CREATED:20250512T043646Z
+DESCRIPTION:*노동자 식사시간에 선전전 진행합니다<br>*<b>우천 시\, 선전전은 취소됩니다.</b><br><b><br></
+ b><br>장소 : 경기도 고양시 권율대로 570 쿠팡고양센터 1번 게이트<br><br>출처 : <a href="https://x.co
+ m/hongigpyo77/status/1921727541242364317?s=46&amp\;t=frFzTWA-mZFwJZsmyf0hhg
+ ">https://x.com/hongigpyo77/status/1921727541242364317?s=46&amp\;t=frFzTWA-
+ mZFwJZsmyf0hhg</a>
+LAST-MODIFIED:20250512T043646Z
+LOCATION:삼성웰스토리(주)쿠팡고양1센터\, 대한민국 경기도 고양시 덕양구 원흥동 701번지 7층
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:(고양) 쿠팡고양센터 현장 선전전
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20250515T132000Z
+DTEND:20250515T142000Z
+DTSTAMP:20250914T135147Z
+UID:7t7qdqic95q571t5i73g6q80hj@google.com
+CLASS:PUBLIC
+CREATED:20250512T043757Z
+DESCRIPTION:*노동자 식사시간에 선전전 진행합니다<br>*우천 시\, 선전전은 취소됩니다.<br><br><br>장소 : 경기도
+  고양시 권율대로 570 쿠팡고양센터 1번 게이트<br><br>출처 : <a href="https://x.com/hongigpyo77/
+ status/1921727541242364317?s=46&amp\;t=frFzTWA-mZFwJZsmyf0hhg">https://x.co
+ m/hongigpyo77/status/1921727541242364317?s=46&amp\;t=frFzTWA-mZFwJZsmyf0hhg
+ </a>
+LAST-MODIFIED:20250512T043758Z
+LOCATION:삼성웰스토리(주)쿠팡고양1센터\, 대한민국 경기도 고양시 덕양구 원흥동 701번지 7층
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:(고양) 쿠팡고양센터 현장 선전전
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20250514T032000Z
+DTEND:20250514T042000Z
+DTSTAMP:20250914T135147Z
+UID:0g94hhf8c0cgc7o8hrlq4jh7mc@google.com
+CLASS:PUBLIC
+CREATED:20250513T133948Z
+DESCRIPTION:일시 : 5. 14.(수) 12:20<br>장소 : 구리시청소년재단 앞<br><br>원본 링크 : <a href=
+ "https://x.com/gong_gong_guri/status/1921951827697832368?s=46&amp\;t=frFzTW
+ A-mZFwJZsmyf0hhg">https://x.com/gong_gong_guri/status/1921951827697832368?s
+ =46&amp\;t=frFzTWA-mZFwJZsmyf0hhg</a>
+LAST-MODIFIED:20250513T133948Z
+LOCATION:구리시청소년수련관\, 대한민국 구리시
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:(구리) 2025 공공연대노동조합 경기본부 결의대회
+TRANSP:OPAQUE
+ATTACH;FILENAME=Gqwk_uta0AAJ-f0.jpg;FMTTYPE=image/jpeg:https://drive.google
+ .com/open?id=1tEGgNOdGaYLESxNlAExyKHoe48mbyHI1
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20250531T010000Z
+DTEND:20250531T020000Z
+DTSTAMP:20250914T135147Z
+UID:20eu35dbk7kbmu1g63v653ukc5@google.com
+CREATED:20250513T140508Z
+DESCRIPTION:일시 : 5. 31.(토) 10:00<br>장소 : 부평역 5번 출구<br><br>* 공공재생에너지 확대 발전노동
+ 자 총고용 보장을 위한 531행진에 참여하는 인천발 태안행 버스입니다.<br><br>신청 링크 : <a href="https://doc
+ s.google.com/forms/d/18tasz9MSAT9IN6XCZh3tNQvVxtfvjwYYEyYNAmnLL6M/viewform?
+ edit_requested=true">https://docs.google.com/forms/d/18tasz9MSAT9IN6XCZh3tN
+ QvVxtfvjwYYEyYNAmnLL6M/viewform?edit_requested=true</a><br>원본 링크 : <a href=
+ "https://x.com/kptunews/status/1922140198122426515?s=46&amp\;t=frFzTWA-mZFw
+ JZsmyf0hhg">https://x.com/kptunews/status/1922140198122426515?s=46&amp\;t=f
+ rFzTWA-mZFwJZsmyf0hhg</a>
+LAST-MODIFIED:20250513T140508Z
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:(인천) 정의로운 전환을 위한 531행진 전국지역버스
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20250530T040000Z
+DTEND:20250530T050000Z
+DTSTAMP:20250914T135147Z
+UID:3u67smuo5ilpnsco3df81o39g3@google.com
+CLASS:PUBLIC
+CREATED:20250513T142014Z
+DESCRIPTION:일시 : 5. 30.(금) 13:00<br>장소 : 국립현대미술관 과천 (4호선 대공원역 4번출구 순환버스 셔틀)
+ <br><br>신청 링크 : <a href="https://docs.google.com/forms/d/e/1FAIpQLSdz7I3dMy
+ 7n9Hg-8WDDUQH-G0KLruR4k5XmbN01P1tVGIgLHg/viewform">https://docs.google.com/
+ forms/d/e/1FAIpQLSdz7I3dMy7n9Hg-8WDDUQH-G0KLruR4k5XmbN01P1tVGIgLHg/viewform
+ </a><br>원본 링크 : <a href="https://x.com/sharpsglory/status/19221625182247322
+ 63?s=46&amp\;t=frFzTWA-mZFwJZsmyf0hhg">https://x.com/sharpsglory/status/192
+ 2162518224732263?s=46&amp\;t=frFzTWA-mZFwJZsmyf0hhg</a>
+LAST-MODIFIED:20250513T142014Z
+LOCATION:국립현대미술관 과천\, 대한민국 경기도 과천시 광명로 313
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:(과천) 국립현대미술관 과천 <섬섬옥수> 관람 & 차담회
+TRANSP:OPAQUE
+ATTACH;FILENAME=GqzknJsbAAEHwPW.jpg;FMTTYPE=image/jpeg:https://drive.google
+ .com/open?id=1_l-Y70_RzSebjnCg0BifYS7L9YX4IqJx
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20250516T070000Z
+DTEND:20250516T080000Z
+DTSTAMP:20250914T135147Z
+UID:57n8d5ep6kq3dbkqb8l8eml5ri@google.com
+CLASS:PUBLIC
+CREATED:20250515T110116Z
+DESCRIPTION:<a href="https://x.com/_xiayin/status/1922928063030915163">http
+ s://x.com/_xiayin/status/1922928063030915163</a>
+LAST-MODIFIED:20250515T110116Z
+LOCATION:포천시 신북면 장자경제로 151-3 금해산업
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:(포천) 이주노조 조합원 계약 연장 취소 항의 집회
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20250516T020000Z
+DTEND:20250516T023000Z
+DTSTAMP:20250914T135147Z
+UID:4m2p2kqkt26stj3d7q5topf4r7@google.com
+CLASS:PUBLIC
+CREATED:20250515T110251Z
+DESCRIPTION:<a href="https://x.com/martnojo/status/1922842730339659779">htt
+ ps://x.com/martnojo/status/1922842730339659779</a>
+LAST-MODIFIED:20250515T110251Z
+LOCATION:서울회생법원 앞
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:(서울\, 기자회견) 홈플러스 점포 계약해지 승인 회계법원 규탄 기자회견
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20250521T060000Z
+DTEND:20250521T070000Z
+DTSTAMP:20250914T135147Z
+UID:5dlgn3nqdc4ljg6dfqals54q4b@google.com
+CLASS:PUBLIC
+CREATED:20250515T132616Z
+DESCRIPTION:일시 : 5. 21.(수) 15:00<br>장소 : 한국니토옵티칼 (경기 평택시 청북읍 현곡산단로 40)<br><
+ br>* 12:30에 세종호텔에서 출발하는 서울 버스가 있습니다. 자세한 내용은 해당 일정 참고<br><br>원본 링크 : <a hre
+ f="https://nodong.org/notice/7892683">https://nodong.org/notice/7892683</a>
+LAST-MODIFIED:20250516T094100Z
+LOCATION:한국니토옵티칼(주) 현곡공장\, 대한민국 경기도 평택시 청북면 현곡리 474
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:(평택) 고공농성 500일\, 니토덴코는 교섭에 나와라! 민주노총 결의대회
+TRANSP:OPAQUE
+ATTACH;FILENAME=7331673b4725341dd1ae7c2f86913a21.jpg;FMTTYPE=image/jpeg:htt
+ ps://drive.google.com/open?id=1BmXzryudfgpflv8WeLN9bvWL6F7D90ld
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20250520T020000Z
+DTEND:20250520T030000Z
+DTSTAMP:20250914T135147Z
+UID:5qn0np7ajna6ufpbcr9qigl4l8@google.com
+CLASS:PUBLIC
+CREATED:20250518T143229Z
+DESCRIPTION:쿠팡 고양센터 현장선전전<br>5월 20일 (화) 11시<br>5월 22일 (목) 22시 20분<br><br>경기
+ 도 고양시 권율대로 570\, 고양센터 1번 게이트<br><br>노동자 식사시간에 진행<br><b>우천시 선전전 취소</b><br><b
+ ><br></b><br><a href="https://x.com/hongigpyo77/status/1924018655337251124"
+ >https://x.com/hongigpyo77/status/1924018655337251124</a><b></b>
+LAST-MODIFIED:20250518T143348Z
+LOCATION:고양센터 1번 게이트\, 대한민국 경기도 고양시 덕양구 권율대로 570
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:(고양) 쿠팡 고양센터 현장선전전
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20250522T132000Z
+DTEND:20250522T142000Z
+DTSTAMP:20250914T135147Z
+UID:43uq1petvo6lol5v0jgqmh7vu3@google.com
+CLASS:PUBLIC
+CREATED:20250518T143359Z
+DESCRIPTION:쿠팡 고양센터 현장선전전<br>5월 20일 (화) 11시<br>5월 22일 (목) 22시 20분<br><br>경기
+ 도 고양시 권율대로 570\, 고양센터 1번 게이트<br><br>노동자 식사시간에 진행<br><b>우천시 선전전 취소</b><br><b
+ ><br></b><br><a href="https://www.google.com/url?q=https://x.com/hongigpyo7
+ 7/status/1924018655337251124&amp\;sa=D&amp\;source=calendar&amp\;usd=2&amp\
+ ;usg=AOvVaw2ydKsFEiEmvusjD1-jyT3J" target="_blank">https://x.com/hongigpyo7
+ 7/status/1924018655337251124</a><b></b>
+LAST-MODIFIED:20250518T143400Z
+LOCATION:고양센터 1번 게이트\, 대한민국 경기도 고양시 덕양구 권율대로 570
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:(고양) 쿠팡 고양센터 현장선전전
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20250527T020000Z
+DTEND:20250527T030000Z
+DTSTAMP:20250914T135147Z
+UID:0ud72b19a633l2ds8l282qmhm5@google.com
+CLASS:PUBLIC
+CREATED:20250525T084733Z
+DESCRIPTION:*우천시 선전전은 취소됩니다.<br>장소 : 쿠팡고양센터 1번 게이터(경기도 고양시 권율대로 570)<br><br
+ >출처 : <a href="https://x.com/hongigpyo77/status/1926508571107139778">https:
+ //x.com/hongigpyo77/status/1926508571107139778</a>
+LAST-MODIFIED:20250525T084733Z
+LOCATION:삼성웰스토리(주)쿠팡고양1센터\, 대한민국 경기도 고양시 덕양구 원흥동 701번지 7층
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:(고양) 쿠팡고양센터 현장선전전
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20250529T132000Z
+DTEND:20250529T142000Z
+DTSTAMP:20250914T135147Z
+UID:4dkik6qn1lnpd6ojqegfcib5bg@google.com
+CLASS:PUBLIC
+CREATED:20250525T084831Z
+DESCRIPTION:*우천시 선전전은 취소됩니다.<br>장소 : 쿠팡고양센터 1번 게이터(경기도 고양시 권율대로 570)<br><br
+ >출처 : <a href="https://x.com/hongigpyo77/status/1926508571107139778">https:
+ //x.com/hongigpyo77/status/1926508571107139778</a>
+LAST-MODIFIED:20250525T084831Z
+LOCATION:삼성웰스토리(주)쿠팡고양1센터\, 대한민국 경기도 고양시 덕양구 원흥동 701번지 7층
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:(고양) 쿠팡고양센터 현장선전전
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20250529T083000Z
+DTEND:20250529T093000Z
+DTSTAMP:20250914T135147Z
+UID:21t7stqibjs3aeaj2vf5mhv7t4@google.com
+CLASS:PUBLIC
+CREATED:20250527T125750Z
+DESCRIPTION:일시 : 5. 29.(목) 17:30<br>장소 : 경기도교육청 남부청사<br><br>원본 링크 : <a href
+ ="https://x.com/kctuedub0402/status/1927285456598655337?s=46&amp\;t=frFzTWA
+ -mZFwJZsmyf0hhg">https://x.com/kctuedub0402/status/1927285456598655337?s=46
+ &amp\;t=frFzTWA-mZFwJZsmyf0hhg</a>
+LAST-MODIFIED:20250527T125750Z
+LOCATION:경기도교육청 남부청사\, 대한민국 경기도 수원시 영통구 도청로 28 경기도교육청 남부청사
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:(수원) 경기학비연대회의 1차 투쟁문화제
+TRANSP:OPAQUE
+ATTACH;FILENAME=Gr8X52DXoAEpvu3.jpg;FMTTYPE=image/jpeg:https://drive.google
+ .com/open?id=1MClMtqD6ykDY9YUdcHminO5yN3BK2gfk
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20250617T093000Z
+DTEND:20250617T110000Z
+DTSTAMP:20250914T135147Z
+UID:3067rh9uek57bc788k7c5vr1ik@google.com
+CLASS:PUBLIC
+CREATED:20250607T085717Z
+DESCRIPTION:북토크 ‘걷고보니 역사였네’ <br><br>[지역운동의 길을 묻다] <br><br>■ 때 : 2025년 6월 17
+ 일(화) 18시 30분 <br>■ 곳 : 민주노총 경기도본부 5층 <br>■ 공동주최 : 노동당경기도당 노동위원회/민주노총 경기도본부/
+ 좌파활동가 경기결집 <br>■ 후원 : 카카오뱅크 333312595892(이미숙)<br><br>원문: <a href="https://x
+ .com/kctuGyeonggi_do/status/1930815378952708356">https://x.com/kctuGyeonggi
+ _do/status/1930815378952708356</a>
+LAST-MODIFIED:20250607T085717Z
+LOCATION:민주노총 경기도본부\, 대한민국 경기도 수원시 팔달구 경수대로 566
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:(수원) 북토크 '걷고보니 역사였네': 지역운동의 길을 묻다
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20250625T100000Z
+DTEND:20250625T110000Z
+DTSTAMP:20250914T135147Z
+UID:610cbkprlbdr1atpo8p2rqdkkv@google.com
+CLASS:PUBLIC
+CREATED:20250607T091825Z
+DESCRIPTION:<br><div dir="auto">🌈 인천지역 6월 월례미사 신청서<div dir="auto">성소수자 당사자
+ 와 앨라이가 함께하는 미사에 당신을 초대합니다! <br>인천지역 월례미사는 매월 네 번째 수요일 저녁 7시에 봉헌됩니다.<br>미사 후
+ 에는 간단한 나눔 시간이 있으며\, 자유롭게  참여 가능합니다.<br><br>📅 일시<br>2025년 6월 25일 (수) 저녁 7시<
+ br><br>📍 장소<br>인천교구 노동사목센터<br>(인천광역시 부평구 경인로 671 성애빌딩 3층)<br><br>✉️ 문의 및 연
+ 락<br><a href="mailto:arcuskr@gmail.com">arcuskr@gmail.com</a><br><br>신청: <a
+  href="https://docs.google.com/forms/d/e/1FAIpQLScZ1WEdOB2FRYxkTmNRWe617Q0m
+ GwTSOA8JdS6wyazsufdV5g/viewform">https://docs.google.com/forms/d/e/1FAIpQLS
+ cZ1WEdOB2FRYxkTmNRWe617Q0mGwTSOA8JdS6wyazsufdV5g/viewform</a><br>원문: <a hre
+ f="https://x.com/arcus_kr/status/1930838053087781338">https://x.com/arcus_k
+ r/status/1930838053087781338</a>
+LAST-MODIFIED:20250607T091825Z
+LOCATION:인천교구 노동사목센터
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:(인천) 아르쿠스 6월 월례미사
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20250618T230000Z
+DTEND:20250619T000000Z
+DTSTAMP:20250914T135147Z
+UID:7rtaa8tm9gflnfg3litiv1kgkd@google.com
+CLASS:PUBLIC
+CREATED:20250610T125805Z
+DESCRIPTION:6/16(월) 울산 현대차 15:00 결의대회\n                       현대중공업 17:00 선
+ 전전\n6/17(화) 울산 현대중공업 7:00 선전전\n                       현대글로비스울산 9:00 간담회\n  
+             창원 현대위아 12:00 결의대회\n              광양 포스코 17:30 선전전\n6/18(수) 광주 
+ 글로벌모터스 6:30\n               세종시 고용노동부 11:00\n               대전 한국타이어 14:00\
+ n6/19(목) 이앤에스 삼성전자 화성캠퍼스 8:00\n               효성 본사 마포/신성자동차 12:00\n       
+         현대차그룹 양재동 본사 15:00\n               한화본사 거통고 투쟁문화제 19:00
+LAST-MODIFIED:20250610T125805Z
+LOCATION:122-13\, 대한민국 경기도 화성시 정남면 내향로 122-13
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:(화성) 금속노조 전국순회투쟁 - 이앤에스 삼성전자 화성캠퍼스
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20250611T030000Z
+DTEND:20250611T040000Z
+DTSTAMP:20250914T135147Z
+UID:69qdajndi7qe76e5t0k313vrd9@google.com
+CLASS:PUBLIC
+CREATED:20250610T133001Z
+DESCRIPTION:장소 : 성남시 분당구 정자동 1784 1층 로비(네이버 본사 1784\, 1층 로비)<br><br>취재요청서 :
+  <a href="https://kctfu.org/bbs/board.php?bo_table=bodo&amp\;wr_id=327">htt
+ ps://kctfu.org/bbs/board.php?bo_table=bodo&amp\;wr_id=327</a><br><br>출처 : <
+ a href="https://x.com/kctf_sns/status/1932358697625542880">https://x.com/kc
+ tf_sns/status/1932358697625542880</a>
+LAST-MODIFIED:20250610T133001Z
+LOCATION:네이버 1784\, 대한민국 경기도 성남시 분당구 정자일로 95
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:(성남) 네이버 리부트 2.0 : 불통\, 침묵\, 퇴행을 거부한다
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20250629T013000Z
+DTEND:20250629T033000Z
+DTSTAMP:20250914T135147Z
+UID:24m93pas1l3dmedg6c9433raqc@google.com
+CLASS:PUBLIC
+CREATED:20250612T134344Z
+DESCRIPTION:일시: 6. 29.(일) 10:30 ~ 12:30<br>장소: 경기도 남양주시 마석 모란공원<br>프로그램<br>
+ - 추모식\, 묘소 순례(문송면\, 김봉환\, 김주현\, 김용균의 묘소)\, 인증사진 찍기<br><br>신청링크: <a href="ht
+ tps://docs.google.com/forms/d/e/1FAIpQLSdrhgjLNRgLilYsH3XDpx_vWnyN9PqygivvX
+ c4uMM3vvibRsw/viewform">https://docs.google.com/forms/d/e/1FAIpQLSdrhgjLNRg
+ LilYsH3XDpx_vWnyN9PqygivvXc4uMM3vvibRsw/viewform</a><br>원본링크: <a href="http
+ s://x.com/sharpsglory/status/1932765745089556933?s=46">https://x.com/sharps
+ glory/status/1932765745089556933?s=46</a>
+LAST-MODIFIED:20250612T134504Z
+LOCATION:모란공원묘지\, 대한민국 남양주시
+SEQUENCE:1
+STATUS:CONFIRMED
+SUMMARY:(남양주) 2025 산재사망노동자 합동추모제·묘소 순례 이름 없는 '문송면들'을 기억하며\, 함께 걸어요
+TRANSP:OPAQUE
+ATTACH;FILENAME=GtKQMyNbcAAlBJV.jpg;FMTTYPE=image/jpeg:https://drive.google
+ .com/open?id=1PB_UfZLP3GrjJoKgRDljA1zO263hPVtc
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20250624T020000Z
+DTEND:20250624T030000Z
+DTSTAMP:20250914T135147Z
+UID:15sgleu00fpu7lu2bn24hbg5q0@google.com
+CLASS:PUBLIC
+CREATED:20250605T092452Z
+DESCRIPTION:장소 : 화성 아리셀 참사 현장 앞<br><br>출처 : <a href="https://x.com/saramiwa
+ tta/status/1930487596792340857">https://x.com/saramiwatta/status/1930487596
+ 792340857</a>
+LAST-MODIFIED:20250614T011612Z
+LOCATION:aricell\, 대한민국 경기도 화성시 전곡산단12길 33 KR
+SEQUENCE:1
+STATUS:CONFIRMED
+SUMMARY:(화성) 아리셀 참사 1주기 참사는 아직 끝나지 않았다 - 현장 추모제
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20250602T010000Z
+DTEND:20250602T020000Z
+DTSTAMP:20250914T135147Z
+UID:2ovemabjkneueovkcej1ete1su@google.com
+CLASS:PUBLIC
+CREATED:20250531T144220Z
+DESCRIPTION:<br>일시 : 6. 2.(월) 10:00<br>장소 : 홈플러스 북수원점 앞<br><br>원본 링크 : <a h
+ ref="https://x.com/martnojo/status/1928593539203813495?s=46&amp\;t=frFzTWA-
+ mZFwJZsmyf0hhg"><u><u>https://x.com/martnojo/status/1928593539203813495?s=4
+ 6&amp\;t=frFzTWA-mZFwJZsmyf0hhg</u></u></a>
+LAST-MODIFIED:20250614T011612Z
+LOCATION:홈플러스 북수원점\, 대한민국 경기도 수원시 장안구 경수대로 930
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:(수원) 홈플러스 폐점 반대 전국 주요 매장 기자회견
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20250608T010000Z
+DTEND:20250608T080000Z
+DTSTAMP:20250914T135147Z
+UID:44e6kqup41h4956nk39l48gu9a@google.com
+CLASS:PUBLIC
+CREATED:20250605T085327Z
+DESCRIPTION:장소 : 부평 북부역 광장
+LAST-MODIFIED:20250614T011612Z
+LOCATION:부평북부역점\, 시\, 185-8 부평동 부평구 인천광역시 대한민국
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:(인천) 미얀마 쿠데타 군부에 맞선 시민 저항 기록 '피어나라 미얀마'
+TRANSP:OPAQUE
+ATTACH;FILENAME=피어나라 미얀마.png;FMTTYPE=image/png:https://drive.google.com/ope
+ n?id=1G1ENJBqRVhQ3AzLj-xqIoBH3DQzB5RdT
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20250602T050000Z
+DTEND:20250602T060000Z
+DTSTAMP:20250914T135147Z
+UID:488o0j0k3pj9kmfqa6b5rfuusj@google.com
+CLASS:PUBLIC
+CREATED:20250531T143748Z
+DESCRIPTION:일시 : 6. 2.(월) 14:00<br>장소 : 홈플러스 작전점 앞<br><br>원본 링크 : <a href="
+ https://x.com/martnojo/status/1928593539203813495?s=46&amp\;t=frFzTWA-mZFwJ
+ Zsmyf0hhg">https://x.com/martnojo/status/1928593539203813495?s=46&amp\;t=fr
+ FzTWA-mZFwJZsmyf0hhg</a>
+LAST-MODIFIED:20250614T011612Z
+LOCATION:홈플러스 메가푸드마켓 작전점\, 대한민국 인천광역시 계양구 계양대로 27
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:(인천) 홈플러스 폐점반대 전국 주요 매장 기자회견
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20250612T050000Z
+DTEND:20250612T060000Z
+DTSTAMP:20250914T135147Z
+UID:4l0q2keoinj26hom34cqu2dqc4@google.com
+CLASS:PUBLIC
+CREATED:20250605T083231Z
+DESCRIPTION:*회의 성원이 아니더라도 교육 듣고자 하시는 분은 14시까지 오시면 됩니다.<br><br>장소 : 경기이주평등연대
+  회의(민주노총경기도본부 2층 회의실)<br>강사 : 류현철(일환경건강센터 이사장\, 한노보연 운영위원)<br><br>출처 : <a h
+ ref="https://x.com/saramiwatta/status/1930063410475217287?s=46&amp\;t=frFzT
+ WA-mZFwJZsmyf0hhg">https://x.com/saramiwatta/status/1930063410475217287?s=4
+ 6&amp\;t=frFzTWA-mZFwJZsmyf0hhg</a>
+LAST-MODIFIED:20250614T011612Z
+LOCATION:민주노총 경기도본부\, 대한민국 경기도 수원시 팔달구 경수대로 566
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:(수원) 이주노동자 돌연사 산재로 바라보기
+TRANSP:OPAQUE
+ATTACH;FILENAME=Gsj2cE-asAE0jwH.jpg;FMTTYPE=image/jpeg:https://drive.google
+ .com/open?id=1D_QAE7gQDupfSaa7VlD2qJjLnv1OoZLE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20250607T030000Z
+DTEND:20250607T080000Z
+DTSTAMP:20250914T135147Z
+UID:64jut6v4o534ku1rfjkvob6f5n@google.com
+CLASS:PUBLIC
+CREATED:20250605T085237Z
+DESCRIPTION:장소 : 부평 북부역 광장
+LAST-MODIFIED:20250614T011612Z
+LOCATION:부평북부역점\, 시\, 185-8 부평동 부평구 인천광역시 대한민국
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:(인천) 미얀마 쿠데타 군부에 맞선 시민 저항 기록 '피어나라 미얀마'
+TRANSP:OPAQUE
+ATTACH;FILENAME=피어나라 미얀마.png;FMTTYPE=image/png:https://drive.google.com/ope
+ n?id=1G1ENJBqRVhQ3AzLj-xqIoBH3DQzB5RdT
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20250604T083000Z
+DTEND:20250604T093000Z
+DTSTAMP:20250914T135147Z
+UID:6lqvec4rc0o2ikosdjtjit5ba8@google.com
+CLASS:PUBLIC
+CREATED:20250530T103032Z
+DESCRIPTION:일시 : 6. 4.(수) 17:30\n장소 : 경기도교육청 남부청사 농성장(민원실 출입구)
+LAST-MODIFIED:20250614T011612Z
+LOCATION:경기도교육청 남부청사\, 대한민국 경기도 수원시 영통구 도청로 28 경기도교육청 남부청사
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:(수원) 교육공무직 노동자가 곡기를 끊습니다: 경기 학교비정규직 연대회의 대표자 단식투쟁 승리 문화제
+TRANSP:OPAQUE
+ATTACH;FILENAME=GsK3irHWAAA-nma.jpg;FMTTYPE=image/jpeg:https://drive.google
+ .com/open?id=1xRuTQQgry1FXo4Vcee10ns6Etd5d1goa
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=Asia/Seoul:20250602T080000
+DTEND;TZID=Asia/Seoul:20250602T084500
+RRULE:FREQ=WEEKLY;UNTIL=20250615T145959Z;BYDAY=FR,MO,TH,TU,WE
+DTSTAMP:20250914T135147Z
+UID:3udi6mt6afqesbpagprv065165@google.com
+CLASS:PUBLIC
+CREATED:20250601T053345Z
+DESCRIPTION:5월 29일 목요일부터 집단농성을 시작해 24시간 농성장을 지킵니다. <br>매일 <b>아침 8시\, 12시\, 
+ 오후 5시 30분</b>에 <b>피켓팅</b>을 합니다. <br>6월 4일과 6월 10일 오후 5시 30분에는 문화제가 예정되어 있습니
+ 다.<br><br>문의: 010-5460-3971 (전국교육공무직본부 경기지부 조직부장 김응훈)<br><br><a href="https
+ ://drive.google.com/file/d/1g1fHq3hUX8G1nVn5B_czxq_tLryIGEuy/view" class="p
+ astedDriveLink-0">https://drive.google.com/file/d/1g1fHq3hUX8G1nVn5B_czxq_t
+ LryIGEuy/view</a>
+LAST-MODIFIED:20250615T063416Z
+LOCATION:경기도교육청 남부청사\, 대한민국 경기도 수원시 영통구 도청로 28 경기도교육청 남부청사
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:(수원) 경기 학교비정규직 연대회의 선전전_아침
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=Asia/Seoul:20250602T120000
+DTEND;TZID=Asia/Seoul:20250602T124500
+RRULE:FREQ=WEEKLY;UNTIL=20250615T145959Z;BYDAY=FR,MO,TH,TU,WE
+DTSTAMP:20250914T135147Z
+UID:5mrkf02g0l8r6co88v7vv42d2d@google.com
+CLASS:PUBLIC
+CREATED:20250601T053410Z
+DESCRIPTION:5월 29일 목요일부터 집단농성을 시작해 24시간 농성장을 지킵니다. <br>매일 <b>아침 8시\, 12시\, 
+ 오후 5시 30분</b>에 <b>피켓팅</b>을 합니다. <br>6월 4일과 6월 10일 오후 5시 30분에는 문화제가 예정되어 있습니
+ 다.<br><br>문의: 010-5460-3971 (전국교육공무직본부 경기지부 조직부장 김응훈)<br><br><a href="https
+ ://www.google.com/url?q=https://drive.google.com/file/d/1g1fHq3hUX8G1nVn5B_
+ czxq_tLryIGEuy/view&amp\;sa=D&amp\;source=calendar&amp\;usd=2&amp\;usg=AOvV
+ aw3WKKpszxomv9bW3mODN4wr" target="_blank">https://drive.google.com/file/d/1
+ g1fHq3hUX8G1nVn5B_czxq_tLryIGEuy/view</a>
+LAST-MODIFIED:20250615T063422Z
+LOCATION:경기도교육청 남부청사\, 대한민국 경기도 수원시 영통구 도청로 28 경기도교육청 남부청사
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:(수원) 경기 학교비정규직 연대회의 선전전_점심
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=Asia/Seoul:20250602T173000
+DTEND;TZID=Asia/Seoul:20250602T181500
+RRULE:FREQ=WEEKLY;UNTIL=20250615T145959Z;BYDAY=FR,MO,TH,TU,WE
+DTSTAMP:20250914T135147Z
+UID:7ig2oubscvq6eaqs6j2sblh9jc@google.com
+CLASS:PUBLIC
+CREATED:20250601T053418Z
+DESCRIPTION:5월 29일 목요일부터 집단농성을 시작해 24시간 농성장을 지킵니다. <br>매일 <b>아침 8시\, 12시\, 
+ 오후 5시 30분</b>에 <b>피켓팅</b>을 합니다. <br>6월 4일과 6월 10일 오후 5시 30분에는 문화제가 예정되어 있습니
+ 다.<br><br>문의: 010-5460-3971 (전국교육공무직본부 경기지부 조직부장 김응훈)<br><br><a href="https
+ ://www.google.com/url?q=https://drive.google.com/file/d/1g1fHq3hUX8G1nVn5B_
+ czxq_tLryIGEuy/view&amp\;sa=D&amp\;source=calendar&amp\;usd=2&amp\;usg=AOvV
+ aw3WKKpszxomv9bW3mODN4wr" target="_blank">https://drive.google.com/file/d/1
+ g1fHq3hUX8G1nVn5B_czxq_tLryIGEuy/view</a>
+LAST-MODIFIED:20250615T063425Z
+LOCATION:경기도교육청 남부청사\, 대한민국 경기도 수원시 영통구 도청로 28 경기도교육청 남부청사
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:(수원) 경기 학교비정규직 연대회의 선전전_저녁
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20250618T093000Z
+DTEND:20250618T103000Z
+DTSTAMP:20250914T135147Z
+UID:1fa6pue3qc5j5jqeei3bak9ckl@google.com
+CLASS:PUBLIC
+CREATED:20250617T061828Z
+DESCRIPTION:일시: 6. 18.(수) 18:30<br>장소: 수원역 문화광장(11번 출구 앞)<br><br>원본링크: <a h
+ ref="https://x.com/kctukgrc1/status/1934767313754182074?s=46&amp\;t=frFzTWA
+ -mZFwJZsmyf0hhg">https://x.com/kctukgrc1/status/1934767313754182074?s=46&am
+ p\;t=frFzTWA-mZFwJZsmyf0hhg</a>
+LAST-MODIFIED:20250617T061829Z
+LOCATION:수원역앞\, 수원시 수원역앞
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:(수원) 최저임금 올리자! 넓히자! 고치자! 2025년 최저임금 투쟁 승리를 위한 민주노총 경기도본부 문화제
+TRANSP:OPAQUE
+ATTACH;FILENAME=Gtmsfzba0AQYhj4.jpg;FMTTYPE=image/jpeg:https://drive.google
+ .com/open?id=1taI3JRPEnKIqdOXeLUNpEsKnNv4aOXty
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20250626T093000Z
+DTEND:20250626T103000Z
+DTSTAMP:20250914T135147Z
+UID:1sg1369q24t4mq4lon4jk2fms2@google.com
+CLASS:PUBLIC
+CREATED:20250617T064747Z
+DESCRIPTION:일시: 6. 26.(목) 18:30<br>장소: 민주노총 경기도본부 5층 대강당 (경기도 수원시 팔달구 경수대로 
+ 566)<br><br>* 사진 제출 마감: 6. 24.(화)<br>* 1명당 5장까지 제출 가능<br><br>접수링크: <a href=
+ "https://docs.google.com/forms/d/e/1FAIpQLSdlt9XmOrpjdS9i9nBMSsvsBKCgUaOYVY
+ 2FL6LKMGSgo0hYdw/viewform">https://docs.google.com/forms/d/e/1FAIpQLSdlt9Xm
+ OrpjdS9i9nBMSsvsBKCgUaOYVY2FL6LKMGSgo0hYdw/viewform</a><br>원본링크: <a href="h
+ ttps://x.com/kctukgrc1/status/1934806446128103427">https://x.com/kctukgrc1/
+ status/1934806446128103427</a>
+LAST-MODIFIED:20250617T064747Z
+LOCATION:민주노총 경기도본부\, 대한민국 경기도 수원시 팔달구 경수대로 566
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:(수원) 빛으로 그린 우리의 광장 사진전
+TRANSP:OPAQUE
+ATTACH;FILENAME=GtnP_G4a0AIqlM0.jpg;FMTTYPE=image/jpeg:https://drive.google
+ .com/open?id=1C4rcffkE_0TdnbgpXk6yu__QvnkZNeqU
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20250618T083000Z
+DTEND:20250618T100000Z
+DTSTAMP:20250914T135147Z
+UID:47i9auhje62qrpuej8dhnlt843@google.com
+CLASS:PUBLIC
+CREATED:20250617T064143Z
+DESCRIPTION:일시: 6. 18.(수) 17:30 ~ 19:00\n장소: 갈산역 라이온스밸리\n주관: 모두를위한최저임금 인천운동
+ 본부
+LAST-MODIFIED:20250617T064803Z
+LOCATION:우림 라이온스밸리 갈산\, 대한민국 인천광역시 부평구 부평대로 283
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:(인천) 모두를 위한 최저임금 올리고 넓히고 고치자 인천 한마당
+TRANSP:OPAQUE
+ATTACH;FILENAME=KakaoTalk_20250617_110802633.png;FMTTYPE=image/png:https://
+ drive.google.com/open?id=193cy3MVdouWRfUHhsLWOrBGS_IICLcqE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20250618T020000Z
+DTEND:20250618T030000Z
+DTSTAMP:20250914T135147Z
+UID:1c3404qp9bo3rhl5f9v76pe464@google.com
+CLASS:PUBLIC
+CREATED:20250616T140408Z
+DESCRIPTION:일시: 6. 18.(수) 11:00<br>장소: 고용노동부 중부지방노동청 (인천 석정로 239)<br><br>원본
+ 링크: <a href="https://t.me/kmwupress/13182">https://t.me/kmwupress/13182</a>
+LAST-MODIFIED:20250618T034800Z
+LOCATION:중부지방고용노동청\, 대한민국 인천광역시 미추홀구 석정로 239 정부인천지방합동청사 2~4층
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:(인천) 한국니토옵티칼 백혈병 피해 발생\, 노동부의 철저한 조사 촉구 기자회견
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20250711
+DTEND;VALUE=DATE:20250714
+DTSTAMP:20250914T135147Z
+UID:1rn6v7l294frjv1j3g71ovg471@google.com
+CLASS:PUBLIC
+CREATED:20250618T172556Z
+DESCRIPTION:♥️스물한번째 인천여성영화제가 7/11(금)-7/13(일) 영화공간 주안에서 열립니다🌸 <br>🧡올해 슬로건은
+  “광장은 끝나지 않는다”🌿 <br>💛여러분이 기대되는 상영작은 무엇일지 링크를 통해 확인해보세요❄️  <br>💚인천여성영화제 S
+ NS 링크🍒 <br>👉인스타: <a dir="ltr" href="https://t.co/pMglK76KzA" target="_bla
+ nk">https://instagram.com/wffii_official</a> <br>👉페이스북: <a dir="ltr" href=
+ "https://t.co/ToJ1BUnQLw" target="_blank">https://facebook.com/share/19e3dR
+ CLAd/?mibextid=LQQJ4d…</a> <br>👉네이버블로그: <a dir="ltr" href="https://t.co/Vb
+ xxAQwhLP" target="_blank">https://m.blog.naver.com/wffii</a> <br>💙무료상영을 원칙
+ 으로 하는 인천여성영화제🌿 <br>💜소셜펀치 후원함을 통해 후원에도 함께해주세요 <br>👉<a dir="ltr" href="htt
+ ps://t.co/JPxwQTeuyO" target="_blank">https://socialfunch.org/wffii_21</a>올
+ 해도 기대만발~🫶🏻🌸  <br><br>트위터에서 상영시간표 미리보기: <a href="https://x.com/iqcf_pride
+ /status/1935275268979180017">https://x.com/iqcf_pride/status/19352752689791
+ 80017</a>
+LAST-MODIFIED:20250618T172556Z
+LOCATION:영화공간 주안\, 대한민국 인천광역시 미추홀구 미추홀대로 716
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:(인천) 21 인천여성영화제: 광장은 끝나지 않는다
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20250619T230000Z
+DTEND:20250620T000000Z
+DTSTAMP:20250914T135147Z
+UID:4hd0155tctct4qm0qssphfqs3l@google.com
+CLASS:PUBLIC
+CREATED:20250620T140223Z
+DESCRIPTION:일시: 6. 20.(금) 08:00<br>장소: 인천국제공항 제1터미널<br><br>원본링크: <a href="h
+ ttps://t.me/sadd420/16946">https://t.me/sadd420/16946</a>
+LAST-MODIFIED:20250620T140223Z
+LOCATION:인천국제공항 제1여객터미널
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:(인천) 북미 AA CRPD 대표단 귀국 환영 기자회견
+TRANSP:OPAQUE
+ATTACH;FILENAME=cc93e8e580aac.png;FMTTYPE=image/png:https://drive.google.co
+ m/open?id=1FYZqjs57DbA58azDcsC9a28YlDRUiLw1
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20250627T233000Z
+DTEND:20250628T003000Z
+DTSTAMP:20250914T135147Z
+UID:7bq1eoscr9j764q1bbfe8h3urb@google.com
+CLASS:PUBLIC
+CREATED:20250620T152716Z
+DESCRIPTION:일시: 6. 28.(토) 08:30<br>장소: 반구정 앞(평화누리 자전거길 4코스 기점)<br>* 임진강에서 서
+ 울까지 이동하여 2시의 긴급행동 집회에 합류<br>준비물: 자전거\, 연대 메시지를 담은 물품\, 헬멧 착용 권장<br><br>* 날씨
+ 로 인한 일정 변동 및 취소 가능성으로 인해 참가 희망 시 eastasia_ecotopia@riseup.net 로 사전 연락 권장<br
+ ><br>원본링크: <a href="https://x.com/ecotopia_EA/status/1935502812886221228">h
+ ttps://x.com/ecotopia_EA/status/1935502812886221228</a>
+LAST-MODIFIED:20250620T152716Z
+LOCATION:반구정\, 대한민국 경기도 파주시 문산읍 사목리 190
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:(파주) 팔레스타인 해방과 연대하는 자전거타기 
+TRANSP:OPAQUE
+ATTACH;FILENAME=GtxJahWWoAA31HA.jpg;FMTTYPE=image/jpeg:https://drive.google
+ .com/open?id=1mWbl8uROVC2KaFQo9DbHC7F48qvcaTOV
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20250623T020000Z
+DTEND:20250623T023000Z
+DTSTAMP:20250914T135147Z
+UID:21d0m9heko8rld3kvs2vejp73v@google.com
+CLASS:PUBLIC
+CREATED:20250621T132320Z
+DESCRIPTION:주최: 사법정의바로세우기시민행동<br>출처:<br><a href="https://x.com/khkim2744/st
+ atus/1936040604842311921">https://x.com/khkim2744/status/193604060484231192
+ 1</a>
+LAST-MODIFIED:20250621T132320Z
+LOCATION:공수처(과천정부청사 고객안내센터 앞\, 경기도 과천시 관문로 47)
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:(과천) 주진우 국민의힘 의원 직권남용 및 공무상비밀누설\, 조세포탈 등 혐의 공수처 고발 기자회견
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20250626T050000Z
+DTEND:20250626T060000Z
+DTSTAMP:20250914T135147Z
+UID:6r0q95vu9gir9epd7ouf3tvh0q@google.com
+CLASS:PUBLIC
+CREATED:20250621T133220Z
+DESCRIPTION:출처:\nhttps://x.com/kctuGyeonggi_do/status/1936344544930582601
+LAST-MODIFIED:20250622T012125Z
+LOCATION:민주노총 경기도본부 대강당( 수원시 팔달구 경수대로 566 신용빌딩 2층)
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:(수원) 경기사회대개혁 토론회 연장전: '나중에'는 없다. 지금 당장 평등한 경기도
+TRANSP:TRANSPARENT
+ATTACH;FILENAME=0626 경기사회대개혁 토론회 연장전.jpg;FMTTYPE=image/jpeg:https://drive.g
+ oogle.com/open?id=1wZ4d_gbF5sWJ3E3K5itzgKfSG4Z0M8G0
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20250623T040000Z
+DTEND:20250623T043000Z
+DTSTAMP:20250914T135147Z
+UID:27esvot4p8nqg6sv8rb6ri0rfg@google.com
+CLASS:PUBLIC
+CREATED:20250605T092325Z
+DESCRIPTION:장소 : 수원지방법원 앞<br><br>출처 : <a href="https://x.com/saramiwatta/st
+ atus/1930487596792340857">https://x.com/saramiwatta/status/1930487596792340
+ 857</a>
+LAST-MODIFIED:20250622T013949Z
+LOCATION:수원지방법원\, 대한민국 경기도 수원시 영통구 법조로 105
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:(수원) 아리셀 참사 1주기 참사는 아직 끝나지 않았다 - 기자회견
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20250624T050000Z
+DTEND:20250624T060000Z
+DTSTAMP:20250914T135147Z
+UID:4u8gkojuud4fia2nknr2pbmad3@google.com
+CLASS:PUBLIC
+CREATED:20250623T081845Z
+DESCRIPTION:일시: 6. 24.(화) 14:00<br>장소: 하남 문화재단<br><br>원본링크: <a href="https:
+ //x.com/kctugyeonggi_do/status/1937003842086097262?s=46&amp\;t=frFzTWA-mZFw
+ JZsmyf0hhg">https://x.com/kctugyeonggi_do/status/1937003842086097262?s=46&a
+ mp\;t=frFzTWA-mZFwJZsmyf0hhg</a>
+LAST-MODIFIED:20250623T081845Z
+LOCATION:하남문화예술회관\, 대한민국 경기도 하남시 신평로 125
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:(하남) 하남시립예술단지회 5차 투쟁승리 결의대회
+TRANSP:OPAQUE
+ATTACH;FILENAME=GuGd3WKasAAQkDH.jpg;FMTTYPE=image/jpeg:https://drive.google
+ .com/open?id=1ypRgJ4jW6O-1Fb6zmxp37dmFzJI_vBi6
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20250626T132000Z
+DTEND:20250626T142000Z
+DTSTAMP:20250914T135147Z
+UID:5c1gvujf1ucidkk5o2qjte3jre@google.com
+CLASS:PUBLIC
+CREATED:20250626T073550Z
+DESCRIPTION:시간: 22시20분 (노동자 식사시간)<br>장소 : 쿠팡 고양센터 1번 게이트 앞<br><br>출처 : <a h
+ ref="https://x.com/ikpyohong_1977/status/1938138311580926036">https://x.com
+ /ikpyohong_1977/status/1938138311580926036</a>
+LAST-MODIFIED:20250626T073550Z
+LOCATION:삼성웰스토리(주)쿠팡고양1센터\, 대한민국 경기도 고양시 덕양구 원흥동 701번지 7층
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:(고양) 쿠팡고양센터 현장 선전전
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20250630T100000Z
+DTEND:20250630T110000Z
+DTSTAMP:20250914T135147Z
+UID:0p6i0f1d75l5u4h82qjghs8k4r@google.com
+CLASS:PUBLIC
+CREATED:20250630T091143Z
+DESCRIPTION:일시: 6. 30.(월) 19:00\n장소: 민주노총 경기도본부 5층 (수원시 팔달구 경수대로 566)\n\n발제
+ : "공공재생에너지 확대 필요성과 입법운동" (한재각\, 공공재생에너지활동가)
+LAST-MODIFIED:20250630T091144Z
+LOCATION:민주노총 경기도본부\, 대한민국 경기도 수원시 팔달구 경수대로 566
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:(수원) 공공재생에너지로 만드는 누구도 배제되지 않는 모두의 전환
+TRANSP:OPAQUE
+ATTACH;FILENAME=Gup5hVFWkAA-iYC.jpg;FMTTYPE=image/jpeg:https://drive.google
+ .com/open?id=1KnEO2IAIa12nZUrAR_5K6S7XXgjHIer-
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20250705T073000Z
+DTEND:20250705T083000Z
+DTSTAMP:20250914T135147Z
+UID:0c6cu668tnkcpuaer3q6gif2uq@google.com
+CLASS:PUBLIC
+CREATED:20250701T154053Z
+DESCRIPTION:일시: 7. 5.(토) 16:30<br>장소: 송내북부역 무지개광장<br><br>원본링크: <a href="htt
+ ps://x.com/kctukgrc1/status/1939928425063436704">https://x.com/kctukgrc1/st
+ atus/1939928425063436704</a>
+LAST-MODIFIED:20250701T154053Z
+LOCATION:송내 무지개광장\, 대한민국 경기도 부천시 원미구 상동 464-2
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:(부천) 민주노총 경기도본부 부천시흥김포지부 내란청산! 비정규직 철폐! 최저임금 대폭인상! 2025 투쟁문화제
+TRANSP:OPAQUE
+ATTACH;FILENAME=GuwCnXvXAAIeOp1.png;FMTTYPE=image/png:https://drive.google.
+ com/open?id=1IwOFj6kG5AUgqyCvZAJVOzSGPtDutHpL
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20250730T100000Z
+DTEND:20250730T110000Z
+DTSTAMP:20250914T135147Z
+UID:3anobst1iianj2veeoltaviuc0@google.com
+CLASS:PUBLIC
+CREATED:20250707T124012Z
+DESCRIPTION:일시: 7. 30.(수) 19:00<br>장소: 부평2동성당 (인천시 부평구 동수로39번길 20)<br><br>신
+ 청링크: <a href="https://docs.google.com/forms/d/e/1FAIpQLScZ1WEdOB2FRYxkTmNRW
+ e617Q0mGwTSOA8JdS6wyazsufdV5g/viewform">https://docs.google.com/forms/d/e/1
+ FAIpQLScZ1WEdOB2FRYxkTmNRWe617Q0mGwTSOA8JdS6wyazsufdV5g/viewform</a><br>원본링
+ 크: <a href="https://x.com/arcus_kr/status/1941734754254192876">https://x.co
+ m/arcus_kr/status/1941734754254192876</a>
+LAST-MODIFIED:20250707T124012Z
+LOCATION:천주교 부평2동 성당\, 대한민국 인천광역시 부평구 동수로39번길 20
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:(인천)  가톨릭 앨라이 아르쿠스 7월 월례미사
+TRANSP:OPAQUE
+ATTACH;FILENAME=GvJtd_8WoAAVJBv.jpg;FMTTYPE=image/jpeg:https://drive.google
+ .com/open?id=1g3jaL2G7XNsTEV0Iuwepo3fBvujrXsA2
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20250722T100000Z
+DTEND:20250722T110000Z
+DTSTAMP:20250914T135147Z
+UID:69e202voqscfjohrp2t2hgnhls@google.com
+CLASS:PUBLIC
+CREATED:20250707T124452Z
+DESCRIPTION:일시: 7. 22.(화) 19:00<br>장소: 부평구청 7층 대회의실<br><br>신청링크: <a href="h
+ ttps://docs.google.com/forms/d/e/1FAIpQLSeKbd_uN4FHf4Iwp02yP-J5AzF-07ne6x0_
+ 8L8VQikI4QBgZA/viewform">https://docs.google.com/forms/d/e/1FAIpQLSeKbd_uN4
+ FHf4Iwp02yP-J5AzF-07ne6x0_8L8VQikI4QBgZA/viewform</a><br>원본링크: <a href="htt
+ ps://x.com/nasaram2017/status/1942081273293590531?s=46">https://x.com/nasar
+ am2017/status/1942081273293590531?s=46</a>
+LAST-MODIFIED:20250707T124453Z
+LOCATION:부평구청\, 대한민국 인천광역시 부평구 부평대로 168
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:(인천) 권영국 토크콘서트
+TRANSP:OPAQUE
+ATTACH;FILENAME=GvOohh_bsAAOboj.jpg;FMTTYPE=image/jpeg:https://drive.google
+ .com/open?id=1ijqbwYIFA8dOH6IfoJ0Kaa0BXGayS9DE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=Asia/Seoul:20250217T100000
+DTEND;TZID=Asia/Seoul:20250217T170000
+RRULE:FREQ=WEEKLY;UNTIL=20250706T145959Z;BYDAY=MO
+DTSTAMP:20250914T135147Z
+UID:63e9f8sv8d4ka8s9m63i7i3h9l@google.com
+CLASS:PUBLIC
+CREATED:20250212T153903Z
+DESCRIPTION:장소가 '미추홀구 독배로 420-1 동신메디컬센터 801호 길 건너편'으로 기재돼 있음.\n개인 주최 집회.\n깃
+ 발 사용 불가입니다!\nhttps://x.com/solracinema/status/1888869694377271439?t=zZm7Ifj
+ a4m9cj9AsQ_rL6Q&s=19
+LAST-MODIFIED:20250708T021003Z
+LOCATION:420-1\, 대한민국 인천광역시 미추홀구 독배로 420-1
+SEQUENCE:1
+STATUS:CONFIRMED
+SUMMARY:(인천) 국민의힘 윤상현 규탄집회
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=Asia/Seoul:20250709T100000
+DTEND;TZID=Asia/Seoul:20250709T140000
+RRULE:FREQ=WEEKLY
+DTSTAMP:20250914T135147Z
+UID:kt2ag5fp3ncuufjhghdak28rbs@google.com
+CLASS:PUBLIC
+CREATED:20250708T021213Z
+DESCRIPTION:일시: 7. 9.(수) 10:00 ~ 14:00 (매주 수요일)\n장소: 윤상현 지역구 사무실 (인천시 미추홀구 
+ 독배로 420-1) 동신메디컬센터 건너편(용현시장 입구)\n\n* 기존 매주 월요집회에서 수요집회로 일정 변경\n\n원본링크: http
+ s://x.com/b1ue_m1ng/status/1941845310143398041?s=46&t=a1oJvDJYs74ceRwpoPkKR
+ g
+LAST-MODIFIED:20250708T021242Z
+LOCATION:420-1\, 대한민국 인천광역시 미추홀구 독배로 420-1
+SEQUENCE:1
+STATUS:CONFIRMED
+SUMMARY:(인천) 국민의힘 윤상현 규탄집회
+TRANSP:TRANSPARENT
+ATTACH;FILENAME=IMG_7847.JPG;FMTTYPE=image/jpeg:https://drive.google.com/fi
+ le/d/1VpNgbMexS9GZ_EnmkeOQyR1pF8McSXLp
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20250716T055000Z
+DTEND:20250716T064000Z
+DTSTAMP:20250914T135147Z
+UID:686afab1qgrggtrep00bi3v6ov@google.com
+CLASS:PUBLIC
+CREATED:20250709T082511Z
+DESCRIPTION:일시 : 7/16(수) 14:50 ~ 15:40<br>장소 : 기아차 화성공장 북문(경기 화성시 우정읍 기아자동차
+ 로 95)<br>문의: 정은희(010-2692-6345)<br><br>자차 출발시 도착지 : 기아차 화성공장 북문<br>대중교통 이용시
+ <br>-사당역 9번 출구 앞(8155)-&gt\;조암시장<br>-수원역.AK플라자 정류장 승차(9802번) 승차-&gt\; 조암시장 
+ <br>-조암시장 도착 후 픽업 요청: 이용덕(010-2449-7332)<br><br>투쟁 연대선전전 참가 신청 링크 : <a href
+ ="https://docs.google.com/forms/d/e/1FAIpQLSfzf3z3o_zioeUp2JtnSt7Qf7gepFezI
+ MNDqz4W_ahiF6U1AQ/viewform" target="_blank">https://docs.google.com/forms/d
+ /e/1FAIpQLSfzf3z3o_zioeUp2JtnSt7Qf7gepFezIMNDqz4W_ahiF6U1AQ/viewform</a><br
+ ><br>출처 : <a href="https://x.com/breadandroseskr/status/1942787993380471016
+ ">https://x.com/breadandroseskr/status/1942787993380471016</a>
+LAST-MODIFIED:20250709T093451Z
+LOCATION:오토랜드화성\, 대한민국 경기도 화성시 기아자동차로 95
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:(화성) 기아차 화성공장 청소노동자 투쟁 연대선전전
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20250719T060000Z
+DTEND:20250719T070000Z
+DTSTAMP:20250914T135147Z
+UID:6ubm0tkh11qviinkfitfhu8sl3@google.com
+CLASS:PUBLIC
+CREATED:20250710T074133Z
+DESCRIPTION:일시 : 7/19(토) 15:00\n장소 : 소요산 동두천옛성병관리소 농성장 앞 주차장\n\n프로그램\n-깃발 전
+ 시\n-대형 깃발 함께 그리기\n-문화 공연\n-깃발 설치
+LAST-MODIFIED:20250710T074133Z
+LOCATION:동두천 옛 성병관리소\, 대한민국 경기도 동두천시 평화로2910번길 86
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:(동두천) 동두천 옛 성병관리소 철거저지를 위한 평화문화제 : 동두천 평화의 깃발 평화가 미래다!
+TRANSP:OPAQUE
+ATTACH;FILENAME=동두천 평화의 깃발 평화가 미래다.png;FMTTYPE=image/png:https://drive.goog
+ le.com/open?id=11ZF-AIg43uVuA7oW-ue67852PW7AITpM
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20250716T020000Z
+DTEND:20250716T030000Z
+DTSTAMP:20250914T135147Z
+UID:4kqh0htbcprlitiv1ektc6ut7c@google.com
+CLASS:PUBLIC
+CREATED:20250710T090306Z
+DESCRIPTION:일시 : 7/16(수) 11:00<br>장소 : 전국 노동청 앞<br><br>중부지방고용노동청 : 인천광역시 중구
+ \, 동구\, 미추홀구\, 연수구\, 남동구\, 옹진군<br>중부지방고용노동청인천북부지청 : 인천광역시 부평구\, 계양구\, 서구\, 
+ 강화군<br>중부지방고용노동청부천지청 : 경기도 부천시\, 김포시<br>중부지방고용노동청의정부지청 : 경기도 의정부시\, 동두천시\, 
+ 양주시\, 포천시\, 연천군\, 구리시\, 남양주시\, 강원특별자치도 철원군<br>중부지방고용노동청고양지청 : 경기도 고양시\, 파주시
+ <br>중부지방고용노동청경기지청 : 경기도 수원시\, 용인시\, 화성시<br>중부지방고용노동청성남지청 : 경기도 성남시\, 광주시\, 
+ 하남시\, 양평군\, 이천시\, 여주군<br>중부지방고용노동청안양지청 : 경기도 안양시\, 과천시\, 의왕시\, 군포시\, 광명시<br
+ >중부지방고용노동청안산지청 : 경기도 안산시\, 시흥시<br>중부지방고용노동청평택지청 : 경기도 평택시\, 오산시\, 안성시<br><b
+ r><br>출처 : <a href="https://x.com/kihoyaho/status/1943145560040763862"><u>h
+ ttps://x.com/kihoyaho/status/1943145560040763862</u></a>
+LAST-MODIFIED:20250710T091704Z
+LOCATION:중부지방고용노동청 고양지청\, 대한민국 경기도 고양시 화중로104번길 50
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:(고양) 라이더 공동행동 "배민/쿠팡 하청/착취 즉각 중단 정부는 당장 나서라!"
+TRANSP:OPAQUE
+ATTACH;FILENAME=GvdwlVbWAAAHnlb.jpg;FMTTYPE=image/jpeg:https://drive.google
+ .com/open?id=1HT5vOIQe7f7Lgo1dqWe74V2VHn4qaecw
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20250716T020000Z
+DTEND:20250716T030000Z
+DTSTAMP:20250914T135147Z
+UID:34dahg44ue790io26decmpqd1g@google.com
+CLASS:PUBLIC
+CREATED:20250710T091008Z
+DESCRIPTION:일시 : 7/16(수) 11:00<br>장소 : 전국 노동청 앞<br><br>중부지방고용노동청 : 인천광역시 중구
+ \, 동구\, 미추홀구\, 연수구\, 남동구\, 옹진군<br>중부지방고용노동청인천북부지청 : 인천광역시 부평구\, 계양구\, 서구\, 
+ 강화군<br>중부지방고용노동청부천지청 : 경기도 부천시\, 김포시<br>중부지방고용노동청의정부지청 : 경기도 의정부시\, 동두천시\, 
+ 양주시\, 포천시\, 연천군\, 구리시\, 남양주시\, 강원특별자치도 철원군<br>중부지방고용노동청고양지청 : 경기도 고양시\, 파주시
+ <br>중부지방고용노동청경기지청 : 경기도 수원시\, 용인시\, 화성시<br>중부지방고용노동청성남지청 : 경기도 성남시\, 광주시\, 
+ 하남시\, 양평군\, 이천시\, 여주군<br>중부지방고용노동청안양지청 : 경기도 안양시\, 과천시\, 의왕시\, 군포시\, 광명시<br
+ >중부지방고용노동청안산지청 : 경기도 안산시\, 시흥시<br>중부지방고용노동청평택지청 : 경기도 평택시\, 오산시\, 안성시<br><b
+ r><br>출처 : <a href="https://x.com/kihoyaho/status/1943145560040763862"><u>h
+ ttps://x.com/kihoyaho/status/1943145560040763862</u></a>
+LAST-MODIFIED:20250710T091725Z
+LOCATION:중부지방고용노동청 부천지청\, 대한민국 경기도 부천시 원미구 석천로 207
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:(부천) 라이더 공동행동 "배민/쿠팡 하청/착취 즉각 중단 정부는 당장 나서라!"
+TRANSP:OPAQUE
+ATTACH;FILENAME=GvdwlVbWAAAHnlb.jpg;FMTTYPE=image/jpeg:https://drive.google
+ .com/open?id=1HT5vOIQe7f7Lgo1dqWe74V2VHn4qaecw
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20250716T020000Z
+DTEND:20250716T030000Z
+DTSTAMP:20250914T135147Z
+UID:03c6lug0lr5gqdkm1g8gi8o8e0@google.com
+CLASS:PUBLIC
+CREATED:20250710T090122Z
+DESCRIPTION:일시 : 7/16(수) 11:00<br>장소 : 전국 노동청 앞<br><br>중부지방고용노동청 : 인천광역시 중구
+ \, 동구\, 미추홀구\, 연수구\, 남동구\, 옹진군<br>중부지방고용노동청인천북부지청 : 인천광역시 부평구\, 계양구\, 서구\, 
+ 강화군<br>중부지방고용노동청부천지청 : 경기도 부천시\, 김포시<br>중부지방고용노동청의정부지청 : 경기도 의정부시\, 동두천시\, 
+ 양주시\, 포천시\, 연천군\, 구리시\, 남양주시\, 강원특별자치도 철원군<br>중부지방고용노동청고양지청 : 경기도 고양시\, 파주시
+ <br>중부지방고용노동청경기지청 : 경기도 수원시\, 용인시\, 화성시<br>중부지방고용노동청성남지청 : 경기도 성남시\, 광주시\, 
+ 하남시\, 양평군\, 이천시\, 여주군<br>중부지방고용노동청안양지청 : 경기도 안양시\, 과천시\, 의왕시\, 군포시\, 광명시<br
+ >중부지방고용노동청안산지청 : 경기도 안산시\, 시흥시<br>중부지방고용노동청평택지청 : 경기도 평택시\, 오산시\, 안성시<br><b
+ r><br>출처 : <a href="https://x.com/kihoyaho/status/1943145560040763862"><u>h
+ ttps://x.com/kihoyaho/status/1943145560040763862</u></a>
+LAST-MODIFIED:20250710T091743Z
+LOCATION:고용노동부 성남지청\, 대한민국 경기도 성남시 분당구 성남대로 146
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:(성남) 라이더 공동행동 "배민/쿠팡 하청/착취 즉각 중단 정부는 당장 나서라!"
+TRANSP:OPAQUE
+ATTACH;FILENAME=GvdwlVbWAAAHnlb.jpg;FMTTYPE=image/jpeg:https://drive.google
+ .com/open?id=1HT5vOIQe7f7Lgo1dqWe74V2VHn4qaecw
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20250716T020000Z
+DTEND:20250716T030000Z
+DTSTAMP:20250914T135147Z
+UID:0kle1q0g0ugkivi2kid3aa1i5j@google.com
+CLASS:PUBLIC
+CREATED:20250710T090218Z
+DESCRIPTION:일시 : 7/16(수) 11:00<br>장소 : 전국 노동청 앞<br><br>중부지방고용노동청 : 인천광역시 중구
+ \, 동구\, 미추홀구\, 연수구\, 남동구\, 옹진군<br>중부지방고용노동청인천북부지청 : 인천광역시 부평구\, 계양구\, 서구\, 
+ 강화군<br>중부지방고용노동청부천지청 : 경기도 부천시\, 김포시<br>중부지방고용노동청의정부지청 : 경기도 의정부시\, 동두천시\, 
+ 양주시\, 포천시\, 연천군\, 구리시\, 남양주시\, 강원특별자치도 철원군<br>중부지방고용노동청고양지청 : 경기도 고양시\, 파주시
+ <br>중부지방고용노동청경기지청 : 경기도 수원시\, 용인시\, 화성시<br>중부지방고용노동청성남지청 : 경기도 성남시\, 광주시\, 
+ 하남시\, 양평군\, 이천시\, 여주군<br>중부지방고용노동청안양지청 : 경기도 안양시\, 과천시\, 의왕시\, 군포시\, 광명시<br
+ >중부지방고용노동청안산지청 : 경기도 안산시\, 시흥시<br>중부지방고용노동청평택지청 : 경기도 평택시\, 오산시\, 안성시<br><b
+ r><br>출처 : <a href="https://x.com/kihoyaho/status/1943145560040763862"><u>h
+ ttps://x.com/kihoyaho/status/1943145560040763862</u></a>
+LAST-MODIFIED:20250710T112058Z
+LOCATION:고용노동부 경기지청\, 대한민국 경기도 수원시 장안구 서부로 2166
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:(수원) 라이더 공동행동 "배민/쿠팡 하청/착취 즉각 중단 정부는 당장 나서라!"
+TRANSP:OPAQUE
+ATTACH;FILENAME=GvdwlVbWAAAHnlb.jpg;FMTTYPE=image/jpeg:https://drive.google
+ .com/open?id=1HT5vOIQe7f7Lgo1dqWe74V2VHn4qaecw
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20250716T020000Z
+DTEND:20250716T030000Z
+DTSTAMP:20250914T135147Z
+UID:48134mihnravfp86m8f1u8saqk@google.com
+CLASS:PUBLIC
+CREATED:20250710T085941Z
+DESCRIPTION:일시 : 7/16(수) 11:00<br>장소 : 전국 노동청 앞<br><br>중부지방고용노동청 : 인천광역시 중구
+ \, 동구\, 미추홀구\, 연수구\, 남동구\, 옹진군<br>중부지방고용노동청인천북부지청 : 인천광역시 부평구\, 계양구\, 서구\, 
+ 강화군<br>중부지방고용노동청부천지청 : 경기도 부천시\, 김포시<br>중부지방고용노동청의정부지청 : 경기도 의정부시\, 동두천시\, 
+ 양주시\, 포천시\, 연천군\, 구리시\, 남양주시\, 강원특별자치도 철원군<br>중부지방고용노동청고양지청 : 경기도 고양시\, 파주시
+ <br>중부지방고용노동청경기지청 : 경기도 수원시\, 용인시\, 화성시<br>중부지방고용노동청성남지청 : 경기도 성남시\, 광주시\, 
+ 하남시\, 양평군\, 이천시\, 여주군<br>중부지방고용노동청안양지청 : 경기도 안양시\, 과천시\, 의왕시\, 군포시\, 광명시<br
+ >중부지방고용노동청안산지청 : 경기도 안산시\, 시흥시<br>중부지방고용노동청평택지청 : 경기도 평택시\, 오산시\, 안성시<br><b
+ r><br>출처 : <a href="https://x.com/kihoyaho/status/1943145560040763862"><u>h
+ ttps://x.com/kihoyaho/status/1943145560040763862</u></a>
+LAST-MODIFIED:20250710T112122Z
+LOCATION:고용노동부 안산지청\, 대한민국 경기도 안산시 단원구 적금로1길 26
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:(안산) 라이더 공동행동 "배민/쿠팡 하청/착취 즉각 중단 정부는 당장 나서라!"
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20250716T020000Z
+DTEND:20250716T030000Z
+DTSTAMP:20250914T135147Z
+UID:1vc5d74clc5jadqv9kd930s5qk@google.com
+CLASS:PUBLIC
+CREATED:20250710T090034Z
+DESCRIPTION:일시 : 7/16(수) 11:00<br>장소 : 전국 노동청 앞<br><br>중부지방고용노동청 : 인천광역시 중구
+ \, 동구\, 미추홀구\, 연수구\, 남동구\, 옹진군<br>중부지방고용노동청인천북부지청 : 인천광역시 부평구\, 계양구\, 서구\, 
+ 강화군<br>중부지방고용노동청부천지청 : 경기도 부천시\, 김포시<br>중부지방고용노동청의정부지청 : 경기도 의정부시\, 동두천시\, 
+ 양주시\, 포천시\, 연천군\, 구리시\, 남양주시\, 강원특별자치도 철원군<br>중부지방고용노동청고양지청 : 경기도 고양시\, 파주시
+ <br>중부지방고용노동청경기지청 : 경기도 수원시\, 용인시\, 화성시<br>중부지방고용노동청성남지청 : 경기도 성남시\, 광주시\, 
+ 하남시\, 양평군\, 이천시\, 여주군<br>중부지방고용노동청안양지청 : 경기도 안양시\, 과천시\, 의왕시\, 군포시\, 광명시<br
+ >중부지방고용노동청안산지청 : 경기도 안산시\, 시흥시<br>중부지방고용노동청평택지청 : 경기도 평택시\, 오산시\, 안성시<br><b
+ r><br>출처 : <a href="https://x.com/kihoyaho/status/1943145560040763862"><u>h
+ ttps://x.com/kihoyaho/status/1943145560040763862</u></a>
+LAST-MODIFIED:20250710T112153Z
+LOCATION:중부지방고용노동청 안양지청\, 대한민국 경기도 안양시 만안구 전파로44번길 73
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:(안양) 라이더 공동행동 "배민/쿠팡 하청/착취 즉각 중단 정부는 당장 나서라!"
+TRANSP:OPAQUE
+ATTACH;FILENAME=GvdwlVbWAAAHnlb.jpg;FMTTYPE=image/jpeg:https://drive.google
+ .com/open?id=1HT5vOIQe7f7Lgo1dqWe74V2VHn4qaecw
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20250716T020000Z
+DTEND:20250716T030000Z
+DTSTAMP:20250914T135147Z
+UID:1aqjdftivtbh6bs1gqbjqe501m@google.com
+CLASS:PUBLIC
+CREATED:20250710T090932Z
+DESCRIPTION:일시 : 7/16(수) 11:00<br>장소 : 전국 노동청 앞<br><br>중부지방고용노동청 : 인천광역시 중구
+ \, 동구\, 미추홀구\, 연수구\, 남동구\, 옹진군<br>중부지방고용노동청인천북부지청 : 인천광역시 부평구\, 계양구\, 서구\, 
+ 강화군<br>중부지방고용노동청부천지청 : 경기도 부천시\, 김포시<br>중부지방고용노동청의정부지청 : 경기도 의정부시\, 동두천시\, 
+ 양주시\, 포천시\, 연천군\, 구리시\, 남양주시\, 강원특별자치도 철원군<br>중부지방고용노동청고양지청 : 경기도 고양시\, 파주시
+ <br>중부지방고용노동청경기지청 : 경기도 수원시\, 용인시\, 화성시<br>중부지방고용노동청성남지청 : 경기도 성남시\, 광주시\, 
+ 하남시\, 양평군\, 이천시\, 여주군<br>중부지방고용노동청안양지청 : 경기도 안양시\, 과천시\, 의왕시\, 군포시\, 광명시<br
+ >중부지방고용노동청안산지청 : 경기도 안산시\, 시흥시<br>중부지방고용노동청평택지청 : 경기도 평택시\, 오산시\, 안성시<br><b
+ r><br>출처 : <a href="https://x.com/kihoyaho/status/1943145560040763862"><u>h
+ ttps://x.com/kihoyaho/status/1943145560040763862</u></a>
+LAST-MODIFIED:20250710T112221Z
+LOCATION:의정부고용노동지청\, 대한민국 경기도 의정부시 충의로 143
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:(의정부) 라이더 공동행동 "배민/쿠팡 하청/착취 즉각 중단 정부는 당장 나서라!"
+TRANSP:OPAQUE
+ATTACH;FILENAME=GvdwlVbWAAAHnlb.jpg;FMTTYPE=image/jpeg:https://drive.google
+ .com/open?id=1HT5vOIQe7f7Lgo1dqWe74V2VHn4qaecw
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20250716T020000Z
+DTEND:20250716T030000Z
+DTSTAMP:20250914T135147Z
+UID:2vdmg5sb1fcgejd0s7ft5ac9rm@google.com
+CLASS:PUBLIC
+CREATED:20250710T091103Z
+DESCRIPTION:일시 : 7/16(수) 11:00<br>장소 : 전국 노동청 앞<br><br>중부지방고용노동청 : 인천광역시 중구
+ \, 동구\, 미추홀구\, 연수구\, 남동구\, 옹진군<br>중부지방고용노동청인천북부지청 : 인천광역시 부평구\, 계양구\, 서구\, 
+ 강화군<br>중부지방고용노동청부천지청 : 경기도 부천시\, 김포시<br>중부지방고용노동청의정부지청 : 경기도 의정부시\, 동두천시\, 
+ 양주시\, 포천시\, 연천군\, 구리시\, 남양주시\, 강원특별자치도 철원군<br>중부지방고용노동청고양지청 : 경기도 고양시\, 파주시
+ <br>중부지방고용노동청경기지청 : 경기도 수원시\, 용인시\, 화성시<br>중부지방고용노동청성남지청 : 경기도 성남시\, 광주시\, 
+ 하남시\, 양평군\, 이천시\, 여주군<br>중부지방고용노동청안양지청 : 경기도 안양시\, 과천시\, 의왕시\, 군포시\, 광명시<br
+ >중부지방고용노동청안산지청 : 경기도 안산시\, 시흥시<br>중부지방고용노동청평택지청 : 경기도 평택시\, 오산시\, 안성시<br><b
+ r><br>출처 : <a href="https://x.com/kihoyaho/status/1943145560040763862"><u>h
+ ttps://x.com/kihoyaho/status/1943145560040763862</u></a>
+LAST-MODIFIED:20250710T112232Z
+LOCATION:중부지방고용노동청\, 대한민국 인천광역시 미추홀구 석정로 239 정부인천지방합동청사 2~4층
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:(인천) 라이더 공동행동 "배민/쿠팡 하청/착취 즉각 중단 정부는 당장 나서라!"
+TRANSP:OPAQUE
+ATTACH;FILENAME=GvdwlVbWAAAHnlb.jpg;FMTTYPE=image/jpeg:https://drive.google
+ .com/open?id=1HT5vOIQe7f7Lgo1dqWe74V2VHn4qaecw
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20250716T020000Z
+DTEND:20250716T030000Z
+DTSTAMP:20250914T135147Z
+UID:47coarp4gmdn6hj8c2ban3p5ak@google.com
+CLASS:PUBLIC
+CREATED:20250710T085753Z
+DESCRIPTION:일시 : 7/16(수) 11:00<br>장소 : 전국 노동청 앞<br><br>중부지방고용노동청 : 인천광역시 중구
+ \, 동구\, 미추홀구\, 연수구\, 남동구\, 옹진군<br>중부지방고용노동청인천북부지청 : 인천광역시 부평구\, 계양구\, 서구\, 
+ 강화군<br>중부지방고용노동청부천지청 : 경기도 부천시\, 김포시<br>중부지방고용노동청의정부지청 : 경기도 의정부시\, 동두천시\, 
+ 양주시\, 포천시\, 연천군\, 구리시\, 남양주시\, 강원특별자치도 철원군<br>중부지방고용노동청고양지청 : 경기도 고양시\, 파주시
+ <br>중부지방고용노동청경기지청 : 경기도 수원시\, 용인시\, 화성시<br>중부지방고용노동청성남지청 : 경기도 성남시\, 광주시\, 
+ 하남시\, 양평군\, 이천시\, 여주군<br>중부지방고용노동청안양지청 : 경기도 안양시\, 과천시\, 의왕시\, 군포시\, 광명시<br
+ >중부지방고용노동청안산지청 : 경기도 안산시\, 시흥시<br>중부지방고용노동청평택지청 : 경기도 평택시\, 오산시\, 안성시<br><b
+ r><br>출처 : <a href="https://x.com/kihoyaho/status/1943145560040763862"><u>h
+ ttps://x.com/kihoyaho/status/1943145560040763862</u></a>
+LAST-MODIFIED:20250710T112253Z
+LOCATION:고덕중앙5길\, 대한민국 경기도 평택시 고덕중앙5길
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:(평택) 라이더 공동행동 "배민/쿠팡 하청/착취 즉각 중단 정부는 당장 나서라!"
+TRANSP:OPAQUE
+ATTACH;FILENAME=GvdwlVbWAAAHnlb.jpg;FMTTYPE=image/jpeg:https://drive.google
+ .com/open?id=1HT5vOIQe7f7Lgo1dqWe74V2VHn4qaecw
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20250720T080000Z
+DTEND:20250720T090000Z
+DTSTAMP:20250914T135147Z
+UID:0ijd0cg4i8pqdr0ggdpc8v4jpu@google.com
+CLASS:PUBLIC
+CREATED:20250711T100748Z
+DESCRIPTION:일시: 7. 20.(일) 17:00\n장소: 화성중앙종합병원 건너편\n* 집회 후 만세시장 행진
+LAST-MODIFIED:20250711T100748Z
+LOCATION:화성중앙종합병원\, 대한민국 경기도 화성시 발안로 5 KR
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:(화성) 이주노동자 화성지역 집회
+TRANSP:OPAQUE
+ATTACH;FILENAME=KakaoTalk_20250711_171700520.jpg;FMTTYPE=image/jpeg:https:/
+ /drive.google.com/open?id=1ogYM3eXDi4nFRGfqLmOA1etacngeEarU
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20250723T050000Z
+DTEND:20250723T060000Z
+DTSTAMP:20250914T135147Z
+UID:0gfh9dqqd3dkhbk2td36em3oq7@google.com
+CLASS:PUBLIC
+CREATED:20250714T161210Z
+DESCRIPTION:일시 : 7/23 14:00<br>장소 : 경기도의회 중회의실<br><br>프로그램<br>진행 : 경기도의회 더불
+ 어민주당 이홍근 의원<br>주발제<br>- 용인 반도체 국가산단이 가지는 공공성과 지속가능성의 한계 / 홍석만(참세상연구소)<br>부분
+ 발제<br>- 환경.기후위기와 산업전환_기후위기 시대\, 반도체 중심 산업이 지속가능한가? / 김현정(경기환경운동연합)<br>- 산업정
+ 책과 민주적 거버넌스_국가전략사업에 노동자.주민은 왜 빠졌는가? / 지역대책위<br>- 공공투자와 책임_공공인프라.재정이 투입되는데\,
+  노동과 시민의 권리는 어디? / 홍석환(민주노총 정책실)<br>- 과포장된 반도체 산업_건강권과 노동권을 중심으로 / 신혁진(금속노조
+  정책실)<br><br>출처 : <a href="https://x.com/kctukgrc1/status/19445724593716595
+ 60">https://x.com/kctukgrc1/status/1944572459371659560</a>
+LAST-MODIFIED:20250714T161210Z
+LOCATION:경기도의회\, 대한민국 경기도 수원시 영통구 도청로 30
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:(수원) 공공성과 지속가능성의 시선으로 본 용인 반도체 국가산단 : 속도보다 숙의\, 지역공동체를 위한 해법 모색
+TRANSP:OPAQUE
+ATTACH;FILENAME=GvyCVmPXgAAaFOr.jpg;FMTTYPE=image/jpeg:https://drive.google
+ .com/open?id=1GKCVD99SFkJrGof9hyLtmIRm8a1EhsWY
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20250717T100000Z
+DTEND:20250717T110000Z
+DTSTAMP:20250914T135147Z
+UID:3i82anft5ln3dlvlmvdhngprbj@google.com
+CREATED:20250715T092134Z
+DESCRIPTION:일시: 7. 17.(목) 19:00<br>장소: 한국니토옵티칼 공장 앞(경기 평택시 청북읍 현곡산단로 40)<br
+ ><br>신청링크: <a href="https://docs.google.com/forms/d/e/1FAIpQLSdu4Z4mt4h3GCo
+ JfnqR7X_F1zFGMpCRZZmLkYdi-GEMwzsayA/viewform">https://docs.google.com/forms
+ /d/e/1FAIpQLSdu4Z4mt4h3GCoJfnqR7X_F1zFGMpCRZZmLkYdi-GEMwzsayA/viewform</a><
+ br>원본링크: <a href="https://x.com/woo_hahahang/status/1944746922348314982">ht
+ tps://x.com/woo_hahahang/status/1944746922348314982</a>
+LAST-MODIFIED:20250715T092134Z
+LOCATION:한국니토옵티칼(주) 현곡공장\, 대한민국 경기도 평택시 청북면 현곡리 474
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:(평택) 한국니토옵티칼(평택) 선전물 배포 연대행동
+TRANSP:OPAQUE
+ATTACH;FILENAME=Gv0hBOhaUAAVMbv.jpg;FMTTYPE=image/jpeg:https://drive.google
+ .com/open?id=1JvTXsuinVhAgRPSoC0Hhm_gDqRPFYwRp
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20250722T050000Z
+DTEND:20250722T060000Z
+DTSTAMP:20250914T135147Z
+UID:47gotmi0tj44d3q9k2abmtc43e@google.com
+CLASS:PUBLIC
+CREATED:20250715T092539Z
+DESCRIPTION:일시: 7. 22.(화) 14:00<br>장소: 하남문화재단<br><br>원본링크: <a href="https:/
+ /x.com/kctugyeonggi_do/status/1945033862599393493?s=46&amp\;t=frFzTWA-mZFwJ
+ Zsmyf0hhg">https://x.com/kctugyeonggi_do/status/1945033862599393493?s=46&am
+ p\;t=frFzTWA-mZFwJZsmyf0hhg</a>
+LAST-MODIFIED:20250715T092539Z
+LOCATION:하남문화예술회관\, 대한민국 경기도 하남시 신평로 125
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:(하남) 하남시립예술단지회 투쟁승리 결의대회
+TRANSP:OPAQUE
+ATTACH;FILENAME=Gv4l03ua4AASICz.jpg;FMTTYPE=image/jpeg:https://drive.google
+ .com/open?id=1xiF8bXbgk_OjEdVQqq_iAHCCGVRmyzPA
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20250813T230000Z
+DTEND:20250817T000000Z
+DTSTAMP:20250914T135147Z
+UID:7d5fjpfmtb03lodsbp03jg6db2@google.com
+CLASS:PUBLIC
+CREATED:20250721T150951Z
+DESCRIPTION:일시 : 8/14(목) 오후 ~ 17(일) 오전\, 3박 4일<br>장소 : 평택평화센터(경기도 평택시 팽성읍 대
+ 추안길 5)<br>대상 : 계엄에 깜놀하고 행동의 필요성을 느낀 분\, 다양한 영역에서 변화를 꿈꾸는 분\, 함께하는 힘을 경험하고 싶
+ 은 분<br>참가비 : 12만원 (학생\, 청소년\, 시민사회 활동가 10만원\, 전없세 후원회원 9만원\, (<b>30명 입금순 선착
+ 순 마감</b> /우리은행 1005-102-921333\, 전쟁없는세상))<br>문의 : 전쟁없는세상 peace@withoutwar.o
+ rg  02-6401-0514<br><br>내용<br>첫째날(8월 14일 목요일) 여는마당\, 12월 3일의 감정 나누기\, 계엄령 하
+  한국 사회는 어떤 모습일까?<br>둘째날(8월 15일 금요일) 캠페인 전략 개발(권력의 기둥들과 취약점\, 운동의 비전\, MAP\,
+  단계적 저항 전략\, 포용적이고 효과적인 조직화 기술)+참여자 제안 워크숍<br>셋째날(8월 16일 토요일) 행동 기획과 지속가능한 
+ 운동(효과적인 메시지 전달과 소통 전략\, 연대 방안\, 공동체 지원\, 전술 기획)+캠페인 클리닉<br>넷째날(8월 17일 일요일) 
+ 닫는마당<br><br><br><br>* 식사\, 간식을 비건으로 준비합니다.<br>* 줌 쿠폰을 사용합니다. 줌 쿠폰은 참가자들 각자가
+  스스로의 재능으로 다른 참가자들에게 기여하면서 줌 쿠폰을 주고받는 일종의 대안화폐입니다. 모으는 것이 목적이 아닌 서로 교류하는 목적
+ 으로 사용됩니다. 보통 간단한 지압이나  안마\, 자신의 운동에 대한 소개\, 타로카드\, 실뜨기\, 보드게임 안내 등의 교류를 했습니
+ 다.<br>참가 신청 링크 : <a href="https://docs.google.com/forms/d/e/1FAIpQLSdH__8Sq
+ Kzw0wIyZjxftZZhBAxosLbQfaR0yf1_E5akk-py_w/viewform">https://docs.google.com
+ /forms/d/e/1FAIpQLSdH__8SqKzw0wIyZjxftZZhBAxosLbQfaR0yf1_E5akk-py_w/viewfor
+ m</a><br><br>출처 : <a href="https://x.com/Withoutwar30888/status/19471893415
+ 47294957">https://x.com/Withoutwar30888/status/1947189341547294957</a>
+LAST-MODIFIED:20250721T150952Z
+LOCATION:5\, 대한민국 경기도 평택시 팽성읍 대추안길 5
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:(평택) 2025 평화캠프
+TRANSP:OPAQUE
+ATTACH;FILENAME=GwXOF-NXcAANbct.jpg;FMTTYPE=image/jpeg:https://drive.google
+ .com/open?id=1FMqxplmCNDIANfoPROkLQ5tDl29bwgUf
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20250723T055000Z
+DTEND:20250723T064000Z
+DTSTAMP:20250914T135147Z
+UID:0fc61bgdaqu10prooptdhvm1fu@google.com
+CLASS:PUBLIC
+CREATED:20250717T093233Z
+DESCRIPTION:일시: 7. 23.(수) 14:50 ~ 15:40<br>장소: 기아차 화성공장 북문<br><br>신청링크:<br>
+  <a href="https://docs.google.com/forms/d/e/1FAIpQLSfzf3z3o_zioeUp2JtnSt7Qf
+ 7gepFezIMNDqz4W_ahiF6U1AQ/viewform" target="_blank">https://docs.google.com
+ /forms/d/e/1FAIpQLSfzf3z3o_zioeUp2JtnSt7Qf7gepFezIMNDqz4W_ahiF6U1AQ/viewfor
+ m</a><br><br>원본링크: <a href="https://x.com/breadandroseskr/status/1945753611
+ 788497078">https://x.com/breadandroseskr/status/1945753611788497078</a>
+LAST-MODIFIED:20250721T151048Z
+LOCATION:오토랜드화성\, 대한민국 경기도 화성시 기아자동차로 95
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:(화성) 기아차 화성공장 청소노동자 투쟁 2차 연대선전전
+TRANSP:OPAQUE
+ATTACH;FILENAME=GwC0l-qWMAAUScK.jpg;FMTTYPE=image/jpeg:https://drive.google
+ .com/open?id=1ZUMoXFfN9XGmMp0widzQMtIVlk6TO5cA
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20250724T080000Z
+DTEND:20250724T090000Z
+DTSTAMP:20250914T135147Z
+UID:1g2va3lno8h2r6fp2oulqecrea@google.com
+CLASS:PUBLIC
+CREATED:20250722T083018Z
+DESCRIPTION:일시: 7. 24.(목) 17:00<br>장소: 스태츠칩팩코리아 앞<br><br>원본링크: <a href="htt
+ ps://x.com/sharpsglory/status/1947535023688818842">https://x.com/sharpsglor
+ y/status/1947535023688818842</a>
+LAST-MODIFIED:20250722T083039Z
+LOCATION:스태츠칩팩코리아\, 대한민국 인천광역시 중구 운서동 3195
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:(인천) "스태츠칩팩코리아 산업재해 발생 책임지고 사과하라" 선전전
+TRANSP:OPAQUE
+ATTACH;FILENAME=GwcIJG8bEAE2qCB.jpg;FMTTYPE=image/jpeg:https://drive.google
+ .com/open?id=14aXMZTPdzRd7O89_KAOeeTRJnSfLZIbz
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20250728T132000Z
+DTEND:20250728T142000Z
+DTSTAMP:20250914T135147Z
+UID:7a7sj5iag9saiu6dq5rbotkim0@google.com
+CLASS:PUBLIC
+CREATED:20250726T025609Z
+DESCRIPTION:\n일시 : 7/28(월) 11:20(주간조 노동자 식사시간 선전전) / 22:20(야간조 노동자 식사시간 선전전
+ )\n장소 : 쿠팡고양센터 1번 게이트(경기도 고양시 권율대로 570\, 컴포즈커피 고양원흥지식센터점 건너편)
+LAST-MODIFIED:20250726T025610Z
+LOCATION:570\, 대한민국 경기도 고양시 덕양구 권율대로 570
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:(고양) 쿠팡고양센터 집중 선전전
+TRANSP:OPAQUE
+ATTACH;FILENAME=쿠팡고양센터 집중 선전전.png;FMTTYPE=image/png:https://drive.google.co
+ m/open?id=1CmVMiPJ6DFWXwikUqYrFEeHN1VRARAW9
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20250728T000000Z
+DTEND:20250728T040000Z
+DTSTAMP:20250914T135147Z
+UID:3mr4hl3btutsheo5jehc5nodoa@google.com
+CLASS:PUBLIC
+CREATED:20250724T071846Z
+DESCRIPTION:일시 : 7/28(월) 08:00<br>장소 : 1호선 오산역 환승센터 집합 후 버스로 이동<br>문의 및 신청 
+ : 보리 010-9207-4711<br><br>참가 신청 링크 : <a href="https://docs.google.com/forms
+ /d/e/1FAIpQLSeBK9b7P1XhLxa1K422UTifAChLflWleNhIi52DRHP9_uAqyg/viewform">htt
+ ps://docs.google.com/forms/d/e/1FAIpQLSeBK9b7P1XhLxa1K422UTifAChLflWleNhIi5
+ 2DRHP9_uAqyg/viewform</a><br><br>출처 : <a href="https://x.com/animalmoim/sta
+ tus/1947580384285495622">https://x.com/animalmoim/status/194758038428549562
+ 2</a>
+LAST-MODIFIED:20250726T132420Z
+LOCATION:59\, 대한민국 경기도 오산시 역광장로 59
+SEQUENCE:1
+STATUS:CONFIRMED
+SUMMARY:(오산) 복날 대비 동물행동: 도살장 비질 행동
+TRANSP:OPAQUE
+ATTACH;FILENAME=GwcyBDDbEAA_qyi.jpg;FMTTYPE=image/jpeg:https://drive.google
+ .com/open?id=1jRvyFYr05MMv05wilzRjRiDJdV6-1qlC
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20250728T022000Z
+DTEND:20250728T032000Z
+DTSTAMP:20250914T135147Z
+UID:3u7cgupjfmogja81qfdsc1a6cg@google.com
+CLASS:PUBLIC
+CREATED:20250726T025533Z
+DESCRIPTION:일시 : 7/28(월) 11:20(주간조 노동자 식사시간 선전전) / 22:20(야간조 노동자 식사시간 선전전)<
+ br>장소 : 쿠팡고양센터 1번 게이트(경기도 고양시 권율대로 570\, 컴포즈커피 고양원흥지식센터점 건너편)<br><br><a hre
+ f="https://x.com/ikpyohong_1977/status/1948757322052108650">https://x.com/i
+ kpyohong_1977/status/1948757322052108650</a>
+LAST-MODIFIED:20250726T132531Z
+LOCATION:570\, 대한민국 경기도 고양시 덕양구 권율대로 570
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:(고양) 쿠팡고양센터 집중 선전전
+TRANSP:OPAQUE
+ATTACH;FILENAME=쿠팡고양센터 집중 선전전.png;FMTTYPE=image/png:https://drive.google.co
+ m/open?id=1CmVMiPJ6DFWXwikUqYrFEeHN1VRARAW9
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20250806T055000Z
+DTEND:20250806T064000Z
+DTSTAMP:20250914T135147Z
+UID:5nnb7aujn0jsro8kcehijo5hgq@google.com
+CLASS:PUBLIC
+CREATED:20250729T065719Z
+DESCRIPTION:일시: 8. 6.(수) 14:50 ~ 15:40<br>* 선전전 후 간담회 진행 예정<br>장소: 기아차 화성공장
+  북문<br><br>신청링크: <a href="https://docs.google.com/forms/d/e/1FAIpQLSfzf3z3o
+ _zioeUp2JtnSt7Qf7gepFezIMNDqz4W_ahiF6U1AQ/viewform">https://docs.google.com
+ /forms/d/e/1FAIpQLSfzf3z3o_zioeUp2JtnSt7Qf7gepFezIMNDqz4W_ahiF6U1AQ/viewfor
+ m</a><br>원본링크: <a href="https://x.com/breadandroseskr/status/19500645009602
+ 68689">https://x.com/breadandroseskr/status/1950064500960268689</a>
+LAST-MODIFIED:20250729T065719Z
+LOCATION:오토랜드화성\, 대한민국 경기도 화성시 기아자동차로 95
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:(화성) 기아차 화성공장 청소노동자 투쟁 3차 연대 선전전
+TRANSP:OPAQUE
+ATTACH;FILENAME=GxAFU2PbUAQSrjm.jpg;FMTTYPE=image/jpeg:https://drive.google
+ .com/open?id=1U4Wy3dPCvqktPWfZJPXn-QVBgSr04XEK
+ATTACH;FILENAME=GxAFU2QbUAEwbFJ.jpg;FMTTYPE=image/jpeg:https://drive.google
+ .com/open?id=17l7sOXLIGVsertB5dpeOsHf0cFeT_WGL
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20250801T035000Z
+DTEND:20250801T045000Z
+DTSTAMP:20250914T135147Z
+UID:2gq2dlqcpe1q0aqh3qvolegd2p@google.com
+CLASS:PUBLIC
+CREATED:20250731T094302Z
+DESCRIPTION:*인천-부평 셔틀 운행합니다!*\n집결 장소: 부평역 광장 역전지구대(부평동 126-16)\n집결 시간: 8월 1
+ 일(금) 낮 12시 50분\n신청 방법: 010-7628-8992(쿠팡지회 사무장 최효) 로 문자메시지 남기기\n\n[공공운수노조 쿠팡
+ 물류센터지회8.1 하루 파업 결의대회]\n일시: 8. 1.(금) 15:00\n장소: 쿠팡 잠실 본사 앞 (서울시 송파구 송파대로 570
+  타워 730 앞)\n참가 문의 : 쿠팡지회 사무장 최효\, 010-7628-8992
+LAST-MODIFIED:20250731T094303Z
+LOCATION:부평역광장\, 대한민국 인천광역시 부평구 부평동
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:(인천) 더워서 못살겠다! 더이상 못참겠다! 쿠팡물류센터지회 하루파업 결의대회 인천-부평 셔틀
+TRANSP:OPAQUE
+ATTACH;FILENAME=GxJ9g9EaMAA3F0-.jpg;FMTTYPE=image/jpeg:https://drive.google
+ .com/open?id=1QTi-zF3WpNG6u7M_C15Sscdt00kyyzRG
+ATTACH;FILENAME=KakaoTalk_20250725_133339410.png;FMTTYPE=image/png:https://
+ drive.google.com/open?id=1mbLQvFI-SL50QpVKaqejCquiBv_F1S-R
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20250805T080000Z
+DTEND:20250805T091000Z
+DTSTAMP:20250914T135147Z
+UID:00ikn0e2l47eakgaohvbqrtmpd@google.com
+CLASS:PUBLIC
+CREATED:20250804T093448Z
+DESCRIPTION:일정 : 8/5(화) 17:00~18:10<br>장소 : 쿠팡물류센터 인천4센터(인천 서구 갑문4로 25)<br>
+ <br>출처 : <a href="https://www.kptu.net/board/detail.aspx?mid=2B936601&amp\;
+ page=1&amp\;idx=53342&amp\;bid=KPTU_NEW02">https://www.kptu.net/board/detai
+ l.aspx?mid=2B936601&amp\;page=1&amp\;idx=53342&amp\;bid=KPTU_NEW02</a><br><
+ br><a href="https://x.com/CouUnion/status/1952216128010551742">https://x.co
+ m/CouUnion/status/1952216128010551742</a>
+LAST-MODIFIED:20250804T093448Z
+LOCATION:25\, 대한민국 인천광역시 서구 갑문4로 25
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:(인천) 쿠팡물류센터 인천4센터 선전전
+TRANSP:OPAQUE
+ATTACH;FILENAME=IMG_202507310108096632789977.jpg;FMTTYPE=image/jpeg:https:/
+ /drive.google.com/open?id=18Iivu1IiPQVG9tbuayrGhXgWMhfJVE6e
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20250805T022000Z
+DTEND:20250805T035000Z
+DTSTAMP:20250914T135147Z
+UID:204clg7il9dc1q4dcph3iq5km8@google.com
+CLASS:PUBLIC
+CREATED:20250804T093622Z
+DESCRIPTION:일정 : 8/5(화) 11:20~12:50\, 10:20~23:30<br>장소 : 쿠팡물류센터 고양센터(경기도 고
+ 양시 덕양구 권율대로 570)<br><br>출처 : <a href="https://www.kptu.net/board/detail.asp
+ x?mid=2B936601&amp\;page=1&amp\;idx=53342&amp\;bid=KPTU_NEW02"><u>https://w
+ ww.kptu.net/board/detail.aspx?mid=2B936601&amp\;page=1&amp\;idx=53342&amp\;
+ bid=KPTU_NEW02</u></a><br><br><a href="https://x.com/CouUnion/status/195221
+ 6128010551742"><u>https://x.com/CouUnion/status/1952216128010551742</u></a>
+LAST-MODIFIED:20250804T093622Z
+LOCATION:570\, 대한민국 경기도 고양시 덕양구 권율대로 570
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:(고양) 쿠팡물류센터 고양센터 선전전
+TRANSP:OPAQUE
+ATTACH;FILENAME=IMG_202507310108096632789977.jpg;FMTTYPE=image/jpeg:https:/
+ /drive.google.com/open?id=18Iivu1IiPQVG9tbuayrGhXgWMhfJVE6e
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20250806T024000Z
+DTEND:20250806T034000Z
+DTSTAMP:20250914T135147Z
+UID:0g5er5uarkqtsrcf7b42uumgtc@google.com
+CLASS:PUBLIC
+CREATED:20250804T093748Z
+DESCRIPTION:일정 : 8/6(수) 11:40~12:40<br>장소 : 쿠팡물류센터 부천1센터(경기도 부천시 오정구 신흥로511
+ 번길 80)<br><br>출처 : <a href="https://www.kptu.net/board/detail.aspx?mid=2B93
+ 6601&page=1&idx=53342&bid=KPTU_NEW02" target="_blank"><u>https://www.kptu.n
+ et/board/detail.aspx?mid=2B936601&amp\;page=1&amp\;idx=53342&amp\;bid=KPTU_
+ NEW02</u></a><br><br><a href="https://x.com/CouUnion/status/195221612801055
+ 1742" target="_blank"><u>https://x.com/CouUnion/status/1952216128010551742<
+ /u></a>
+LAST-MODIFIED:20250804T093910Z
+LOCATION:80\, 대한민국 경기도 부천시 신흥로511번길 80
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:(부천) 쿠팡물류센터 부천1센터 선전전
+TRANSP:OPAQUE
+ATTACH;FILENAME=IMG_202507310108096632789977.jpg;FMTTYPE=image/jpeg:https:/
+ /drive.google.com/open?id=18Iivu1IiPQVG9tbuayrGhXgWMhfJVE6e
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20250808T085000Z
+DTEND:20250808T100000Z
+DTSTAMP:20250914T135147Z
+UID:08t3vlkogl979rqfg5k4sl50k6@google.com
+CLASS:PUBLIC
+CREATED:20250804T094035Z
+DESCRIPTION:<br>일정 : 8/8(금) 17:50~19:00<br>장소 : 쿠팡물류센터 여주센터(경기도 여주시 점봉길 44-
+ 18)<br><br>출처 : <a href="https://www.kptu.net/board/detail.aspx?mid=2B93660
+ 1&amp\;page=1&amp\;idx=53342&amp\;bid=KPTU_NEW02"><u>https://www.kptu.net/b
+ oard/detail.aspx?mid=2B936601&amp\;page=1&amp\;idx=53342&amp\;bid=KPTU_NEW0
+ 2</u></a><br><br><a href="https://x.com/CouUnion/status/1952216128010551742
+ "><u>https://x.com/CouUnion/status/1952216128010551742</u></a>
+LAST-MODIFIED:20250804T094035Z
+LOCATION:44-18\, 대한민국 경기도 여주시 점봉길 44-18
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:(여주) 쿠팡물류센터 여주센터 선전전
+TRANSP:OPAQUE
+ATTACH;FILENAME=IMG_202507310108096632789977.jpg;FMTTYPE=image/jpeg:https:/
+ /drive.google.com/open?id=18Iivu1IiPQVG9tbuayrGhXgWMhfJVE6e
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20250809T080000Z
+DTEND:20250809T091000Z
+DTSTAMP:20250914T135147Z
+UID:4e689k00gf3pd982hlgdgmfi59@google.com
+CLASS:PUBLIC
+CREATED:20250804T094316Z
+DESCRIPTION:<br>일정 : 8/9(토) 17:00~18:10<br>장소 : 쿠팡물류센터 인천4센터(인천 서구 갑문4로 25)
+ <br><br>출처 : <a href="https://www.kptu.net/board/detail.aspx?mid=2B936601&a
+ mp\;page=1&amp\;idx=53342&amp\;bid=KPTU_NEW02"><u>https://www.kptu.net/boar
+ d/detail.aspx?mid=2B936601&amp\;page=1&amp\;idx=53342&amp\;bid=KPTU_NEW02</
+ u></a><br><br><a href="https://x.com/CouUnion/status/1952216128010551742"><
+ u>https://x.com/CouUnion/status/1952216128010551742</u></a>
+LAST-MODIFIED:20250804T094316Z
+LOCATION:쿠팡 인천4 물류센터\, 대한민국 인천광역시 서구 오류동 1545-2
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:(인천) 쿠팡물류센터 인천4센터 선전전
+TRANSP:OPAQUE
+ATTACH;FILENAME=IMG_202507310108096632789977.jpg;FMTTYPE=image/jpeg:https:/
+ /drive.google.com/open?id=18Iivu1IiPQVG9tbuayrGhXgWMhfJVE6e
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20250805T012000Z
+DTEND:20250805T143000Z
+DTSTAMP:20250914T135147Z
+UID:75s40laf3i1gk33njg7391rls6@google.com
+CLASS:PUBLIC
+CREATED:20250804T094427Z
+DESCRIPTION:<br>일정 : 8/5(화) 10:20~23:30<br>장소 : 쿠팡물류센터 고양센터(경기도 고양시 덕양구 권율대
+ 로 570)<br><br>출처 : <a href="https://www.kptu.net/board/detail.aspx?mid=2B93
+ 6601&amp\;page=1&amp\;idx=53342&amp\;bid=KPTU_NEW02"><u>https://www.kptu.ne
+ t/board/detail.aspx?mid=2B936601&amp\;page=1&amp\;idx=53342&amp\;bid=KPTU_N
+ EW02</u></a><br><br><a href="https://x.com/CouUnion/status/1952216128010551
+ 742"><u>https://x.com/CouUnion/status/1952216128010551742</u></a>
+LAST-MODIFIED:20250804T094427Z
+LOCATION:570\, 대한민국 경기도 고양시 덕양구 권율대로 570
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:(고양) 쿠팡물류센터 고양센터 선전전
+TRANSP:OPAQUE
+ATTACH;FILENAME=IMG_202507310108096632789977.jpg;FMTTYPE=image/jpeg:https:/
+ /drive.google.com/open?id=18Iivu1IiPQVG9tbuayrGhXgWMhfJVE6e
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20250806T073000Z
+DTEND:20250806T090000Z
+DTSTAMP:20250914T135147Z
+UID:140u3kibj98vlbhvh1k595t367@google.com
+CLASS:PUBLIC
+CREATED:20250804T114650Z
+DESCRIPTION:<br>일정 : 8/6(수) 16:30~18:00<br>장소 : 쿠팡물류센터 동탄센터(경기도 화성시 동탄물류1로 
+ 13)<br><br>출처 : <a href="https://www.kptu.net/board/detail.aspx?mid=2B93660
+ 1&amp\;page=1&amp\;idx=53342&amp\;bid=KPTU_NEW02"><u>https://www.kptu.net/b
+ oard/detail.aspx?mid=2B936601&amp\;page=1&amp\;idx=53342&amp\;bid=KPTU_NEW0
+ 2</u></a><br><br><a href="https://x.com/CouUnion/status/1952216128010551742
+ "><u>https://x.com/CouUnion/status/1952216128010551742</u></a>
+LAST-MODIFIED:20250804T114650Z
+LOCATION:쿠팡 동탄1물류센터\, 대한민국 경기도 화성시 동탄물류1로 13
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:(화성) 쿠팡물류센터 동탄센터 선전전
+TRANSP:OPAQUE
+ATTACH;FILENAME=IMG_202507310108096632789977.jpg;FMTTYPE=image/jpeg:https:/
+ /drive.google.com/open?id=18Iivu1IiPQVG9tbuayrGhXgWMhfJVE6e
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20250808T010000Z
+DTEND:20250808T140000Z
+DTSTAMP:20250914T135147Z
+UID:3ksmmivk74bcjsk10efq2fam6p@google.com
+CLASS:PUBLIC
+CREATED:20250804T114910Z
+DESCRIPTION:일정 : 8/8(금) 10:00~23:00<br>장소 : 쿠팡물류센터 인천28센터(인천 서구 북항로120번길 55
+ )<br><br>출처 : <a href="https://www.kptu.net/board/detail.aspx?mid=2B936601&
+ page=1&idx=53342&bid=KPTU_NEW02" target="_blank"><u>https://www.kptu.net/bo
+ ard/detail.aspx?mid=2B936601&amp\;page=1&amp\;idx=53342&amp\;bid=KPTU_NEW02
+ </u></a><br><br><a href="https://x.com/CouUnion/status/1952216128010551742"
+  target="_blank"><u>https://x.com/CouUnion/status/1952216128010551742</u></
+ a>
+LAST-MODIFIED:20250804T115054Z
+LOCATION:북항로 120번길 55
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:(인천) 쿠팡물류센터 인천28센터 선전전
+TRANSP:OPAQUE
+ATTACH;FILENAME=IMG_202507310108096632789977.jpg;FMTTYPE=image/jpeg:https:/
+ /drive.google.com/open?id=18Iivu1IiPQVG9tbuayrGhXgWMhfJVE6e
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20250809T022000Z
+DTEND:20250809T035000Z
+DTSTAMP:20250914T135147Z
+UID:7vsgkig7nkmc37ssgmegl8j5c0@google.com
+CLASS:PUBLIC
+CREATED:20250804T115228Z
+DESCRIPTION:<br>일정 : 8/9(토) 11:20~12:50<br>장소 : 쿠팡물류센터 고양센터(경기도 고양시 덕양구 권율대
+ 로 570)<br><br>출처 : <a href="https://www.kptu.net/board/detail.aspx?mid=2B93
+ 6601&amp\;page=1&amp\;idx=53342&amp\;bid=KPTU_NEW02"><u>https://www.kptu.ne
+ t/board/detail.aspx?mid=2B936601&amp\;page=1&amp\;idx=53342&amp\;bid=KPTU_N
+ EW02</u></a><br><br><a href="https://x.com/CouUnion/status/1952216128010551
+ 742"><u>https://x.com/CouUnion/status/1952216128010551742</u></a>
+LAST-MODIFIED:20250804T115228Z
+LOCATION:570\, 대한민국 경기도 고양시 덕양구 권율대로 570
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:(고양) 쿠팡물류센터 고양센터 선전전
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20250809T132000Z
+DTEND:20250809T143000Z
+DTSTAMP:20250914T135147Z
+UID:3njqj7govujqaa3e7q3clqkgc0@google.com
+CLASS:PUBLIC
+CREATED:20250804T115350Z
+DESCRIPTION:<br>일정 : 8/9(토) 22:20~23:30<br>장소 : 쿠팡물류센터 고양센터(경기도 고양시 덕양구 권율대
+ 로 570)<br><br>출처 : <a href="https://www.kptu.net/board/detail.aspx?mid=2B93
+ 6601&amp\;page=1&amp\;idx=53342&amp\;bid=KPTU_NEW02"><u>https://www.kptu.ne
+ t/board/detail.aspx?mid=2B936601&amp\;page=1&amp\;idx=53342&amp\;bid=KPTU_N
+ EW02</u></a><br><br><a href="https://x.com/CouUnion/status/1952216128010551
+ 742"><u>https://x.com/CouUnion/status/1952216128010551742</u></a>
+LAST-MODIFIED:20250804T115350Z
+LOCATION:570\, 대한민국 경기도 고양시 덕양구 권율대로 570
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:(고양) 쿠팡물류센터 고양센터 선전전
+TRANSP:OPAQUE
+ATTACH;FILENAME=IMG_202507310108096632789977.jpg;FMTTYPE=image/jpeg:https:/
+ /drive.google.com/open?id=18Iivu1IiPQVG9tbuayrGhXgWMhfJVE6e
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20250812T073000Z
+DTEND:20250812T090000Z
+DTSTAMP:20250914T135147Z
+UID:0k106h422e57q8vh3q3eu9s694@google.com
+CLASS:PUBLIC
+CREATED:20250804T115528Z
+DESCRIPTION:<br>일정 : 8/12(화) 16:30~18:00<br>장소 : 쿠팡물류센터 동탄센터(경기 화성시 동탄물류1로 
+ 13)<br><br>출처 : <a href="https://www.kptu.net/board/detail.aspx?mid=2B93660
+ 1&amp\;page=1&amp\;idx=53342&amp\;bid=KPTU_NEW02"><u>https://www.kptu.net/b
+ oard/detail.aspx?mid=2B936601&amp\;page=1&amp\;idx=53342&amp\;bid=KPTU_NEW0
+ 2</u></a><br><br><a href="https://x.com/CouUnion/status/1952216128010551742
+ "><u>https://x.com/CouUnion/status/1952216128010551742</u></a>
+LAST-MODIFIED:20250804T115528Z
+LOCATION:쿠팡 동탄1물류센터\, 대한민국 경기도 화성시 동탄물류1로 13
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:(화성) 쿠팡물류센터 동탄센터 선전전
+TRANSP:OPAQUE
+ATTACH;FILENAME=IMG_202507310108096632789977.jpg;FMTTYPE=image/jpeg:https:/
+ /drive.google.com/open?id=18Iivu1IiPQVG9tbuayrGhXgWMhfJVE6e
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20250813T085000Z
+DTEND:20250813T100000Z
+DTSTAMP:20250914T135147Z
+UID:1nr94g8k0bv66e6q2d95fn8s9h@google.com
+CLASS:PUBLIC
+CREATED:20250804T115647Z
+DESCRIPTION:<br>일정 : 8/13(수) 17:50~19:00<br>장소 : 쿠팡물류센터 안성5센터(경기도 안성시 원곡면 원
+ 곡물류단지1로 61)<br><br>출처 : <a href="https://www.kptu.net/board/detail.aspx?mid
+ =2B936601&amp\;page=1&amp\;idx=53342&amp\;bid=KPTU_NEW02"><u>https://www.kp
+ tu.net/board/detail.aspx?mid=2B936601&amp\;page=1&amp\;idx=53342&amp\;bid=K
+ PTU_NEW02</u></a><br><br><a href="https://x.com/CouUnion/status/19522161280
+ 10551742"><u>https://x.com/CouUnion/status/1952216128010551742</u></a>
+LAST-MODIFIED:20250804T115647Z
+LOCATION:쿠팡 안성5물류센터\, 대한민국 경기도 안성시 원곡면 칠곡리 산25
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:(안성) 쿠팡물류센터 안성5센터 선전전
+TRANSP:OPAQUE
+ATTACH;FILENAME=IMG_202507310108096632789977.jpg;FMTTYPE=image/jpeg:https:/
+ /drive.google.com/open?id=18Iivu1IiPQVG9tbuayrGhXgWMhfJVE6e
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20250812T050000Z
+DTEND:20250812T080000Z
+DTSTAMP:20250914T135147Z
+UID:0ctf87g0ufm6c5sbdmtsc3ja2t@google.com
+CLASS:PUBLIC
+CREATED:20250811T120033Z
+DESCRIPTION:일시: 8. 12.(화) 14:00 ~ 17:00<br>장소: 군포사고현장(군포시 고산로 262)<br><br>일
+ 정<br>- 14:00 군포사고현장 출발 (군포시 고산로 262)<br>- 15:00 민주노총 앞(경향신문사)<br>- 16:30 용산
+  대통령실 앞 도착<br><br>* 참여 방식: 오토바이 행진\, 동행 차량 이동 가능<br>* 서울에서 결합을 희망할 경우 15:00
+  민주노총(경향신문사) 결합<br><br>신청링크: <a href="https://docs.google.com/forms/d/e/1FA
+ IpQLSfDzk93PhN9oXNFdEzaMhWaXkCy8b95_1Jio6x4nnDw1u2ceA/viewform">https://doc
+ s.google.com/forms/d/e/1FAIpQLSfDzk93PhN9oXNFdEzaMhWaXkCy8b95_1Jio6x4nnDw1u
+ 2ceA/viewform</a><br>원본링크: <a href="https://x.com/EvCE2ADfvv29879/status/19
+ 54688777135554605">https://x.com/EvCE2ADfvv29879/status/1954688777135554605
+ </a>
+LAST-MODIFIED:20250811T120033Z
+LOCATION:262\, 대한민국 경기도 군포시 고산로 262
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:(군포) 추모 라이더 행진
+TRANSP:OPAQUE
+ATTACH;FILENAME=GyBzE6waAAAwLGn.jpg;FMTTYPE=image/jpeg:https://drive.google
+ .com/open?id=1o92kYFs7JN_19RuS0D46Ee1Cl3bne3it
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20250820T055000Z
+DTEND:20250820T064000Z
+DTSTAMP:20250914T135147Z
+UID:77a7m28kptp35blds7vrhj5smu@google.com
+CLASS:PUBLIC
+CREATED:20250811T121006Z
+DESCRIPTION:일시: 8. 20.(수) 14:50 ~ 15:40<br>장소: 기아차 화성공장 북문(경기도 화성시 우정읍 기아자동
+ 차로 95)<br><br>신청링크: <a href="https://docs.google.com/forms/d/e/1FAIpQLSfzf3
+ z3o_zioeUp2JtnSt7Qf7gepFezIMNDqz4W_ahiF6U1AQ/viewform">https://docs.google.
+ com/forms/d/e/1FAIpQLSfzf3z3o_zioeUp2JtnSt7Qf7gepFezIMNDqz4W_ahiF6U1AQ/view
+ form</a><br>원본링크: <a href="https://x.com/breadandroseskr/status/19547003157
+ 70638614">https://x.com/breadandroseskr/status/1954700315770638614</a>
+LAST-MODIFIED:20250811T121007Z
+LOCATION:오토랜드화성\, 대한민국 경기도 화성시 기아자동차로 95
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:(화성) 기아차 화성공장 청소노동자투쟁 4차 연대선전전
+TRANSP:OPAQUE
+ATTACH;FILENAME=GyB9F6IbMAAFRch.jpg;FMTTYPE=image/jpeg:https://drive.google
+ .com/open?id=13OdNKZbnHiqPyun5Dtgn3y8k_ydcEhVj
+ATTACH;FILENAME=GyB9I_yaQAAi-6i.jpg;FMTTYPE=image/jpeg:https://drive.google
+ .com/open?id=1zb8R5lzkSLG4nANuCWPghSJydUFZUyNA
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=Asia/Seoul:20250721T120000
+DTEND;TZID=Asia/Seoul:20250721T130000
+RRULE:FREQ=WEEKLY;WKST=MO;UNTIL=20250810T145959Z;BYDAY=MO,TU,WE,TH,FR
+DTSTAMP:20250914T135147Z
+UID:4mm79onal8au1p7j9946i45q4c@google.com
+CLASS:PUBLIC
+CREATED:20250719T114146Z
+DESCRIPTION:일시 : 7/21~8/29 주중 12:00~13:00(주말 제외)<br>*9월 일정은 추후 계획 중입니다.<br>
+ 장소 : 평택고용지청(평택시 고덕중앙5길 72\, 고덕동 1907-5)<br>문의 : 김혜란 금속노조 조직국장(010-9763-4963
+ )\, 이용덕 이주노동법률지원센터 소금꽃나무(010-2449-7332)\, 반올림 이종란(010-8799-1302)<br><br>1인 
+ 시위 참가 신청 링크 : <a href="https://docs.google.com/spreadsheets/d/16Yh5Har2kFdS
+ kjnCfReT3Q7ePdmtJjd5lJfclnPsCP0/edit?gid=0#gid=0" class="pastedDriveLink-0"
+ >https://docs.google.com/spreadsheets/d/16Yh5Har2kFdSkjnCfReT3Q7ePdmtJjd5lJ
+ fclnPsCP0/edit?gid=0#gid=0</a><br><br>출처 : <a href="https://x.com/sharpsglo
+ ry/status/1946384621404651992">https://x.com/sharpsglory/status/19463846214
+ 04651992</a>
+LAST-MODIFIED:20250811T143756Z
+LOCATION:1907-5\, 대한민국 경기도 평택시 고덕동 1907-5
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:(평택) 한국니토옵티칼 백혈병 피해발생 전\,현직노동자 산재피해 전수조사하라!
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=Asia/Seoul:20250825T193000
+DTEND;TZID=Asia/Seoul:20250825T213000
+RRULE:FREQ=WEEKLY;WKST=MO;UNTIL=20251026T145959Z;BYDAY=MO
+EXDATE;TZID=Asia/Seoul:20250908T193000
+EXDATE;TZID=Asia/Seoul:20250922T193000
+EXDATE;TZID=Asia/Seoul:20251006T193000
+DTSTAMP:20250914T135147Z
+UID:4p2s2tpa1242lc3acn41lplbvt@google.com
+CLASS:PUBLIC
+CREATED:20250817T061916Z
+DESCRIPTION:정의당 경기남부지역위 연합 정치학교 - 오늘과 내일의 참가 신청서입니다.<br><br>수강료: 6만원(회당 1만원
+ )<br>입금 계좌: 우리은행 1002-949-619619 (예금주 ㄱㄱㅇ)<br><br>장소: 민주노총 경기지역본부<br>(경기도 수
+ 원시 팔달구 경수대로 566 신용빌딩)<br><br><b>2025.08.25 19시 30분</b><br>1강 : 우리가 살고 있는 세상
+ \, 어떻게 돌아가는 것일까요 - 1<br><br><b>2025.09.01 19시 30분</b><br>2강 : 우리가 살고 있는 세상\
+ , 어떻게 돌아가는 것일까요 - 2<br><br><b>2025.09.15 19시 30분</b><br>3강 : 지금과는 다른 세상은 불가
+ 능한 것일까요?   <br><br><b>2025.09.29 19시 30분<br></b>4강 : 노동운동으로 세상을 바꿀 수는 없나요? 
+ - 한국사회와 노동운동  <br><b><br></b><br><b>2025.10.13 19시 30분</b><br>5강 : 정치\, 세상을
+  변화시킬 다른 정치를 생각해봐요 - 한국사회와 진보정치   <br><br><b>2025.10.20 19시 30분</b><br>6강 :
+  진보정당운동의 과제와 전망\, 대선 평가\, 앞으로 우리의 길은?  <br><br>문의: 010-9472-6967(수원지역위)<br>
+ <br>신청: <a href="https://docs.google.com/forms/d/e/1FAIpQLScFUTNPpfQmDcPJ7o
+ N-vRg--AlOlxcnKqHrih7mgn_pvkGJZw/viewform">https://docs.google.com/forms/d/
+ e/1FAIpQLScFUTNPpfQmDcPJ7oN-vRg--AlOlxcnKqHrih7mgn_pvkGJZw/viewform</a>
+LAST-MODIFIED:20250817T062248Z
+LOCATION:민주노총 경기도본부\, 대한민국 경기도 수원시 팔달구 경수대로 566
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:(수원) 오늘과 내일: 정의당 경기남부지역위연합 정치학교
+TRANSP:OPAQUE
+ATTACH;FILENAME=1754961379539 - 김경언.png;FMTTYPE=image/png:https://drive.goo
+ gle.com/open?id=1R7vLxgUB8Vy9fEoqKS8as7us3b9rco6R
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20250816T050000Z
+DTEND:20250816T060000Z
+DTSTAMP:20250914T135147Z
+UID:1ll4ktftl5010jioeij23hv3li@google.com
+CLASS:PUBLIC
+CREATED:20250815T154531Z
+DESCRIPTION:일시: 8. 16.(토) 14:00\n장소: 한성자동차 수원 전시장 (경기도 용인시 기흥구 중부대로 23-2)\n
+ \n원본링크: https://x.com/ultrasgoyang/status/1955887075712229634
+LAST-MODIFIED:20250817T081612Z
+LOCATION:벤츠용인전시장\, 대한민국 경기도 용인시 기흥구 중부대로 23-2
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:(수원) 금속노조 서울지부 수입자동차지회 한성전시장 집중 투쟁 - 수원전시장
+TRANSP:OPAQUE
+ATTACH;FILENAME=GyS07cea4AIiJU2.jpg;FMTTYPE=image/jpeg:https://drive.google
+ .com/open?id=1zG6193ODjqHGxEqPqMN8cmy5-iwXIuKw
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20250817T050000Z
+DTEND:20250817T060000Z
+DTSTAMP:20250914T135147Z
+UID:0kj309bhpsdv9vhds02obb0iml@google.com
+CLASS:PUBLIC
+CREATED:20250815T154723Z
+DESCRIPTION:일시: 8. 17.(일) 14:00\n장소: 한성자동차 분당전시장 (경기도 성남시 분당구 서현로321번길 1)\n
+ \n원본링크: https://x.com/ultrasgoyang/status/1955887075712229634
+LAST-MODIFIED:20250817T081621Z
+LOCATION:메르세데스-벤츠 한성자동차 분당서현전시장\, 대한민국 경기도 성남시 분당구 서현로321번길 1
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:(성남) 금속노조 서울지부 수입자동차지회 한성전시장 집중 투쟁 - 분당전시장
+TRANSP:OPAQUE
+ATTACH;FILENAME=GyS07cea4AIiJU2.jpg;FMTTYPE=image/jpeg:https://drive.google
+ .com/open?id=1zG6193ODjqHGxEqPqMN8cmy5-iwXIuKw
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20250821T050000Z
+DTEND:20250821T060000Z
+DTSTAMP:20250914T135147Z
+UID:4mp6oi3ahsmk7qviklhmbvsbd5@google.com
+CLASS:PUBLIC
+CREATED:20250815T154919Z
+DESCRIPTION:일시: 8. 21.(목) 13:00\n장소: 한성자동차 송도전시장 (인천시 연수구 하모니로178번길 6)\n\n원
+ 본링크: https://x.com/ultrasgoyang/status/1955887075712229634
+LAST-MODIFIED:20250817T081630Z
+LOCATION:송도 벤츠전시장\, 대한민국 인천광역시 연수구 하모니로178번길 6
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:(인천) 금속노조 서울지부 수입자동차지회 한성전시장 집중 투쟁 - 송도전시장
+TRANSP:OPAQUE
+ATTACH;FILENAME=GyS07cea4AIiJU2.jpg;FMTTYPE=image/jpeg:https://drive.google
+ .com/open?id=1zG6193ODjqHGxEqPqMN8cmy5-iwXIuKw
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20250821T060000Z
+DTEND:20250821T070000Z
+DTSTAMP:20250914T135147Z
+UID:7thbqqgd9fooe800auu09rd235@google.com
+CLASS:PUBLIC
+CREATED:20250815T155229Z
+DESCRIPTION:일시: 8. 21.(목) 15:00\n장소: 한성자동차 인천서비스센터 (인천시 중구 축항대로86번길 56)\n\n
+ 원본링크: https://x.com/ultrasgoyang/status/1955887075712229634
+LAST-MODIFIED:20250817T081636Z
+LOCATION:메르세데스-벤츠 한성자동차 인천 서비스센터\, 대한민국 인천광역시 중구 항동7가 축항대로86번길 56
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:(인천) 금속노조 서울지부 수입자동차지회 한성자동차 서비스센터 순회 투쟁 - 인천서비스센터
+TRANSP:OPAQUE
+ATTACH;FILENAME=GyS07cea4AIiJU2.jpg;FMTTYPE=image/jpeg:https://drive.google
+ .com/open?id=1zG6193ODjqHGxEqPqMN8cmy5-iwXIuKw
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20250822T013000Z
+DTEND:20250822T023000Z
+DTSTAMP:20250914T135147Z
+UID:286740dj2dsl0q810l5vqvpklv@google.com
+CLASS:PUBLIC
+CREATED:20250819T080409Z
+DESCRIPTION:일시 : 8/22(금) 10:30<br>장소 : 부천시의회 3층 대회의실<br>대상 : 재난 참사에 관심있는 시민
+  누구나<br>*시민 누구나 당일 추모식 참석\, 참사 현장(코보스호텔) 앞에서 추모 및 헌화도 가능합니다.<br>문의 : 02-228
+ 5-2014(재난피해자권리센터)<br><br>출처 : <a href="https://x.com/416act/status/19573122
+ 06162596135">https://x.com/416act/status/1957312206162596135</a>
+LAST-MODIFIED:20250819T080410Z
+LOCATION:부천시의회\, 대한민국 경기도 부천시 길주로 210
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:(부천) 재난참사피해자들과 함께하는 생명안전버스 <부천화재참사 1주기>
+TRANSP:OPAQUE
+ATTACH;FILENAME=GynE-JlaAAAxHDt.jpg;FMTTYPE=image/jpeg:https://drive.google
+ .com/open?id=10j_ifydkPquTG9uaHTGnb8LwJVCCJrqD
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20250820T023000Z
+DTEND:20250820T033000Z
+DTSTAMP:20250914T135147Z
+UID:22hc24t1m5dto55rjdmlojot23@google.com
+CLASS:PUBLIC
+CREATED:20250819T081933Z
+DESCRIPTION:일시 : 8/20(수) 11:30<br>장소 : 더불어민주당 경기도당<br><br>출처 : <a href="htt
+ ps://x.com/kctukgrc1/status/1957618490208317744">https://x.com/kctukgrc1/st
+ atus/1957618490208317744</a>
+LAST-MODIFIED:20250819T081933Z
+LOCATION:더불어민주당경기도당\, 대한민국 경기도 수원시 팔달구 효원로 119 청궁빌딩 3층 KR
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:(수원) 민주노총 경기도본부 _  노조법 2·3조 즉각 통과 집중선전전
+TRANSP:OPAQUE
+ATTACH;FILENAME=GyrbdnOacAISGYg.jpg;FMTTYPE=image/jpeg:https://drive.google
+ .com/open?id=1FISeQ5fAqu6DueF8-hJzfI_hycXnoiPk
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20250821T023000Z
+DTEND:20250821T033000Z
+DTSTAMP:20250914T135147Z
+UID:7e3j3uo29c6t6t7qi3edi8m9l9@google.com
+CLASS:PUBLIC
+CREATED:20250819T082037Z
+DESCRIPTION:일시 : 8/21(목) 11:30<br>장소 : 더불어민주당 경기도당<br><br>출처 : <a href="htt
+ ps://x.com/kctukgrc1/status/1957618490208317744">https://x.com/kctukgrc1/st
+ atus/1957618490208317744</a>
+LAST-MODIFIED:20250819T082037Z
+LOCATION:더불어민주당경기도당\, 대한민국 경기도 수원시 팔달구 효원로 119 청궁빌딩 3층 KR
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY: (수원) 민주노총 경기도본부 _ 노조법 2·3조 즉각 통과 집중선전전
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20250826T062000Z
+DTEND:20250826T072000Z
+DTSTAMP:20250914T135147Z
+UID:33pqkr7br802khk5pp34r5g9sd@google.com
+CLASS:PUBLIC
+CREATED:20250819T085216Z
+DESCRIPTION:일시 : 8/26(화) 15:20<br>장소 : 인천지방법원(서울고등법원 인천원외재판부) 325호<br>* 변동이
+  있을 수 있으니 반드시 방청 전 확인 바라며 본 자료는 연대자D님(@D_T_Monitoring)님을 참고하였습니다.<br><br>출처
+  : <a href="https://x.com/CourtWatch_YDF/status/1955535045265170560">https:
+ //x.com/CourtWatch_YDF/status/1955535045265170560</a>
+LAST-MODIFIED:20250819T085216Z
+LOCATION:인천지방법원\, 대한민국 인천광역시 미추홀구 소성로163번길 17
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:(인천) 8월 여성폭력 사건 주요 재판 방청 연대 - 우울증갤러리 '히데팸' 지ㅇㅈ(히데)\, 조ㄱㅇ 아동청소년 성폭력.
+ 성착취 사건 2심
+TRANSP:OPAQUE
+ATTACH;FILENAME=GyN0wpxaEAEaTLE.jpg;FMTTYPE=image/jpeg:https://drive.google
+ .com/open?id=1-K1ksJWBgjy90lvx81AL9ZgTfoheA1TF
+ATTACH;FILENAME=GyN0wq7aEAEodIo.jpg;FMTTYPE=image/jpeg:https://drive.google
+ .com/open?id=1QsmlnaR6LuYEAt7QxT6iwRNivxldTSWt
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20250825T040000Z
+DTEND:20250825T050000Z
+DTSTAMP:20250914T135147Z
+UID:23114q2gvu162evtohedta1eou@google.com
+CLASS:PUBLIC
+CREATED:20250821T151240Z
+DESCRIPTION:일시: 8. 25.(월) 13:00<br>장소: 비노텍 안산공장 앞 (경기도 안산시 단원구 해안로 308)<br>
+ <br>원본링크: <a href="https://x.com/kctukgrc1/status/1958396180385452477">http
+ s://x.com/kctukgrc1/status/1958396180385452477</a>
+LAST-MODIFIED:20250821T151240Z
+LOCATION:비노텍\, 대한민국 경기도 안산시 단원구 원시동 836-9
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:(안산) 비노텍지회 파업투쟁승리 화섬수도권 결의대회
+TRANSP:OPAQUE
+ATTACH;FILENAME=Gy2e7vBasAEUkXH.jpg;FMTTYPE=image/jpeg:https://drive.google
+ .com/open?id=1GAJD2PBdLrwUmDkaZUcI01idS6WkfYWb
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20250902T070000Z
+DTEND:20250902T130000Z
+DTSTAMP:20250914T135147Z
+UID:1h8qbgs6r77228gbcnh5umkn9k@google.com
+CLASS:PUBLIC
+CREATED:20250821T151458Z
+DESCRIPTION:일시: 9. 2.(화) 16:00 ~ 22:00<br>장소: 수원역 앞 로데오거리 '디엠'호프 (경기도 수원시 매
+ 산로2가 27-14 리오빌딩 7층)<br><br>원본링크: <a href="https://x.com/serviceunion/status
+ /1958371333840273694">https://x.com/serviceunion/status/1958371333840273694
+ </a>
+LAST-MODIFIED:20250821T151458Z
+LOCATION:27-14\, 대한민국 경기도 수원시 팔달구 매산로2가 27-14
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:(수원) 삼성전자 하청사 명일 해고자 투쟁기금 마련을 위한 후원주점
+TRANSP:OPAQUE
+ATTACH;FILENAME=Gy2IMw0boAATuSv.jpg;FMTTYPE=image/jpeg:https://drive.google
+ .com/open?id=1xFC8lN2E5VMsV-iqAAACiGB9Bq1ZpGP7
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20250903T093000Z
+DTEND:20250903T120000Z
+DTSTAMP:20250914T135147Z
+UID:6cboif748buctj4ft9cpabagbd@google.com
+CLASS:PUBLIC
+CREATED:20250823T221512Z
+DESCRIPTION:<br>&lt\;강의 주제 및 강사&gt\;<br>1강  : 누구나 헌법! 헌법으로 다시 보는 노동 권리 : 정기
+ 호 변호사  -&gt\; 8/27(수) 18시30분\, 민주노총인천본부 2층 교육실<br>2강 : 영화로 보는 노동 이야기 (3학년 2
+ 학기 영화 관람)  -&gt\; 9/3(수) 18시30분\, 영화공간주안<br>문의 : 302-525-1802<br>참가비 무료<br>
+ <br>신청: <a href="https://www.google.com/url?q=https://docs.google.com/forms
+ /d/e/1FAIpQLSd745Ik5RXsQor3Nlm-40d3Ef15QMgGDLNANlXEq11fThDwzw/viewform&amp\
+ ;sa=D&amp\;source=calendar&amp\;usd=2&amp\;usg=AOvVaw0itSUhrZ1fJCi3GS_eDme3
+ " target="_blank">https://docs.google.com/forms/d/e/1FAIpQLSd745Ik5RXsQor3N
+ lm-40d3Ef15QMgGDLNANlXEq11fThDwzw/viewform</a>
+LAST-MODIFIED:20250823T221531Z
+LOCATION:영화공간 주안\, 대한민국 인천광역시 미추홀구 미추홀대로 716
+SEQUENCE:1
+STATUS:CONFIRMED
+SUMMARY:(인천) 2025 노동인문학 강좌 (2강)
+TRANSP:OPAQUE
+ATTACH;FILENAME=2508270903_2025노동인문학강좌.jpg;FMTTYPE=image/jpeg:https://drive
+ .google.com/open?id=1h-8arRNlHQ62s5xstcjhRbVaqJZZweGS
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20250827T093000Z
+DTEND:20250827T113000Z
+DTSTAMP:20250914T135147Z
+UID:594jiu7do7jkkro7fu57250ppu@google.com
+CLASS:PUBLIC
+CREATED:20250823T221459Z
+DESCRIPTION:<br>&lt\;강의 주제 및 강사&gt\;<br>1강  : 누구나 헌법! 헌법으로 다시 보는 노동 권리 : 정기
+ 호 변호사  -&gt\; 8/27(수) 18시30분\, 민주노총인천본부 2층 교육실<br>2강 : 영화로 보는 노동 이야기 (3학년 2
+ 학기 영화 관람)  -&gt\; 9/3(수) 18시30분\, 영화공간주안<br>문의 : 302-525-1802<br>참가비 무료<br>
+ <br>신청: <a href="https://docs.google.com/forms/d/e/1FAIpQLSd745Ik5RXsQor3Nl
+ m-40d3Ef15QMgGDLNANlXEq11fThDwzw/viewform">https://docs.google.com/forms/d/
+ e/1FAIpQLSd745Ik5RXsQor3Nlm-40d3Ef15QMgGDLNANlXEq11fThDwzw/viewform</a>
+LAST-MODIFIED:20250823T221545Z
+LOCATION:민주노총 인천본부\, 대한민국 인천광역시 서구 백범로622번길 9
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:(인천) 2025 노동인문학 강좌 (1강)
+TRANSP:OPAQUE
+ATTACH;FILENAME=2508270903_2025노동인문학강좌.jpg;FMTTYPE=image/jpeg:https://drive
+ .google.com/open?id=1h-8arRNlHQ62s5xstcjhRbVaqJZZweGS
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=Asia/Seoul:20250221T123000
+DTEND;TZID=Asia/Seoul:20250221T132000
+RRULE:FREQ=WEEKLY;UNTIL=20250824T145959Z;BYDAY=FR,MO,TH,TU,WE
+DTSTAMP:20250914T135147Z
+UID:0h7fv6c4b9a30mnr2rnec7iqgn@google.com
+CLASS:PUBLIC
+CREATED:20250220T140201Z
+DESCRIPTION:하남시 하남문화재단 앞과 하남시청역 사거리 2곳에서 진행됩니다.\nhttps://x.com/kctugyeonggi
+ _do/status/1891657324466438356?s=46&t=frFzTWA-mZFwJZsmyf0hhg
+LAST-MODIFIED:20250825T073052Z
+LOCATION:125\, 대한민국 경기도 하남시 신평로 125
+SEQUENCE:1
+STATUS:CONFIRMED
+SUMMARY:(하남) 하남시립예술단지회 매일선전전_점심
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=Asia/Seoul:20250221T083000
+DTEND;TZID=Asia/Seoul:20250221T092000
+RRULE:FREQ=WEEKLY;UNTIL=20250824T145959Z;BYDAY=FR,MO,TH,TU,WE
+DTSTAMP:20250914T135147Z
+UID:1b9di7j7acq11fnvfohluncr00@google.com
+CLASS:PUBLIC
+CREATED:20250220T135916Z
+DESCRIPTION:하남시 하남문화재단 앞\, 하남시청역 사거리 2곳에서 진행됩니다.\nhttps://x.com/kctugyeongg
+ i_do/status/1891657324466438356?s=46&t=frFzTWA-mZFwJZsmyf0hhg
+LAST-MODIFIED:20250825T073058Z
+LOCATION:125\, 대한민국 경기도 하남시 신평로 125
+SEQUENCE:1
+STATUS:CONFIRMED
+SUMMARY:(하남) 하남시립예술단지회 매일선전전_아침
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20250903T055000Z
+DTEND:20250903T064000Z
+DTSTAMP:20250914T135147Z
+UID:2luqakkjonh19gam55pbt7pcuf@google.com
+CLASS:PUBLIC
+CREATED:20250825T081943Z
+DESCRIPTION:일시 : 9/3(수) 14:50~15:40<br>장소 : 기아차 화성공장 북문<br>후원 : 국민(ㄱㄱㅁ) 811
+ 401-04-245970<br>연대선전전 참여문의 : 변혁적여성운동네트워크 빵과장미 010-2692-6345<br><br>자차 출발 도
+ 착지 : 기아차 화성공장 북문(경기 화성시 우정읍 기아자동차로 95)<br>대중교통 : <br>1. 사당역 9번출구 앞(8155) &g
+ t\; 조암시장<br>2. 수원역.AK플라자 정류장 승차(9802) &gt\; 조암시장<br>조암시장 도착 후 픽업 요청(이용덕 010
+ -2449-7332)<br><br>참가 신청 링크 : <a href="https://docs.google.com/forms/d/e/1F
+ AIpQLSfzf3z3o_zioeUp2JtnSt7Qf7gepFezIMNDqz4W_ahiF6U1AQ/viewform">https://do
+ cs.google.com/forms/d/e/1FAIpQLSfzf3z3o_zioeUp2JtnSt7Qf7gepFezIMNDqz4W_ahiF
+ 6U1AQ/viewform</a><br><br>출처 : <a href="https://x.com/Kia_BoGwang/status/19
+ 59861094283190298">https://x.com/Kia_BoGwang/status/1959861094283190298</a>
+LAST-MODIFIED:20250825T081943Z
+LOCATION:기아 AutoLand 화성\, 대한민국 경기도 화성시 기아자동차로 95
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:(화성) 기아차 화성공장 청소노동자투쟁 5차 연대선전전
+TRANSP:OPAQUE
+ATTACH;FILENAME=GzLTRXYbgAAjJU8.jpg;FMTTYPE=image/jpeg:https://drive.google
+ .com/open?id=10hJGr1PfiPuSQsSSGPEkdqY9r_GryrXM
+ATTACH;FILENAME=GzLTRXnaMAA7cRu.jpg;FMTTYPE=image/jpeg:https://drive.google
+ .com/open?id=1zKka6pyOxDpamwUrQ0JlICbIgtstWUWZ
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20250906T050000Z
+DTEND:20250906T090000Z
+DTSTAMP:20250914T135147Z
+UID:5d8bk018hhdko0lik93qpfquao@google.com
+CLASS:PUBLIC
+CREATED:20250827T043828Z
+DESCRIPTION:일시 : 9/6(토) 14:00~18:00\n장소 : 인천애뜰광장\n\n내용\n부스 및 참여형 이벤트 14:00~
+ 18:00\n무대행사 16:00~18:00\n자긍심 행진 18:00 \n\n텀블벅 굿즈 후원 링크(~8/29) : https://tum
+ blbug.com/iqcf8\n\n카카오같이가치 후원함 링크 : https://together.kakao.com/fundraisings
+ /129141/story\n\n자원활동가 참여 신청 링크(~8/28) : https://docs.google.com/forms/d/e/
+ 1FAIpQLSeV0-SghbvupYV0fRPvfLQFDQ9WauKblimovZEXTBZmdR3BOw/viewform\n\n출처 : h
+ ttps://x.com/iqcf_pride/status/1960245417205014880
+LAST-MODIFIED:20250827T044207Z
+LOCATION:29\, 대한민국 인천광역시 남동구 정각로 29
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:(인천) 2025 제8회 인천퀴어문화축제 - NOW QUEER! 퀴어롭게 무지개인천
+TRANSP:OPAQUE
+ATTACH;FILENAME=GzQw0EXaoAAVPZV.jpg;FMTTYPE=image/jpeg:https://drive.google
+ .com/open?id=1SOG12A0lnBttpjJRBqWwArWZjUNe1LVk
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20250831
+DTEND;VALUE=DATE:20250901
+DTSTAMP:20250914T135147Z
+UID:5uvor19e7r5ng9crrup2bm9cj1@google.com
+CLASS:PUBLIC
+CREATED:20250812T042019Z
+DESCRIPTION:<b>8.31.(일) </b><b>평택역 - 진위역(15시 문화제) (15.4km)</b><br><br>기간: 8
+ . 12.(화) ~ 9. 11.(목)<br><br>행진 경로: 전북지방환경청 - 수라갯벌 - 서천갯벌 - 부여 - 공주 - 국토교통부 
+ - 천안 - 평택 - 화성 - 수원 - 안양 - 용산 - 서울행정법원<br><br>주요 일정<br>  - 8월 12일 오전 9시30분 
+ 전북지방환경청 새\,사람행진 출발 기자회견<br>  - 8월 13일 오전 9시 수라갯벌 행진단 선언<br>  - 8월 25일 오후 4시
+  국토교통부 앞 새만금신공항 강행 규탄 집회<br>  - 8월 31일 큰뒷부리도요를 지키는 세계 연대 행진의 날<br>  - 9월 6일
+  용산전쟁기념관 앞 생명지킴이대회<br>  - 9월 8일 오전 11시 서울행정법원 새만금신공항 취소 인용 촉구 기자회견과 행진 마무리<
+ br>  - 9월 8-10일 서울행정법원 앞 문정현 신부의 서각기도<br>  - 9월 11일 오후 1시 55분 새만금신공항 취소 소송 
+ 선고 재판<br><br>신청링크: <a href="https://docs.google.com/forms/d/e/1FAIpQLSem5Nw
+ vi24XRZf-F3OMFTvx0H069YH7oFMi2BN8HTUNvTHpoA/viewform" target="_blank">https
+ ://docs.google.com/forms/d/e/1FAIpQLSem5Nwvi24XRZf-F3OMFTvx0H069YH7oFMi2BN8
+ HTUNvTHpoA/viewform</a><br>원본링크: <a href="https://x.com/sinyua274229/status
+ /1952927842108621207" target="_blank">https://x.com/sinyua274229/status/195
+ 2927842108621207</a>
+LAST-MODIFIED:20250829T120726Z
+LOCATION:51\, 대한민국 경기도 평택시 통복로 51
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:(평택) 새만금신공항 취소 판결을 바라는 새\,사람행진
+TRANSP:OPAQUE
+ATTACH;FILENAME=GzeZAPBbYAAyTkl.jpg;FMTTYPE=image/jpeg:https://drive.google
+ .com/open?id=1gClQI1n4AImGiEOA-YhXWIUg7eG5Y8hK
+ATTACH;FILENAME=GxoxhcxbgAApQ9y.jpg;FMTTYPE=image/jpeg:https://drive.google
+ .com/open?id=1-3UhiS7IyvkJ6pb9y3WZpXF55eQoMyTd
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20250904
+DTEND;VALUE=DATE:20250905
+DTSTAMP:20250914T135147Z
+UID:2mst45j2ojeehlkqvuup8vm4ai@google.com
+CLASS:PUBLIC
+CREATED:20250812T042306Z
+DESCRIPTION:*9월2일~5일 출발시간과 도착지가 변경되었습니다. 참고 바랍니다!*<b></b><br><b>9.4.(목) 09:
+ 00 고용노동부 경기지청</b><b> - 인덕원역 (13km)</b><br><br><br>문의 : 오이 010-2612-2322 / 덕
+ 이 010-6795-1202 / 박정상 민주노총 경기도본부 대협국장 010-4146-4131<br>후원계좌  :농협 351-0391-7
+ 008-93 문정현<br>기간: 8. 12.(화) ~ 9. 11.(목)<br><br>행진 경로: 전북지방환경청 - 수라갯벌 - 서천갯벌
+  - 부여 - 공주 - 국토교통부 - 천안 - 평택 - 화성 - 수원 - 안양 - 용산 - 서울행정법원<br><br>주요 일정<br> 
+  - 8월 12일 오전 9시30분 전북지방환경청 새\,사람행진 출발 기자회견<br>  - 8월 13일 오전 9시 수라갯벌 행진단 선언<
+ br>  - 8월 25일 오후 4시 국토교통부 앞 새만금신공항 강행 규탄 집회<br>  - 8월 31일 큰뒷부리도요를 지키는 세계 연대
+  행진의 날<br>  - 9월 6일 용산전쟁기념관 앞 생명지킴이대회<br>  - 9월 8일 오전 11시 서울행정법원 새만금신공항 취소 
+ 인용 촉구 기자회견과 행진 마무리<br>  - 9월 8-10일 서울행정법원 앞 문정현 신부의 서각기도<br>  - 9월 11일 오후 1
+ 시 55분 새만금신공항 취소 소송 선고 재판<br><br>신청링크: <a href="https://docs.google.com/form
+ s/d/e/1FAIpQLSem5Nwvi24XRZf-F3OMFTvx0H069YH7oFMi2BN8HTUNvTHpoA/viewform" ta
+ rget="_blank">https://docs.google.com/forms/d/e/1FAIpQLSem5Nwvi24XRZf-F3OMF
+ Tvx0H069YH7oFMi2BN8HTUNvTHpoA/viewform</a><br>원본링크: <a href="https://x.com/
+ kctukgrc1/status/1961204835484893405" target="_blank">https://x.com/kctukgr
+ c1/status/1961204835484893405</a>
+LAST-MODIFIED:20250829T121742Z
+LOCATION:고용노동부 경기지청\, 대한민국 경기도 수원시 장안구 서부로 2166
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:(수원) 새만금신공항 취소 판결을 바라는 새\,사람행진
+TRANSP:OPAQUE
+ATTACH;FILENAME=GzeZAPBbYAAyTkl.jpg;FMTTYPE=image/jpeg:https://drive.google
+ .com/open?id=1gClQI1n4AImGiEOA-YhXWIUg7eG5Y8hK
+ATTACH;FILENAME=GxoxhcxbgAApQ9y.jpg;FMTTYPE=image/jpeg:https://drive.google
+ .com/open?id=1-3UhiS7IyvkJ6pb9y3WZpXF55eQoMyTd
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20250903
+DTEND;VALUE=DATE:20250904
+DTSTAMP:20250914T135147Z
+UID:2gtu024472d64radpn159333hj@google.com
+CLASS:PUBLIC
+CREATED:20250812T042228Z
+DESCRIPTION:*9월2일~5일 출발시간과 도착지가 변경되었습니다. 참고 바랍니다!*<br><b>9.3.(수) 09:00 병점</
+ b><b>역 - 세류역(기자회견) - 수원 율전동 성당 (13.9km)</b><br><br>문의 : 오이 010-2612-2322 / 
+ 덕이 010-6795-1202 / 박정상 민주노총 경기도본부 대협국장 010-4146-4131<br>후원계좌 : 농협 351-0391-
+ 7008-93 문정현<br><br>기간: 8. 12.(화) ~ 9. 11.(목)<br><br>행진 경로: 전북지방환경청 - 수라갯벌 -
+  서천갯벌 - 부여 - 공주 - 국토교통부 - 천안 - 평택 - 화성 - 수원 - 안양 - 용산 - 서울행정법원<br><br>주요 일정
+ <br>  - 8월 12일 오전 9시30분 전북지방환경청 새\,사람행진 출발 기자회견<br>  - 8월 13일 오전 9시 수라갯벌 행진
+ 단 선언<br>  - 8월 25일 오후 4시 국토교통부 앞 새만금신공항 강행 규탄 집회<br>  - 8월 31일 큰뒷부리도요를 지키는 
+ 세계 연대 행진의 날<br>  - 9월 6일 용산전쟁기념관 앞 생명지킴이대회<br>  - 9월 8일 오전 11시 서울행정법원 새만금신공
+ 항 취소 인용 촉구 기자회견과 행진 마무리<br>  - 9월 8-10일 서울행정법원 앞 문정현 신부의 서각기도<br>  - 9월 11일
+  오후 1시 55분 새만금신공항 취소 소송 선고 재판<br><br>신청링크: <a href="https://docs.google.com
+ /forms/d/e/1FAIpQLSem5Nwvi24XRZf-F3OMFTvx0H069YH7oFMi2BN8HTUNvTHpoA/viewfor
+ m" target="_blank">https://docs.google.com/forms/d/e/1FAIpQLSem5Nwvi24XRZf-
+ F3OMFTvx0H069YH7oFMi2BN8HTUNvTHpoA/viewform</a><br><br>원본링크: <a href="https
+ ://x.com/kctukgrc1/status/1961204835484893405" target="_blank">https://x.co
+ m/kctukgrc1/status/1961204835484893405</a>
+LAST-MODIFIED:20250829T121954Z
+LOCATION:97\, 대한민국 경기도 화성시 떡전골로 97
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:(화성) 새만금신공항 취소 판결을 바라는 새\,사람행진
+TRANSP:OPAQUE
+ATTACH;FILENAME=GzeZAPBbYAAyTkl.jpg;FMTTYPE=image/jpeg:https://drive.google
+ .com/open?id=1gClQI1n4AImGiEOA-YhXWIUg7eG5Y8hK
+ATTACH;FILENAME=GxoxhcxbgAApQ9y.jpg;FMTTYPE=image/jpeg:https://drive.google
+ .com/open?id=1-3UhiS7IyvkJ6pb9y3WZpXF55eQoMyTd
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20250902
+DTEND;VALUE=DATE:20250903
+DTSTAMP:20250914T135147Z
+UID:6pdq5gi9t3haj61bkug64na0g4@google.com
+CLASS:PUBLIC
+CREATED:20250812T042055Z
+DESCRIPTION:*9월2일~5일 출발시간과 도착지가 변경되었습니다. 참고 바랍니다!*<b></b><br><b>9.2.(화) 09:
+ 00 </b><b>진위역 - 병점성당 (12km)</b><br><br>문의 : 오이 010-2612-2322 / 덕이 010-6795-
+ 1202 / 박정상 민주노총 경기도본부 대협국장 010-4146-4131<br>후원계좌 : 농협 351-0391-7008-93 문정현<
+ br><br>기간: 8. 12.(화) ~ 9. 11.(목)<br><br>행진 경로: 전북지방환경청 - 수라갯벌 - 서천갯벌 - 부여 -
+  공주 - 국토교통부 - 천안 - 평택 - 화성 - 수원 - 안양 - 용산 - 서울행정법원<br><br>주요 일정<br>  - 8월 1
+ 2일 오전 9시30분 전북지방환경청 새\,사람행진 출발 기자회견<br>  - 8월 13일 오전 9시 수라갯벌 행진단 선언<br>  - 
+ 8월 25일 오후 4시 국토교통부 앞 새만금신공항 강행 규탄 집회<br>  - 8월 31일 큰뒷부리도요를 지키는 세계 연대 행진의 날<
+ br>  - 9월 6일 용산전쟁기념관 앞 생명지킴이대회<br>  - 9월 8일 오전 11시 서울행정법원 새만금신공항 취소 인용 촉구 기
+ 자회견과 행진 마무리<br>  - 9월 8-10일 서울행정법원 앞 문정현 신부의 서각기도<br>  - 9월 11일 오후 1시 55분 새
+ 만금신공항 취소 소송 선고 재판<br><br>신청링크: <a href="https://docs.google.com/forms/d/e/1
+ FAIpQLSem5Nwvi24XRZf-F3OMFTvx0H069YH7oFMi2BN8HTUNvTHpoA/viewform" target="_
+ blank">https://docs.google.com/forms/d/e/1FAIpQLSem5Nwvi24XRZf-F3OMFTvx0H06
+ 9YH7oFMi2BN8HTUNvTHpoA/viewform</a><br><br>원본링크: <a href="https://x.com/kct
+ ukgrc1/status/1961204835484893405" target="_blank">https://x.com/kctukgrc1/
+ status/1961204835484893405</a>
+LAST-MODIFIED:20250829T122021Z
+LOCATION:진위역\, 대한민국 평택시
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:(평택) 새만금신공항 취소 판결을 바라는 새\,사람행진
+TRANSP:OPAQUE
+ATTACH;FILENAME=GzeZAPBbYAAyTkl.jpg;FMTTYPE=image/jpeg:https://drive.google
+ .com/open?id=1gClQI1n4AImGiEOA-YhXWIUg7eG5Y8hK
+ATTACH;FILENAME=GxoxhcxbgAApQ9y.jpg;FMTTYPE=image/jpeg:https://drive.google
+ .com/open?id=1-3UhiS7IyvkJ6pb9y3WZpXF55eQoMyTd
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20250831T060000Z
+DTEND:20250831T070000Z
+DTSTAMP:20250914T135147Z
+UID:5md7nc9r9ve0mfaijjt7avl66q@google.com
+CLASS:PUBLIC
+CREATED:20250829T122155Z
+DESCRIPTION:일시 : 8/31(일) 15:00<br>장소 : 진위역(1호선) 앞<br><br>출처 : <a href="http
+ s://x.com/kctukgrc1/status/1961204835484893405">https://x.com/kctukgrc1/sta
+ tus/1961204835484893405</a>
+LAST-MODIFIED:20250829T122155Z
+LOCATION:진위역\, 대한민국 평택시
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:(평택) 새만금신공항 취소 판결을 바라는 새\, 사람 행진 - 남반구와 북반구를 가로지르는 행진 문화제
+TRANSP:OPAQUE
+ATTACH;FILENAME=GzeZUeVaIAACqgx.jpg;FMTTYPE=image/jpeg:https://drive.google
+ .com/open?id=14UzsO1KHOuJQl_dQyJbvHETZEllaKk-_
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20250905T043000Z
+DTEND:20250905T050000Z
+DTSTAMP:20250914T135147Z
+UID:7b9q50rq2vlqa2rs30khjjsja0@google.com
+CLASS:PUBLIC
+CREATED:20250829T122543Z
+DESCRIPTION:일시 : 9/5(금) 13:30<br>장소 : 남태령고개<br>문의 : 오이 010-2612-2322 / 덕이 0
+ 10-6795-1202<br><br>참가 신청 링크 : <a href="https://docs.google.com/forms/d/e/1
+ FAIpQLSem5Nwvi24XRZf-F3OMFTvx0H069YH7oFMi2BN8HTUNvTHpoA/viewform">https://d
+ ocs.google.com/forms/d/e/1FAIpQLSem5Nwvi24XRZf-F3OMFTvx0H069YH7oFMi2BN8HTUN
+ vTHpoA/viewform</a><br><br>출처 : <a href="https://x.com/kctukgrc1/status/196
+ 1204835484893405" target="_blank">https://x.com/kctukgrc1/status/1961204835
+ 484893405</a>
+LAST-MODIFIED:20250829T122657Z
+LOCATION:남태령고개\, 대한민국 과천시
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:(과천) 새만금신공항 취소 판결을 바라는 새\, 사람 행진 기자회견
+TRANSP:OPAQUE
+ATTACH;FILENAME=GzeZY6fa4AAlOkT.jpg;FMTTYPE=image/jpeg:https://drive.google
+ .com/open?id=1daH38KoxI2nXfh89SWulhPT06iuL6Qe0
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20250905
+DTEND;VALUE=DATE:20250906
+DTSTAMP:20250914T135147Z
+UID:7vqlas2dnrdo7kd20dgjdh98i0@google.com
+CLASS:PUBLIC
+CREATED:20250812T042438Z
+DESCRIPTION:*9월2일~5일 출발시간과 도착지가 변경되었습니다. 참고 바랍니다!*<b></b><br><b>9.5.(금) 10:
+ 00 인덕원역</b><b> - 12:30 과천중앙공원 남태령고개 행진 - 이수역 (13km)</b><br><b><br></b>문의 : 
+ 오이 010-2612-2322 / 덕이 010-6795-1202 / 박정상 민주노총 경기도본부 대협국장 010-4146-4131<br>
+ 후원계좌  :농협 351-0391-7008-93 문정현<br><br>기간: 8. 12.(화) ~ 9. 11.(목)<br><br>행진 경
+ 로: 전북지방환경청 - 수라갯벌 - 서천갯벌 - 부여 - 공주 - 국토교통부 - 천안 - 평택 - 화성 - 수원 - 안양 - 용산 - 
+ 서울행정법원<br><br>주요 일정<br>  - 8월 12일 오전 9시30분 전북지방환경청 새\,사람행진 출발 기자회견<br>  - 8
+ 월 13일 오전 9시 수라갯벌 행진단 선언<br>  - 8월 25일 오후 4시 국토교통부 앞 새만금신공항 강행 규탄 집회<br>  - 
+ 8월 31일 큰뒷부리도요를 지키는 세계 연대 행진의 날<br>  - 9월 6일 용산전쟁기념관 앞 생명지킴이대회<br>  - 9월 8일 
+ 오전 11시 서울행정법원 새만금신공항 취소 인용 촉구 기자회견과 행진 마무리<br>  - 9월 8-10일 서울행정법원 앞 문정현 신부의
+  서각기도<br>  - 9월 11일 오후 1시 55분 새만금신공항 취소 소송 선고 재판<br><br>신청링크: <a href="http
+ s://docs.google.com/forms/d/e/1FAIpQLSem5Nwvi24XRZf-F3OMFTvx0H069YH7oFMi2BN
+ 8HTUNvTHpoA/viewform" target="_blank">https://docs.google.com/forms/d/e/1FA
+ IpQLSem5Nwvi24XRZf-F3OMFTvx0H069YH7oFMi2BN8HTUNvTHpoA/viewform</a><br><br>원
+ 본링크: <a href="https://x.com/kctukgrc1/status/1961204835484893405" target="_
+ blank">https://x.com/kctukgrc1/status/1961204835484893405</a>
+LAST-MODIFIED:20250829T122740Z
+LOCATION:인덕원역\, 대한민국 경기도 안양시 동안구 관양2동 흥안대로 지하 529
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:(안양) 새만금신공항 취소 판결을 바라는 새\,사람행진
+TRANSP:OPAQUE
+ATTACH;FILENAME=GzeZAPBbYAAyTkl.jpg;FMTTYPE=image/jpeg:https://drive.google
+ .com/open?id=1gClQI1n4AImGiEOA-YhXWIUg7eG5Y8hK
+ATTACH;FILENAME=GxoxhcxbgAApQ9y.jpg;FMTTYPE=image/jpeg:https://drive.google
+ .com/open?id=1-3UhiS7IyvkJ6pb9y3WZpXF55eQoMyTd
+ATTACH;FILENAME=GzeZY6fa4AAlOkT.jpg;FMTTYPE=image/jpeg:https://drive.google
+ .com/open?id=1daH38KoxI2nXfh89SWulhPT06iuL6Qe0
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=Asia/Seoul:20250826T070000
+DTEND;TZID=Asia/Seoul:20250826T075000
+RRULE:FREQ=WEEKLY;BYDAY=FR,MO,TH,TU,WE
+DTSTAMP:20250914T135147Z
+UID:4jusb6pvg759khc69mgp58recg@google.com
+CLASS:PUBLIC
+CREATED:20250828T032019Z
+DESCRIPTION:일시: 매주 월 ~ 금 07:00 ~ 07:50\n장소: 평택비전푸르지오 아파트\n\n문의: 김기홍 (010-43
+ 10-6939\, 평택안성지역노조 위원장)
+LAST-MODIFIED:20250830T162438Z
+LOCATION:평택비전푸르지오\, 대한민국 경기도 평택시 용이동\,경기도
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:(평택) 경기 평택비전푸르지오 아파트 해고 경비노동자 출근 선전전
+TRANSP:OPAQUE
+ATTACH;FILENAME=KakaoTalk_20250828_111916493.png;FMTTYPE=image/png:https://
+ drive.google.com/open?id=1C9C6CxvikQUHcctPY_mjVvd3DFUbQu4h
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20250905T103000Z
+DTEND:20250905T113000Z
+DTSTAMP:20250914T135147Z
+UID:43guhkrpfcuip2n89hibe5i6q2@google.com
+CLASS:PUBLIC
+CREATED:20250827T044146Z
+DESCRIPTION:일시 : 9/5(금) 19:30<br>장소 : 영화공간 주안 4관(*초청 방식으로 진행합니다)<br>영화 : 〈두
+  사람〉반박지은\, 2022<br><br>텀블벅 굿즈 후원 링크(~8/29) : <a href="https://tumblbug.com/
+ iqcf8" target="_blank"><u>https://tumblbug.com/iqcf8</u></a> <br><br> 카카오같이
+ 가치 후원함 링크 : <a href="https://together.kakao.com/fundraisings/129141/story" 
+ target="_blank"><u>https://together.kakao.com/fundraisings/129141/story</u>
+ </a> <br><br> 자원활동가 참여 신청 링크(~8/28) : <a href="https://docs.google.com/form
+ s/d/e/1FAIpQLSeV0-SghbvupYV0fRPvfLQFDQ9WauKblimovZEXTBZmdR3BOw/viewform" ta
+ rget="_blank"><u>https://docs.google.com/forms/d/e/1FAIpQLSeV0-SghbvupYV0fR
+ PvfLQFDQ9WauKblimovZEXTBZmdR3BOw/viewform</u></a><br><br>출처 : <a href="http
+ s://x.com/iqcf_pride/status/1960245417205014880" target="_blank">https://x.
+ com/iqcf_pride/status/1960245417205014880</a>
+LAST-MODIFIED:20250830T164523Z
+LOCATION:영화공간 주안\, 대한민국 인천광역시 미추홀구 미추홀대로 716
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:(인천) 2025 제8회 인천퀴어문화축제 전야상영회 WITH 인천인권영화제\, 인천여성영화제
+TRANSP:OPAQUE
+ATTACH;FILENAME=GzQw0EXaoAAVPZV.jpg;FMTTYPE=image/jpeg:https://drive.google
+ .com/open?id=1SOG12A0lnBttpjJRBqWwArWZjUNe1LVk
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20250911T060000Z
+DTEND:20250911T063000Z
+DTSTAMP:20250914T135147Z
+UID:0sp5pjthbp65bueip55g7m8an3@google.com
+CLASS:PUBLIC
+CREATED:20250901T123247Z
+DESCRIPTION:일시 : 9/11(목) 15:00<br>장소 : 유성택시(인천시 미추홀구 석정로 329번길 22)<br><br>출
+ 처 : <a href="https://x.com/kptunews/status/1962341127358668987">https://x.c
+ om/kptunews/status/1962341127358668987</a>
+LAST-MODIFIED:20250901T123247Z
+LOCATION:22\, 대한민국 인천광역시 미추홀구 석정로329번길 22
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:(인천) 공공운수노조 유성택시분회 투쟁승리 결의대회
+TRANSP:OPAQUE
+ATTACH;FILENAME=GzuiSE0bcAA2DCK.jpg;FMTTYPE=image/jpeg:https://drive.google
+ .com/open?id=1NH08qzLkjByNIiuCK8K8TcRPM5Ikma-Y
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20250912T100000Z
+DTEND:20250912T110000Z
+DTSTAMP:20250914T135147Z
+UID:7ghlqjj4ls18e3j95an5us4l0v@google.com
+CLASS:PUBLIC
+CREATED:20250902T092701Z
+DESCRIPTION:일시: 9. 12.(금) 19:00<br>장소: 인천평화너머 (인천시 남동구 인주대로 511 우진빌딩 5층)<br
+ ><br>참가 문의: 010-4332-7826<br>원본링크: <a href="https://www.incheontoday.com/ne
+ ws/articleView.html?idxno=307475">https://www.incheontoday.com/news/article
+ View.html?idxno=307475</a>
+LAST-MODIFIED:20250902T092702Z
+LOCATION:511\, 대한민국 인천광역시 남동구 인주대로 511
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:(인천) 배우 권해효에게 듣는 '조선학교'
+TRANSP:OPAQUE
+ATTACH;FILENAME=307475_309351_1840.jpg;FMTTYPE=image/jpeg:https://drive.goo
+ gle.com/open?id=1fpp6WZpJfkLQx0QoW5kf4cJEKtjfpDHq
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20250907T003000Z
+DTEND:20250907T060000Z
+DTSTAMP:20250914T135147Z
+UID:73u1nm6397h0b5bi0kh81qt3cs@google.com
+CLASS:PUBLIC
+CREATED:20250902T093012Z
+DESCRIPTION:일시: 9. 7.(일) 09:30<br>장소: 선바위역 5번출구<br><br>참가비: 2만원(버스비\, 식비)<b
+ r><br>신청링크: <a href="https://docs.google.com/forms/d/e/1FAIpQLSeCeDMQLc4phJ
+ TxDJNkITbl3nydXttMYgJqodE4kTazA0Z4AA/viewform">https://docs.google.com/form
+ s/d/e/1FAIpQLSeCeDMQLc4phJTxDJNkITbl3nydXttMYgJqodE4kTazA0Z4AA/viewform</a>
+ <br>원본링크: <a href="https://x.com/hyeonyoull/status/1962787491280527467">htt
+ ps://x.com/hyeonyoull/status/1962787491280527467</a>
+LAST-MODIFIED:20250902T093012Z
+LOCATION:선바위역5번출구\, 대한민국 과천시
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:(과천) 김형석 등 뉴라이트 기관장 퇴진 촉구 집회 전세버스
+TRANSP:OPAQUE
+ATTACH;FILENAME=Gz04ygLaoAIZHwZ.jpg;FMTTYPE=image/jpeg:https://drive.google
+ .com/open?id=1JaayILCPpnZiR2qwLSTzDEMP9cgQ4CXT
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20250925T050000Z
+DTEND:20250925T070000Z
+DTSTAMP:20250914T135147Z
+UID:7l7r6utjp52g5qli2mlq1m8d2e@google.com
+CLASS:PUBLIC
+CREATED:20250905T145322Z
+DESCRIPTION:일시: 9. 25.(목) 14:00 ~ 16:00<br>장소: 민주노총 경기도본부 5층 대회의실<br><br>원본
+ 링크: <a href="https://x.com/kctukgrc1/status/1963396862821765293">https://x.
+ com/kctukgrc1/status/1963396862821765293</a>
+LAST-MODIFIED:20250905T145322Z
+LOCATION:민주노총 경기도본부\, 대한민국 경기도 수원시 팔달구 경수대로 566
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:(수원) 경기사회대개혁과제 3차 토론회: 기후위기 대응을 위한 경기지역 공공교통 확대 어떻게 가능한가
+TRANSP:OPAQUE
+ATTACH;FILENAME=Gz9jBpVbYAAqqbU.jpg;FMTTYPE=image/jpeg:https://drive.google
+ .com/open?id=1MtKZRsIyaL77Beq6DxUk9qE2u4KgO0Nv
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20250920T020000Z
+DTEND:20250920T090000Z
+DTSTAMP:20250914T135147Z
+UID:4vcqv6paipf7dc6jv36svnfone@google.com
+CLASS:PUBLIC
+CREATED:20250905T145654Z
+DESCRIPTION:일시: 9. 20.(토) 11:00 ~ 18:00<br>장소: 안산 문화광장(경기도 안산시 단원구 광덕대로 157
+ )<br><br>원본링크: <a href="https://x.com/416act/status/1963413517576679553">ht
+ tps://x.com/416act/status/1963413517576679553</a>
+LAST-MODIFIED:20250905T145654Z
+LOCATION:안산문화광장\, 대한민국 경기도 안산시 단원구 광덕대로 157
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:(안산) 노란리본이 노란리본을 만나다
+TRANSP:OPAQUE
+ATTACH;FILENAME=Gz9vOBMbkAAeBQM.jpg;FMTTYPE=image/jpeg:https://drive.google
+ .com/open?id=1HsUocB6SnmXXalqjUX7r1Zyp-T0ozY4-
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20250926T050000Z
+DTEND:20250926T060000Z
+DTSTAMP:20250914T135147Z
+UID:1h86fb8ocsemadhol8cfaf7k9t@google.com
+CLASS:PUBLIC
+CREATED:20250905T161306Z
+DESCRIPTION:일시: 9. 26.(금) 14:00<br>장소: 민주노총 경기도본부 5층 대회의실<br><br>신청링크: <a h
+ ref="https://docs.google.com/forms/d/e/1FAIpQLSfQcb7J5KcGcTIjZebb_UTkVQXs6y
+ hVmofn4IWeFxJext5VXw/viewform">https://docs.google.com/forms/d/e/1FAIpQLSfQ
+ cb7J5KcGcTIjZebb_UTkVQXs6yhVmofn4IWeFxJext5VXw/viewform</a><br>원본링크: <a hre
+ f="https://x.com/kctukgrc1/status/1963831159776747641?s=46&amp\;t=frFzTWA-m
+ ZFwJZsmyf0hhg">https://x.com/kctukgrc1/status/1963831159776747641?s=46&amp\
+ ;t=frFzTWA-mZFwJZsmyf0hhg</a>
+LAST-MODIFIED:20250905T161306Z
+LOCATION:민주노총 경기도본부\, 대한민국 경기도 수원시 팔달구 경수대로 566
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:(수원) 노조법 2조\, 3조 개정 설명회
+TRANSP:OPAQUE
+ATTACH;FILENAME=G0Dt-ZabUAA1oKD.jpg;FMTTYPE=image/jpeg:https://drive.google
+ .com/open?id=1fb4wBOUPE7fB6GCZ0jntYLkgdJP_uRQY
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20250916T090000Z
+DTEND:20250916T100000Z
+DTSTAMP:20250914T135147Z
+UID:4q1nlk0ijp76lev4j7t4jepse3@google.com
+CLASS:PUBLIC
+CREATED:20250910T160010Z
+DESCRIPTION:일시: 9. 16.(화) 18:00\n장소: 주안역(남부)\n\n원본링크: https://kptu.net/boar
+ d/detail.aspx?mid=2B936601&opt=&keyword=&page=2&idx=53572&bid=KPTU_NEW02
+LAST-MODIFIED:20250910T160011Z
+LOCATION:주안역입구\, 인천광역시 주안역입구
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:(인천) 공공운수노조 산별파업·산별투쟁 전국 동시다발 선전전
+TRANSP:OPAQUE
+ATTACH;FILENAME=G0daip8a4AAl1GE.jpg;FMTTYPE=image/jpeg:https://drive.google
+ .com/open?id=1B2Y7Kfbgm-fGIvVFZ732u33W5GgQoNt1
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20250919T003000Z
+DTEND:20250919T013000Z
+DTSTAMP:20250914T135147Z
+UID:39u0gh9e2g9lvgd3bsm9eg8olp@google.com
+CLASS:PUBLIC
+CREATED:20250910T162054Z
+DESCRIPTION:일시: 9. 19.(금) 09:30\n장소: 인천공항 2터미널\n\n원본링크: https://x.com/kptun
+ ews/status/1965639374273454396
+LAST-MODIFIED:20250910T162054Z
+LOCATION:인천국제공항제2여객터미널청사\, 대한민국 인천광역시 중구 공항로 272
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:(인천) 안전한 일터·안전한 공항을 위한 전국공항노동자 총파업대회
+TRANSP:OPAQUE
+ATTACH;FILENAME=G0daip8a4AAl1GE.jpg;FMTTYPE=image/jpeg:https://drive.google
+ .com/open?id=1B2Y7Kfbgm-fGIvVFZ732u33W5GgQoNt1
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20250917T055000Z
+DTEND:20250917T064000Z
+DTSTAMP:20250914T135147Z
+UID:61kaf41maja4ahovsurc4i443c@google.com
+CLASS:PUBLIC
+CREATED:20250914T051402Z
+DESCRIPTION:🕦일시: 2025년 9월 17일(수) 오후 2시 50분 ~3시 40분<br>🏭장소: 기아차 화성공장 북문<br
+ >☂️후원: 우리은행(ㅈㅇㅎ) 1002-231-290446<br>🏭장소: 기아차 화성공장 북문<br>🚗 자차 출발 도착지: 기아차 
+ 화성공장 북문(경기 화성시 우정읍 기아자동차로 95)<p>🚌 대중교통<br>-사당역 9번 출구 앞(8155)-&gt\;조암시장<br>
+ -수원역.AK플라자 정류장 승차(9802번) 승차-&gt\; 조암시장 <br>-<u>조암시장 도착 후 픽업 요청: 이용덕(010-244
+ 9-7332)</u><br><br>신청: <a href="https://docs.google.com/forms/d/e/1FAIpQLSf
+ zf3z3o_zioeUp2JtnSt7Qf7gepFezIMNDqz4W_ahiF6U1AQ/viewform">https://docs.goog
+ le.com/forms/d/e/1FAIpQLSfzf3z3o_zioeUp2JtnSt7Qf7gepFezIMNDqz4W_ahiF6U1AQ/v
+ iewform</a></p>
+LAST-MODIFIED:20250914T051402Z
+LOCATION:기아 AutoLand 화성\, 대한민국 경기도 화성시 기아자동차로 95
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:(화성) 기아차 화성공장 청소노동자 투쟁 연대선전전
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20250916T060000Z
+DTEND:20250916T070000Z
+DTSTAMP:20250914T135147Z
+UID:595g4lfe1pbl3qldtjhfs5elii@google.com
+CLASS:PUBLIC
+CREATED:20250914T064612Z
+DESCRIPTION:금속노조 수입자동차지회 한성자동차 9월 3주차 투쟁\n\n한성서비스센터 순회 파업 집회\n일시: 9월 16일 월\
+ , 15시\n장소: 부평서비스센터 (인천 부평구 길주로 398)\n\n출처: https://x.com/ultrasgoyang/statu
+ s/1966152022467686595
+LAST-MODIFIED:20250914T064612Z
+LOCATION:메르세데스-벤츠 한성자동차 부평 서비스센터\, 대한민국 인천광역시 부평구 산곡동 길주로 398
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:(서울) 금속노조 서울지부 수입자동차지회 한성서비스센터 순회 파업 집회
+TRANSP:OPAQUE
+END:VEVENT
+END:VCALENDAR
