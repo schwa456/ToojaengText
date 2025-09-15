@@ -5,7 +5,7 @@ from icalendar import Calendar
 # 여기에 다운로드한 .ics 파일들이 모여 있는 **폴더 경로**를 입력하세요.
 # 예시: 'C:/Users/YourUser/Downloads/MyCalendars'
 #      'data/malbeolsimin@gmail.com.ical'
-ICS_DIRECTORY_PATH = 'data/malbeolsimin@gmail.com.ical'
+ICS_DIRECTORY_PATH = '../data/malbeolsimin@gmail.com.ical'
 
 
 # -----------------

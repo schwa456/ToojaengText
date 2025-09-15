@@ -6,7 +6,7 @@ import pytz
 # 1. 내용을 확인하고 싶은 .ics 파일의 '전체 경로'를 여기에 입력하세요.
 #    (이전에 사용한 check_ics_files.py로 강원도 캘린더의 파일명을 먼저 확인하세요)
 #
-ICS_FILE_TO_INSPECT = 'data/malbeolsimin@gmail.com.ical/a02fcc932dd53f4525fc19abdf0171db111f3956367ca2c1dfa0dd7d5d9c0b74@group.calendar.google.com.ics'
+ICS_FILE_TO_INSPECT = '../data/malbeolsimin@gmail.com.ical/a02fcc932dd53f4525fc19abdf0171db111f3956367ca2c1dfa0dd7d5d9c0b74@group.calendar.google.com.ics'
 
 
 # -----------------
